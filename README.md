@@ -1,6 +1,15 @@
 # Must-read papers on Recommender System.
 
-临近年末，步入收尾总结阶段，特此梳理研究生阶段所阅推荐系统之经典论文，以期在总结中提高，思考中进步。
+## Traditional Recommender System
+
+Survey
+
+## Social Recommender System
+
+
+
+
+为了更好地理解推荐系统中的技术，特此梳理研究生阶段所阅推荐系统之经典论文，以期在总结中提高，思考中进步。
 
 如若有识之士欲共谋此事，欢迎骚扰。
 
