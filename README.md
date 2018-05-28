@@ -10,7 +10,7 @@ The order of papers is sorted by year.
 
 * Adomavicius et al. **Toward the next generation of recommender systems: A survey of the state-of-the-art and possible extensions**. IEEE transactions on knowledge and data engineering 17.6 (2005): 734-749.
 
-* Su et al. Khoshgoftaar. **A survey of collaborative filtering techniques.** Advances in artificial intelligence 2009 (2009): 4.
+* Su et al. **A survey of collaborative filtering techniques.** Advances in artificial intelligence 2009 (2009): 4.
 
 * Koren et al. **Matrix factorization techniques for recommender systems**. Computer 42.8 (2009).
 
