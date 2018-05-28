@@ -75,7 +75,9 @@ The order of papers is sorted by year.
 
 * Ma, Hao, et al. **Recommender systems with social regularization**. Proceedings of the fourth ACM international conference on Web search and data mining. ACM, 2011.
 
-* Ma et al. **Learning to recommend with explicit and implicit social relations**. ACM Transactions on Intelligent Systems and Technology (TIST) 2.3 (2011): 29.
+* Ma, Hao et al. **Learning to recommend with explicit and implicit social relations.** ACM Transactions on Intelligent Systems and Technology (TIST) 2.3 (2011): 29.
+
+* Ma, Hao et al. **Learning to recommend with explicit and implicit social relations**. ACM Transactions on Intelligent Systems and Technology (TIST) 2.3 (2011): 29.
 
 * Ma, Hao. **An experimental study on implicit social recommendation**. Proceedings of the 36th international ACM SIGIR conference on Research and development in information retrieval. ACM, 2013.
 
