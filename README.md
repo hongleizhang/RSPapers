@@ -99,13 +99,13 @@ The order of papers is sorted by year.
 
 ## Deep Learning based Recommender System
 
-* Salakhutdinov et al. **Restricted Boltzmann machines for collaborative filtering**. ICML., 2007.
+* Salakhutdinov et al. **Restricted Boltzmann machines for collaborative filtering**. ICML, 2007.
 
 * Wang et al. **Collaborative deep learning for recommender systems.** ICDM, 2015.
 
-* Kim et al. **Convolutional matrix factorization for document context-aware recommendation**. Proceedings of the 10th ACM Conference on Recommender Systems. ACM, 2016.
+* Kim et al. **Convolutional matrix factorization for document context-aware recommendation**. RecSys, 2016.
 
-* He et al. **Neural collaborative filtering.** WWW 2017.
+* He et al. **Neural collaborative filtering.** WWW, 2017.
 
 
 ## Cold Start Problem in Recommender System
