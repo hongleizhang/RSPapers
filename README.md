@@ -1,4 +1,10 @@
-# Must-read papers on Recommender System.
+# Must-read papers on Recommender System
+
+This repository provides a list of papers including **surveys**, **classical recommender system**, **social recommender system**, **deep learing-based recommender system** and **cold start problem in recommender system**. 
+
+It contains *a set of comprehensive surveys* about recommender system, collaborative filtering, social recommender system and deep learning based recommender system, *a set of famous recommendation papers* which make predictions with some classic models and *social recommendation papers* which utilize trust/social information in order to alleviate the sparsity of ratings data, and *a set of papers to build a recommender system with deep learning techniques*. Last, there are also *some papers specifically dealing with the cold start problems inherent in collaborative filtering*.
+
+The order of papers is sorted by year.
 
 ## Surveys
 
@@ -15,7 +21,7 @@
 * Zhang et al. **Deep learning based recommender system: A survey and new perspectives**. arXiv preprint arXiv:1707.07435 (2017).
 
 
-## Traditional Recommender System
+## Classical Recommender System
 
 * Resnick et al. **GroupLens: an open architecture for collaborative filtering of netnews**. Proceedings of the 1994 ACM conference on Computer supported cooperative work. ACM, 1994.
 
@@ -106,15 +112,12 @@
 
 
 
+## Acknowledgements
 
+Specially summerize the papers about Recommender Systems for you, and if you have any questions, please contact me generously. Last but not least, the ability of myself is limited so I sincerely look forward to working with you to contribute it.
 
+My Homepage [Honglei Zhang](http://midas.bjtu.edu.cn/Home/MemberStudent/27)
 
-为了更好地理解推荐系统中的技术，特此梳理研究生阶段所阅推荐系统之经典论文，以期在总结中提高，思考中进步。
-
-如若有识之士欲共谋此事，欢迎骚扰。
-
-我的主页[Honglei Zhang](http://midas.bjtu.edu.cn/Home/MemberStudent/27)
-
-我的知乎[张小磊](https://www.zhihu.com/people/hongleizhang)
+My ZhiHu [Honglei Zhang](https://www.zhihu.com/people/hongleizhang)
 
 
