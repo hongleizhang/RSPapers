@@ -22,6 +22,8 @@ The order of papers is sorted by year.
 
 * Shi et al. **Collaborative filtering beyond the user-item matrix: A survey of the state of the art and future challenges**. ACM Computing Surveys (CSUR) 47.1 (2014): 3.
 
+* Chen et al. **Recommender systems based on user reviews: the state of the art.** User Modeling and User-Adapted Interaction 25.2 (2015): 99-154.
+
 * Zhang et al. **Deep learning based recommender system: A survey and new perspectives**. arXiv preprint arXiv:1707.07435 (2017).
 
 
