@@ -10,6 +10,10 @@ The order of papers is sorted by year.
 
 * Adomavicius et al. **Toward the next generation of recommender systems: A survey of the state-of-the-art and possible extensions**. IEEE transactions on knowledge and data engineering 17.6 (2005): 734-749.
 
+* Su et al. Khoshgoftaar. **A survey of collaborative filtering techniques.** Advances in artificial intelligence 2009 (2009): 4.
+
+* Koren et al. **Matrix factorization techniques for recommender systems**. Computer 42.8 (2009).
+
 * Cacheda et al. **Comparison of collaborative filtering algorithms: Limitations of current techniques and proposals for scalable, high-performance recommender systems**. ACM Transactions on the Web (TWEB) 5.1 (2011): 2.
 
 * Tang et al. **Social recommendation: a review**. Social Network Analysis and Mining 3.4 (2013): 1113-1133.
@@ -38,8 +42,6 @@ The order of papers is sorted by year.
 * Weimer et al. **Improving maximum margin matrix factorization**. Machine Learning 72.3 (2008): 263-276.
 
 * Rendle et al. **BPR: Bayesian personalized ranking from implicit feedback**. Proceedings of the twenty-fifth conference on uncertainty in artificial intelligence. AUAI Press, 2009.
-
-* Koren et al. **Matrix factorization techniques for recommender systems**. Computer 42.8 (2009).
 
 * Khoshneshin et al. **Collaborative filtering via euclidean embedding**. Proceedings of the fourth ACM conference on Recommender systems. ACM, 2010.
 
