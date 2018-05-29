@@ -97,6 +97,8 @@ The order of papers is sorted by year.
 
 * Zhang et al. **Collaborative User Network Embedding for Social Recommender Systems**. Proceedings of the 2017 SIAM International Conference on Data Mining. Society for Industrial and Applied Mathematics, 2017.
 
+* Yang et al. **Social collaborative filtering by trust.** IEEE transactions on pattern analysis and machine intelligence 39.8 (2017): 1633-1647.
+
 * Park et al. **UniWalk: Explainable and Accurate Recommendation for Rating and Network Data**. arXiv preprint arXiv:1710.07134 (2017).
 
 * Rafailidis et al. **Learning to Rank with Trust and Distrust in Recommender Systems**. Proceedings of the Eleventh ACM Conference on Recommender Systems. ACM, 2017.
