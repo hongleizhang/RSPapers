@@ -39,6 +39,8 @@ The order of papers is sorted by year.
 
 * Koren et al. **Factorization meets the neighborhood: a multifaceted collaborative filtering model**. Proceedings of the 14th ACM SIGKDD international conference on Knowledge discovery and data mining. ACM, 2008.
 
+* Pan et al. **One-class collaborative filtering.** ICDM, 2008.
+
 * Hu et al. **Collaborative filtering for implicit feedback datasets**. Data Mining, 2008. ICDM'08. Eighth IEEE International Conference on. Ieee, 2008.
 
 * Weimer et al. **Improving maximum margin matrix factorization**. Machine Learning 72.3 (2008): 263-276.
@@ -53,9 +55,13 @@ The order of papers is sorted by year.
 
 * Hu et al. **Your neighbors affect your ratings: on geographical neighborhood influence to rating prediction**. Proceedings of the 37th international ACM SIGIR conference on Research & development in information retrieval. ACM, 2014.
 
+* Hernández-Lobato et al. **Probabilistic matrix factorization with non-random missing data.** ICML. 2014.
+
 * Grbovic et al. **E-commerce in your inbox: Product recommendations at scale**. Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. ACM, 2015.
 
 * Barkan et al. **Item2vec: neural item embedding for collaborative filtering**. Machine Learning for Signal Processing (MLSP), 2016 IEEE 26th International Workshop on. IEEE, 2016.
+
+* Liang et al. **Modeling user exposure in recommendation.** WWW, 2016.
 
 * Hsieh et al. **Collaborative metric learning**. Proceedings of the 26th International Conference on World Wide Web. International World Wide Web Conferences Steering Committee, 2017.
 
