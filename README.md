@@ -29,6 +29,8 @@ The order of papers is sorted by year.
 
 ## Classical Recommender System
 
+* Goldberg et al. **Using collaborative filtering to weave an information tapestry.** Communications of the ACM 35.12 (1992): 61-70.
+
 * Resnick et al. **GroupLens: an open architecture for collaborative filtering of netnews**. Proceedings of the 1994 ACM conference on Computer supported cooperative work. ACM, 1994.
 
 * Sarwar et al. **Item-based collaborative filtering recommendation algorithms**. WWW, 2001.
