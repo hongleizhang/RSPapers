@@ -8,6 +8,8 @@ The order of papers is sorted by year.
 
 ## Surveys
 
+* Burke et al. **Hybrid Recommender Systems: Survey and Experiments**[J]. User Modeling and User-Adapted Interaction, 2002, 12(4):331-370.
+
 * Adomavicius et al. **Toward the next generation of recommender systems: A survey of the state-of-the-art and possible extensions**. IEEE transactions on knowledge and data engineering 17.6 (2005): 734-749.
 
 * Su et al. **A survey of collaborative filtering techniques.** Advances in artificial intelligence 2009 (2009): 4.
