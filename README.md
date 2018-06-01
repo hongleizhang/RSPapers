@@ -107,6 +107,8 @@ The order of papers is sorted by year.
 
 * Zhao et al. **Collaborative Filtering with Social Local Models**. Proceedings of the 16th International Conference on Data Mining. 2017.
 
+* Wang et al. **Collaborative Filtering with Social Exposure: A Modular Approach to Social Recommendation.** AAAI 2017.
+
 
 
 ## Deep Learning based Recommender System
