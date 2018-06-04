@@ -49,7 +49,11 @@ The order of papers is sorted by year.
 
 * Weimer et al. **Improving maximum margin matrix factorization**. Machine Learning 72.3 (2008): 263-276.
 
+* Koren et al. **The bellkor solution to the netflix grand prize.** Netflix prize documentation 81 (2009): 1-10.
+
 * Rendle et al. **BPR: Bayesian personalized ranking from implicit feedback**. Proceedings of the twenty-fifth conference on uncertainty in artificial intelligence. AUAI Press, 2009.
+
+* Koren et al. **Collaborative filtering with temporal dynamics.** Communications of the ACM 53.4 (2010): 89-97.
 
 * Khoshneshin et al. **Collaborative filtering via euclidean embedding**. Proceedings of the fourth ACM conference on Recommender systems. ACM, 2010.
 
