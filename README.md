@@ -109,7 +109,7 @@ The order of papers is sorted by year.
 
 * Zhao et al. **Collaborative Filtering with Social Local Models**. Proceedings of the 16th International Conference on Data Mining. 2017.
 
-* Wang et al. **Collaborative Filtering with Social Exposure: A Modular Approach to Social Recommendation.** AAAI 2017.
+* Wang et al. **Collaborative Filtering with Social Exposure: A Modular Approach to Social Recommendation.** AAAI 2018.
 
 
 
@@ -119,9 +119,17 @@ The order of papers is sorted by year.
 
 * Wang et al. **Collaborative deep learning for recommender systems.** ICDM, 2015.
 
+* Sedhain et al. **Autorec: Autoencoders meet collaborative filtering.** WWW, 2015.
+
+* Zheng et al. **A neural autoregressive approach to collaborative filtering.** ICML, 2016.
+
+* Wu et al. **Collaborative denoising auto-encoders for top-n recommender systems.** WSDM, 2016.
+
 * Kim et al. **Convolutional matrix factorization for document context-aware recommendation**. RecSys, 2016.
 
 * He et al. **Neural collaborative filtering.** WWW, 2017.
+
+* Liang et al. **Variational Autoencoders for Collaborative Filtering.** WWW, 2018.
 
 
 ## Cold Start Problem in Recommender System
