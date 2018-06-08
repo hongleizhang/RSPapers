@@ -97,7 +97,9 @@ The order of papers is sorted by year.
 
 * Zhao et al. **Leveraging social connections to improve personalized ranking for collaborative filtering**. Proceedings of the 23rd ACM International Conference on Conference on Information and Knowledge Management. ACM, 2014.
 
-* Guo et al. **TrustSVD: Collaborative Filtering with Both the Explicit and Implicit Influence of User Trust and of Item Ratings**. AAAI. Vol. 15. 2015.
+* Chen et al. **Context-aware collaborative topic regression with social matrix factorization for recommender systems**. AAAI, 2014.
+
+* Guo et al. **TrustSVD: Collaborative Filtering with Both the Explicit and Implicit Influence of User Trust and of Item Ratings**. AAAI, 2015.
 
 * Wang et al. **Social recommendation with strong and weak ties**. Proceedings of the 25th ACM International on Conference on Information and Knowledge Management. ACM, 2016.
 
