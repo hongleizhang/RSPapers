@@ -26,7 +26,7 @@ The order of papers is sorted by year.
 
 * Chen et al. **Recommender systems based on user reviews: the state of the art.** User Modeling and User-Adapted Interaction 25.2 (2015): 99-154.
 
-* Yonghong et al. **A survey of point-of-interest recommendation in location-based social networks.** In Workshops at AAAI, 2015.
+* Yu et al. **A survey of point-of-interest recommendation in location-based social networks.** In Workshops at AAAI, 2015.
 
 * Zhang et al. **Deep learning based recommender system: A survey and new perspectives**. arXiv preprint arXiv:1707.07435 (2017).
 
@@ -176,7 +176,6 @@ The order of papers is sorted by year.
 Specially summerize the papers about Recommender Systems for you, and if you have any questions, please contact me generously. Last but not least, the ability of myself is limited so I sincerely look forward to working with you to contribute it.
 
 Greatly thank @ShawnSu for collecting papers about POI Recommender Systems.
-
 
 My Homepage [Honglei Zhang](http://midas.bjtu.edu.cn/Home/MemberStudent/27)
 
