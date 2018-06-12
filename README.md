@@ -175,7 +175,7 @@ The order of papers is sorted by year.
 
 Specially summerize the papers about Recommender Systems for you, and if you have any questions, please contact me generously. Last but not least, the ability of myself is limited so I sincerely look forward to working with you to contribute it.
 
-Greatly thank @ShawnSu for collecting papers about POI Recommender Systems.
+Greatly thank @**ShawnSu** for collecting papers about POI Recommender Systems.
 
 My Homepage [Honglei Zhang](http://midas.bjtu.edu.cn/Home/MemberStudent/27)
 
