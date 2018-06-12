@@ -26,6 +26,8 @@ The order of papers is sorted by year.
 
 * Chen et al. **Recommender systems based on user reviews: the state of the art.** User Modeling and User-Adapted Interaction 25.2 (2015): 99-154.
 
+* Yonghong et al. **A survey of point-of-interest recommendation in location-based social networks.** In Workshops at AAAI, 2015.
+
 * Zhang et al. **Deep learning based recommender system: A survey and new perspectives**. arXiv preprint arXiv:1707.07435 (2017).
 
 
@@ -149,10 +151,32 @@ The order of papers is sorted by year.
 * Cohen et al. **Expediting Exploration by Attribute-to-Feature Mapping for Cold-Start Recommendations**. Proceedings of the Eleventh ACM Conference on Recommender Systems. ACM, 2017.
 
 
+## POI Recommender System
+
+* Mao Ye et al. **Exploiting geographical influence for collaborative point-of-interest recommendation.** SIGIR, 2011.
+
+* Chen Cheng et al. **Fused matrix factorization with geographical and social influence in location-based social networks.** AAAI, 2012.
+
+* Jia-Dong et al. **iGSLR: personalized geo-social location recommen dation: a kernel density estimation approach.** SIGSPA, 2013.
+
+* Jia-Dong et al. **Lore: exploiting sequential influence for location recommendations.** SIGSPATIAL, 2014
+
+* Jia-Dong et al. **Geosoca: Exploiting geographical, social and cat egorical correlations for point-of-interest recommendations.** SIGIR, 2015.
+
+* Huayu et al. **Point-of-Interest Recommendations:Learning Potential Check-ins from Friends.** KDD, 2016.
+
+* Jing et al. **Category-aware next point-of-interest recommendation via listwise Bayesian personalized ranking.** IJCAI,2017.
+
+* Jarana et al. **A Personalised Ranking Framework with Multiple Sampling Criteria for Venue Recommendation.** CIKM,2017.
+
+* Huayu et al. **Learning user's intrinsic and extrinsic interests for point-of-interest recommendation: a unified approach.** IJCAI, 2017.
 
 ## Acknowledgements
 
 Specially summerize the papers about Recommender Systems for you, and if you have any questions, please contact me generously. Last but not least, the ability of myself is limited so I sincerely look forward to working with you to contribute it.
+
+Greatly thank @ShawnSu for collecting papers about POI Recommender Systems.
+
 
 My Homepage [Honglei Zhang](http://midas.bjtu.edu.cn/Home/MemberStudent/27)
 
