@@ -61,6 +61,8 @@ The order of papers is sorted by year.
 
 * Koren et al. **Factor in the neighbors: Scalable and accurate collaborative filtering**. ACM Transactions on Knowledge Discovery from Data (TKDD) 4.1 (2010): 1.
 
+* Zhong et al. **Contextual collaborative filtering via hierarchical matrix factorization.** SDM, 2012.
+
 * Lee et al. **Local low-rank matrix approximation**. International Conference on Machine Learning. 2013.
 
 * Hu et al. **Your neighbors affect your ratings: on geographical neighborhood influence to rating prediction**. Proceedings of the 37th international ACM SIGIR conference on Research & development in information retrieval. ACM, 2014.
