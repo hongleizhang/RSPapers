@@ -173,6 +173,13 @@ The order of papers is sorted by year.
 
 * Huayu et al. **Learning user's intrinsic and extrinsic interests for point-of-interest recommendation: a unified approach.** IJCAI, 2017.
 
+
+## Hashing for RS
+
+
+## EE in RS
+
+
 ## Acknowledgements
 
 Specially summerize the papers about Recommender Systems for you, and if you have any questions, please contact me generously. Last but not least, the ability of myself is limited so I sincerely look forward to working with you to contribute it.
