@@ -1,8 +1,8 @@
 # Must-read papers on Recommender System
 
-This repository provides a list of papers including **surveys**, **classical recommender system**, **social recommender system**, **deep learing-based recommender system** and **cold start problem in recommender system**. 
+This repository provides a list of papers including **surveys**, **classical recommender system**, **social recommender system**, **deep learing-based recommender system**, **cold start problem in recommender system**, **Hashing for RS** and **EE in RS**. 
 
-It contains *a set of comprehensive surveys* about recommender system, collaborative filtering, social recommender system and deep learning based recommender system, *a set of famous recommendation papers* which make predictions with some classic models and *social recommendation papers* which utilize trust/social information in order to alleviate the sparsity of ratings data, and *a set of papers to build a recommender system with deep learning techniques*. Last, there are also *some papers specifically dealing with the cold start problems inherent in collaborative filtering*.
+It contains *a set of comprehensive surveys* about recommender system, collaborative filtering, social recommender system and deep learning based recommender system, *a set of famous recommendation papers* which make predictions with some classic models and *social recommendation papers* which utilize trust/social information in order to alleviate the sparsity of ratings data, and *a set of papers to build a recommender system with deep learning techniques*. Next, there are also *some papers specifically dealing with the cold start problems inherent in collaborative filtering*. Then, we collect some *hashing techniques for rs* in order to training efficiently. Last, there are also some articles about *exploration and exploitation problems* in rs.
 
 The order of papers is sorted by year.
 
@@ -178,6 +178,16 @@ The order of papers is sorted by year.
 
 
 ## EE in RS
+
+* Auer et al. **Using confidence bounds for exploitation-exploration trade-offs.** Journal of Machine Learning Research 3.Nov (2002): 397-422.
+
+* Li et al. **A contextual-bandit approach to personalized news article recommendation.** WWW, 2010.
+
+* Li et al. **Exploitation and exploration in a performance based contextual advertising system.** SIGKDD, 2010.
+
+* Chapelle et al. **An empirical evaluation of thompson sampling.** NIPS, 2011.
+
+* Féraud et al. **Random forest for the contextual bandit problem.** Artificial Intelligence and Statistics. 2016.
 
 
 ## Acknowledgements
