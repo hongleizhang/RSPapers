@@ -198,10 +198,10 @@ Greatly thank @**ShawnSu** for collecting papers about POI Recommender Systems.
 
 Greatly thank @**Wang Zhe** for his advice about EE in RS.
 
-Homepage [Honglei Zhang](http://midas.bjtu.edu.cn/Home/MemberStudent/27)
+My Homepage [Honglei Zhang](http://midas.bjtu.edu.cn/Home/MemberStudent/27)
 
-ZhiHu [Honglei Zhang](https://www.zhihu.com/people/hongleizhang)
+My ZhiHu [Honglei Zhang](https://www.zhihu.com/people/hongleizhang)
 
-Gmail hongleizhang1993@gmail.com
+My Gmail hongleizhang1993@gmail.com
 
 
