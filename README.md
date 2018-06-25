@@ -202,6 +202,6 @@ Homepage [Honglei Zhang](http://midas.bjtu.edu.cn/Home/MemberStudent/27)
 
 ZhiHu [Honglei Zhang](https://www.zhihu.com/people/hongleizhang)
 
-Gmail:hongleizhang1993@gmail.com
+Gmail hongleizhang1993@gmail.com
 
 
