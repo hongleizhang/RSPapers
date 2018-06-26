@@ -193,6 +193,9 @@ In progress...
 
 * Féraud et al. **Random forest for the contextual bandit problem.** Artificial Intelligence and Statistics. 2016.
 
+* Li et al. **Collaborative filtering bandits.** SIGIR, 2016.
+
+
 
 ## Acknowledgements
 
