@@ -1,8 +1,21 @@
 # Must-read papers on Recommender System
 
-This repository provides a list of papers including **surveys**, **classical recommender system**, **social recommender system**, **deep learing-based recommender system**, **cold start problem in recommender system**, **Hashing for RS** and **EE in RS**. 
+This repository provides a list of papers including ** comprehensive surveys**, **classical recommender system**, **social recommender system**, **deep learing-based recommender system**, **cold start problem in recommender system**, **hashing for recommender system** and **exploration and exploitation problem in recommender system**. 
 
-It contains *a set of comprehensive surveys* about recommender system, collaborative filtering, social recommender system and deep learning based recommender system, *a set of famous recommendation papers* which make predictions with some classic models and *social recommendation papers* which utilize trust/social information in order to alleviate the sparsity of ratings data, and *a set of papers to build a recommender system with deep learning techniques*. Next, there are also *some papers specifically dealing with the cold start problems inherent in collaborative filtering*. Then, we collect some *hashing techniques for recommender system* in order to training efficiently. Last, there are also some articles about *exploration and exploitation problems* in recommendation.
+* **Surveys:** a set of comprehensive surveys about recommender system, such as hybrid recommender systems, social recommender systems, poi recommender systems, deep-learning based recommonder systems and so on.
+
+* **Classical RS:** a set of famous recommendation papers which make predictions with some classic models and practical theory.
+
+* **Social RS:** several papers which utilize trust/social information in order to alleviate the sparsity of ratings data.
+
+* **Deep Learning-based RS:** a set of papers to build a recommender system with deep learning techniques.
+
+* **Cold Start Problem in RS:** some papers specifically dealing with the cold start problems inherent in collaborative filtering.
+
+* **Hashing for RS:** some hashing techniques for recommender system in order to training and making recommendation efficiently.
+
+* **EE Problem in RS:** some articles about *exploration and exploitation problems* in recommendation.
+
 
 The order of papers is sorted by year.
 
