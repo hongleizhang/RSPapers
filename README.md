@@ -129,6 +129,10 @@ The order of papers is sorted by year.
 
 * Sedhain et al. **Autorec: Autoencoders meet collaborative filtering.** WWW, 2015.
 
+* Covington et al. **Deep neural networks for youtube recommendations.** RecSys, 2016.
+
+* Cheng et al. **Wide & deep learning for recommender systems.** Workshop on RecSys, 2016.
+
 * Zheng et al. **A neural autoregressive approach to collaborative filtering.** ICML, 2016.
 
 * Wu et al. **Collaborative denoising auto-encoders for top-n recommender systems.** WSDM, 2016.
