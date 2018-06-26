@@ -39,6 +39,8 @@ The order of papers is sorted by year.
 
 * Sarwar et al. **Item-based collaborative filtering recommendation algorithms**. WWW, 2001.
 
+* Lemire et al. **Slope one predictors for online rating-based collaborative filtering.** SDM, 2005.
+
 * Zhou et al. **Bipartite network projection and personal recommendation**. Physical Review E 76.4 (2007): 046115.
 
 * Mnih et al. **Probabilistic matrix factorization**. NIPS (2008): 1257-1264.
