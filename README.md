@@ -2,7 +2,7 @@
 
 This repository provides a list of papers including comprehensive surveys, classical recommender system, social recommender system, deep learing-based recommender system, cold start problem in recommender system, hashing for recommender system and exploration and exploitation problem in recommender system. 
 
-====================================================================
+==============================================================================
 
 **01-Surveys:** a set of comprehensive surveys about recommender system, such as hybrid recommender systems, social recommender systems, poi recommender systems, deep-learning based recommonder systems and so on.
 
@@ -18,7 +18,7 @@ This repository provides a list of papers including comprehensive surveys, class
 
 **07-EE Problem in RS:** some articles about exploration and exploitation problems in recommendation.
 
-====================================================================
+==============================================================================
 
 \*All papers are sorted by year for clarity.
 
