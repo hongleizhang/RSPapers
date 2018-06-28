@@ -55,7 +55,11 @@ This repository provides a list of papers including comprehensive surveys, class
 
 * Resnick et al. **GroupLens: an open architecture for collaborative filtering of netnews**. Proceedings of the 1994 ACM conference on Computer supported cooperative work. ACM, 1994.
 
+* Sarwar et al. **Application of dimensionality reduction in recommender system-a case study.** (2000).
+
 * Sarwar et al. **Item-based collaborative filtering recommendation algorithms**. WWW, 2001.
+
+* Linden et al. **Amazon. com recommendations: Item-to-item collaborative filtering.** IEEE Internet computing 7.1 (2003): 76-80.
 
 * Lemire et al. **Slope one predictors for online rating-based collaborative filtering.** SDM, 2005.
 
@@ -71,6 +75,8 @@ This repository provides a list of papers including comprehensive surveys, class
 
 * Weimer et al. **Improving maximum margin matrix factorization**. Machine Learning 72.3 (2008): 263-276.
 
+* Agarwal et al. **Regression-based latent factor models.** SIGKDD, 2009.
+
 * Koren et al. **The bellkor solution to the netflix grand prize.** Netflix prize documentation 81 (2009): 1-10.
 
 * Rendle et al. **BPR: Bayesian personalized ranking from implicit feedback**. UAI, 2009.
@@ -80,6 +86,8 @@ This repository provides a list of papers including comprehensive surveys, class
 * Khoshneshin et al. **Collaborative filtering via euclidean embedding**. RecSys, 2010.
 
 * Koren et al. **Factor in the neighbors: Scalable and accurate collaborative filtering**. ACM Transactions on Knowledge Discovery from Data (TKDD) 4.1 (2010): 1.
+
+* Chen et al. **Feature-based matrix factorization.** arXiv preprint arXiv:1109.2271 (2011).
 
 * Zhong et al. **Contextual collaborative filtering via hierarchical matrix factorization.** SDM, 2012.
 
