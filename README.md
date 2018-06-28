@@ -46,6 +46,8 @@ This repository provides a list of papers including comprehensive surveys, class
 
 * Zhang et al. **Deep learning based recommender system: A survey and new perspectives**. arXiv preprint arXiv:1707.07435 (2017).
 
+* Singhal et al. **Use of Deep Learning in Modern Recommendation System: A Summary of Recent Works.** arXiv preprint arXiv:1712.07525 (2017).
+
 
 ## Classical Recommender System
 
@@ -147,6 +149,8 @@ This repository provides a list of papers including comprehensive surveys, class
 
 * Sedhain et al. **Autorec: Autoencoders meet collaborative filtering.** WWW, 2015.
 
+* Hidasi et al. **Session-based recommendations with recurrent neural networks.** ICLR, 2016.
+
 * Covington et al. **Deep neural networks for youtube recommendations.** RecSys, 2016.
 
 * Cheng et al. **Wide & deep learning for recommender systems.** Workshop on RecSys, 2016.
@@ -159,12 +163,16 @@ This repository provides a list of papers including comprehensive surveys, class
 
 * He et al. **Neural collaborative filtering.** WWW, 2017.
 
+* Zhao et al. **Leveraging Long and Short-term Information in Content-aware Movie Recommendation.** arXiv preprint arXiv:1712.09059 (2017).
+
+* Li et al. **Deep Collaborative Autoencoder for Recommender Systems: A Unified Framework for Explicit and Implicit Feedback.** arXiv preprint arXiv:1712.09043 (2017).
+
 * Liang et al. **Variational Autoencoders for Collaborative Filtering.** WWW, 2018.
 
 
 ## Cold Start Problem in Recommender System
 
-* Gantner et al. **Learning attribute-to-feature mappings for cold-start recommendations**. Data Mining (ICDM), 2010 IEEE 10th International Conference on. IEEE, 2010.
+* Gantner et al. **Learning attribute-to-feature mappings for cold-start recommendations**. ICDM, 2010.
 
 * Sedhain et al. **Low-Rank Linear Cold-Start Recommendation from Social Data**. AAAI. 2017.
 
