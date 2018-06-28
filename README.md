@@ -34,6 +34,8 @@ This repository provides a list of papers including comprehensive surveys, class
 
 * Cacheda et al. **Comparison of collaborative filtering algorithms: Limitations of current techniques and proposals for scalable, high-performance recommender systems**. ACM Transactions on the Web (TWEB) 5.1 (2011): 2.
 
+* Zhang et al. **Tag-aware recommender systems: a state-of-the-art survey.** Journal of computer science and technology 26.5 (2011): 767.
+
 * Tang et al. **Social recommendation: a review**. Social Network Analysis and Mining 3.4 (2013): 1113-1133.
 
 * Yang et al. **A survey of collaborative filtering based social recommender systems**. Computer Communications 41 (2014): 1-10.
