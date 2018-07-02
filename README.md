@@ -30,8 +30,6 @@ This repository provides a list of papers including comprehensive surveys, class
 
 * Su et al. **A survey of collaborative filtering techniques.** Advances in artificial intelligence 2009 (2009): 4.
 
-* Koren et al. **Matrix factorization techniques for recommender systems**. Computer 42.8 (2009).
-
 * Cacheda et al. **Comparison of collaborative filtering algorithms: Limitations of current techniques and proposals for scalable, high-performance recommender systems**. ACM Transactions on the Web (TWEB) 5.1 (2011): 2.
 
 * Zhang et al. **Tag-aware recommender systems: a state-of-the-art survey.** Journal of computer science and technology 26.5 (2011): 767.
@@ -76,6 +74,8 @@ This repository provides a list of papers including comprehensive surveys, class
 * Hu et al. **Collaborative filtering for implicit feedback datasets**. ICDM, 2008.
 
 * Weimer et al. **Improving maximum margin matrix factorization**. Machine Learning 72.3 (2008): 263-276.
+
+* Koren et al. **Matrix factorization techniques for recommender systems**. Computer 42.8 (2009).
 
 * Agarwal et al. **Regression-based latent factor models.** SIGKDD, 2009.
 
