@@ -28,9 +28,9 @@ This repository provides a list of papers including comprehensive surveys, class
 
 * Adomavicius et al. **Toward the next generation of recommender systems: A survey of the state-of-the-art and possible extensions**. IEEE transactions on knowledge and data engineering 17.6 (2005): 734-749.
 
-* Su et al. **A survey of collaborative filtering techniques.** Advances in artificial intelligence 2009 (2009): 4.
+* Su et al. **A survey of collaborative filtering techniques.** Advances in artificial intelligence (2009): 4.
 
-* Cacheda et al. **Comparison of collaborative filtering algorithms: Limitations of current techniques and proposals for scalable, high-performance recommender systems**. ACM Transactions on the Web (TWEB) 5.1 (2011): 2.
+* Cacheda et al. **Comparison of collaborative filtering algorithms: Limitations of current techniques and proposals for scalable, high-performance recommender systems**. ACM Transactions on the Web 5.1 (2011): 2.
 
 * Zhang et al. **Tag-aware recommender systems: a state-of-the-art survey.** Journal of computer science and technology 26.5 (2011): 767.
 
@@ -38,7 +38,7 @@ This repository provides a list of papers including comprehensive surveys, class
 
 * Yang et al. **A survey of collaborative filtering based social recommender systems**. Computer Communications 41 (2014): 1-10.
 
-* Shi et al. **Collaborative filtering beyond the user-item matrix: A survey of the state of the art and future challenges**. ACM Computing Surveys (CSUR) 47.1 (2014): 3.
+* Shi et al. **Collaborative filtering beyond the user-item matrix: A survey of the state of the art and future challenges**. ACM Computing Surveys 47.1 (2014): 3.
 
 * Chen et al. **Recommender systems based on user reviews: the state of the art.** User Modeling and User-Adapted Interaction 25.2 (2015): 99-154.
 
@@ -53,7 +53,7 @@ This repository provides a list of papers including comprehensive surveys, class
 
 * Goldberg et al. **Using collaborative filtering to weave an information tapestry.** Communications of the ACM 35.12 (1992): 61-70.
 
-* Resnick et al. **GroupLens: an open architecture for collaborative filtering of netnews**. Proceedings of the 1994 ACM conference on Computer supported cooperative work. ACM, 1994.
+* Resnick et al. **GroupLens: an open architecture for collaborative filtering of netnews**. CSCW, 1994.
 
 * Sarwar et al. **Application of dimensionality reduction in recommender system-a case study.** (2000).
 
@@ -65,7 +65,7 @@ This repository provides a list of papers including comprehensive surveys, class
 
 * Zhou et al. **Bipartite network projection and personal recommendation**. Physical Review E 76.4 (2007): 046115.
 
-* Mnih et al. **Probabilistic matrix factorization**. NIPS (2008): 1257-1264.
+* Mnih et al. **Probabilistic matrix factorization**. NIPS, 2008.
 
 * Koren et al. **Factorization meets the neighborhood: a multifaceted collaborative filtering model**. SIGKDD, 2008.
 
@@ -87,7 +87,7 @@ This repository provides a list of papers including comprehensive surveys, class
 
 * Khoshneshin et al. **Collaborative filtering via euclidean embedding**. RecSys, 2010.
 
-* Koren et al. **Factor in the neighbors: Scalable and accurate collaborative filtering**. ACM Transactions on Knowledge Discovery from Data (TKDD) 4.1 (2010): 1.
+* Koren et al. **Factor in the neighbors: Scalable and accurate collaborative filtering**. ACM Transactions on Knowledge Discovery from Data 4.1 (2010): 1.
 
 * Chen et al. **Feature-based matrix factorization.** arXiv preprint arXiv:1109.2271 (2011).
 
@@ -103,7 +103,7 @@ This repository provides a list of papers including comprehensive surveys, class
 
 * Grbovic et al. **E-commerce in your inbox: Product recommendations at scale**. ICKM, 2015.
 
-* Barkan et al. **Item2vec: neural item embedding for collaborative filtering**. Machine Learning for Signal Processing (MLSP), 2016.
+* Barkan et al. **Item2vec: neural item embedding for collaborative filtering**. Machine Learning for Signal Processing, 2016.
 
 * Liang et al. **Modeling user exposure in recommendation.** WWW, 2016.
 
@@ -115,7 +115,7 @@ This repository provides a list of papers including comprehensive surveys, class
 
 ## Social Recommender System
 
-* Ma, Hao, et al. **Sorec: social recommendation using probabilistic matrix factorization**. Proceedings of the 17th ACM conference on Information and knowledge management. ACM, 2008.
+* Ma, Hao, et al. **Sorec: social recommendation using probabilistic matrix factorization**. ICKM, 2008.
 
 * Jamali et al. **Trustwalker: a random walk model for combining trust-based and item-based recommendation**. SIGKDD, 2009.
 
@@ -127,7 +127,7 @@ This repository provides a list of papers including comprehensive surveys, class
 
 * Ma, Hao, et al. **Recommender systems with social regularization**. WSDM, 2011.
 
-* Ma, Hao et al. **Learning to recommend with explicit and implicit social relations.** ACM Transactions on Intelligent Systems and Technology (TIST) 2.3 (2011): 29.
+* Ma, Hao et al. **Learning to recommend with explicit and implicit social relations.** ACM Transactions on Intelligent Systems and Technology 2.3 (2011): 29.
 
 * Ma, Hao. **An experimental study on implicit social recommendation**. SIGIR, 2013.
 
@@ -209,9 +209,9 @@ This repository provides a list of papers including comprehensive surveys, class
 
 * Huayu et al. **Point-of-Interest Recommendations:Learning Potential Check-ins from Friends.** KDD, 2016.
 
-* Jing et al. **Category-aware next point-of-interest recommendation via listwise Bayesian personalized ranking.** IJCAI,2017.
+* Jing et al. **Category-aware next point-of-interest recommendation via listwise Bayesian personalized ranking.** IJCAI, 2017.
 
-* Jarana et al. **A Personalised Ranking Framework with Multiple Sampling Criteria for Venue Recommendation.** CIKM,2017.
+* Jarana et al. **A Personalised Ranking Framework with Multiple Sampling Criteria for Venue Recommendation.** CIKM, 2017.
 
 * Huayu et al. **Learning user's intrinsic and extrinsic interests for point-of-interest recommendation: a unified approach.** IJCAI, 2017.
 
