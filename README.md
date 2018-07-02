@@ -99,13 +99,17 @@ This repository provides a list of papers including comprehensive surveys, class
 
 * Hernández-Lobato et al. **Probabilistic matrix factorization with non-random missing data.** ICML. 2014.
 
+* Shi et al. **Semantic path based personalized recommendation on weighted heterogeneous information networks.** CIKM, 2015.
+
 * Grbovic et al. **E-commerce in your inbox: Product recommendations at scale**. ICKM, 2015.
 
 * Barkan et al. **Item2vec: neural item embedding for collaborative filtering**. Machine Learning for Signal Processing (MLSP), 2016.
 
 * Liang et al. **Modeling user exposure in recommendation.** WWW, 2016.
 
-* Hsieh et al. **Collaborative metric learning**. WWW, 2017.
+* Hsieh et al. **Collaborative metric learning.** WWW, 2017.
+
+* Gao et al. **BiNE: Bipartite Network Embedding.** SIGIR, 2018.
 
 
 
