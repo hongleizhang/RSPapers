@@ -218,7 +218,15 @@ This repository provides a list of papers including comprehensive surveys, class
 
 ## Hashing for RS
 
-In progress...
+* Karatzoglou et al. **Collaborative filtering on a budget.** AISTAT, 2010.
+
+* Zhou et al. **Learning binary codes for collaborative filtering.** SIGKDD, 2012.
+
+* Zhang et al. **Preference preserving hashing for efficient recommendation.** SIGIR, 2014.
+
+* Zhang et al. **Discrete collaborative filtering.** SIGIR, 2016.
+
+* Lian et al. **Discrete Content-aware Matrix Factorization.** SIGKDD, 2017.
 
 
 ## EE in RS
@@ -240,6 +248,8 @@ In progress...
 ## Acknowledgements
 
 Specially summerize the papers about Recommender Systems for you, and if you have any questions, please contact me generously. Last but not least, the ability of myself is limited so I sincerely look forward to working with you to contribute it.
+
+Highly thank @**Yujia Zhang** for her summary about Hashing for RS.
 
 Greatly thank @**ShawnSu** for collecting papers about POI Recommender Systems.
 
