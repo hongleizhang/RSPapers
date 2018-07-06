@@ -24,86 +24,86 @@ This repository provides a list of papers including comprehensive surveys, class
 
 ## Surveys
 
-* Burke et al. **Hybrid Recommender Systems: Survey and Experiments**[J]. User Modeling and User-Adapted Interaction, 2002, 12(4):331-370.
+* Burke et al. **Hybrid Recommender Systems: Survey and Experiments.** USER MODEL USER-ADAP, 2002.
 
-* Adomavicius et al. **Toward the next generation of recommender systems: A survey of the state-of-the-art and possible extensions**. IEEE transactions on knowledge and data engineering 17.6 (2005): 734-749.
+* Adomavicius et al. **Toward the next generation of recommender systems: A survey of the state-of-the-art and possible extensions.** IEEE TKDE, 2005.
 
-* Su et al. **A survey of collaborative filtering techniques.** Advances in artificial intelligence (2009): 4.
+* Su et al. **A survey of collaborative filtering techniques.** Advances in artificial intelligence, 2009.
 
-* Cacheda et al. **Comparison of collaborative filtering algorithms: Limitations of current techniques and proposals for scalable, high-performance recommender systems**. ACM Transactions on the Web 5.1 (2011): 2.
+* Cacheda et al. **Comparison of collaborative filtering algorithms: Limitations of current techniques and proposals for scalable, high-performance recommender systems.** ACM TWEB, 2011.
 
-* Zhang et al. **Tag-aware recommender systems: a state-of-the-art survey.** Journal of computer science and technology 26.5 (2011): 767.
+* Zhang et al. **Tag-aware recommender systems: a state-of-the-art survey.** J COMPUT SCI TECHNOL, 2011.
 
-* Tang et al. **Social recommendation: a review**. Social Network Analysis and Mining 3.4 (2013): 1113-1133.
+* Tang et al. **Social recommendation: a review.** SNAM, 2013.
 
-* Yang et al. **A survey of collaborative filtering based social recommender systems**. Computer Communications 41 (2014): 1-10.
+* Yang et al. **A survey of collaborative filtering based social recommender systems.** COMPUT COMMUN, 2014.
 
-* Shi et al. **Collaborative filtering beyond the user-item matrix: A survey of the state of the art and future challenges**. ACM Computing Surveys 47.1 (2014): 3.
+* Shi et al. **Collaborative filtering beyond the user-item matrix: A survey of the state of the art and future challenges.** ACM COMPUT SURV, 2014.
 
-* Chen et al. **Recommender systems based on user reviews: the state of the art.** User Modeling and User-Adapted Interaction 25.2 (2015): 99-154.
+* Chen et al. **Recommender systems based on user reviews: the state of the art.** USER MODEL USER-ADAP, 2015.
 
 * Yu et al. **A survey of point-of-interest recommendation in location-based social networks.** In Workshops at AAAI, 2015.
 
-* Zhang et al. **Deep learning based recommender system: A survey and new perspectives**. arXiv preprint arXiv:1707.07435 (2017).
+* Zhang et al. **Deep learning based recommender system: A survey and new perspectives.** arXiv, 2017.
 
-* Singhal et al. **Use of Deep Learning in Modern Recommendation System: A Summary of Recent Works.** arXiv preprint arXiv:1712.07525 (2017).
+* Singhal et al. **Use of Deep Learning in Modern Recommendation System: A Summary of Recent Works.** arXiv, 2017.
 
 
 ## Classical Recommender System
 
-* Goldberg et al. **Using collaborative filtering to weave an information tapestry.** Communications of the ACM 35.12 (1992): 61-70.
+* Goldberg et al. **Using collaborative filtering to weave an information tapestry.** COMMUN ACM, 1992.
 
-* Resnick et al. **GroupLens: an open architecture for collaborative filtering of netnews**. CSCW, 1994.
+* Resnick et al. **GroupLens: an open architecture for collaborative filtering of netnews.** CSCW, 1994.
 
-* Sarwar et al. **Application of dimensionality reduction in recommender system-a case study.** (2000).
+* Sarwar et al. **Application of dimensionality reduction in recommender system-a case study.** 2000.
 
-* Sarwar et al. **Item-based collaborative filtering recommendation algorithms**. WWW, 2001.
+* Sarwar et al. **Item-based collaborative filtering recommendation algorithms.** WWW, 2001.
 
-* Linden et al. **Amazon. com recommendations: Item-to-item collaborative filtering.** IEEE Internet computing 7.1 (2003): 76-80.
+* Linden et al. **Amazon. com recommendations: Item-to-item collaborative filtering.** IEEE INTERNET COMPUT, 2003.
 
 * Lemire et al. **Slope one predictors for online rating-based collaborative filtering.** SDM, 2005.
 
-* Zhou et al. **Bipartite network projection and personal recommendation**. Physical Review E 76.4 (2007): 046115.
+* Zhou et al. **Bipartite network projection and personal recommendation.** Physical Review E, 2007.
 
-* Mnih et al. **Probabilistic matrix factorization**. NIPS, 2008.
+* Mnih et al. **Probabilistic matrix factorization.** NIPS, 2008.
 
-* Koren et al. **Factorization meets the neighborhood: a multifaceted collaborative filtering model**. SIGKDD, 2008.
+* Koren et al. **Factorization meets the neighborhood: a multifaceted collaborative filtering model.** SIGKDD, 2008.
 
 * Pan et al. **One-class collaborative filtering.** ICDM, 2008.
 
-* Hu et al. **Collaborative filtering for implicit feedback datasets**. ICDM, 2008.
+* Hu et al. **Collaborative filtering for implicit feedback datasets.** ICDM, 2008.
 
-* Weimer et al. **Improving maximum margin matrix factorization**. Machine Learning 72.3 (2008): 263-276.
+* Weimer et al. **Improving maximum margin matrix factorization.** Machine Learning, 2008.
 
-* Koren et al. **Matrix factorization techniques for recommender systems**. Computer 42.8 (2009).
+* Koren et al. **Matrix factorization techniques for recommender systems.** Computer, 2009.
 
 * Agarwal et al. **Regression-based latent factor models.** SIGKDD, 2009.
 
-* Koren et al. **The bellkor solution to the netflix grand prize.** Netflix prize documentation 81 (2009): 1-10.
+* Koren et al. **The bellkor solution to the netflix grand prize.** Netflix prize documentation, 2009.
 
-* Rendle et al. **BPR: Bayesian personalized ranking from implicit feedback**. UAI, 2009.
+* Rendle et al. **BPR: Bayesian personalized ranking from implicit feedback.** UAI, 2009.
 
-* Koren et al. **Collaborative filtering with temporal dynamics.** Communications of the ACM 53.4 (2010): 89-97.
+* Koren et al. **Collaborative filtering with temporal dynamics.** COMMUN ACM, 2010.
 
-* Khoshneshin et al. **Collaborative filtering via euclidean embedding**. RecSys, 2010.
+* Khoshneshin et al. **Collaborative filtering via euclidean embedding.** RecSys, 2010.
 
-* Koren et al. **Factor in the neighbors: Scalable and accurate collaborative filtering**. ACM Transactions on Knowledge Discovery from Data 4.1 (2010): 1.
+* Koren et al. **Factor in the neighbors: Scalable and accurate collaborative filtering.** TKDD, 2010.
 
-* Chen et al. **Feature-based matrix factorization.** arXiv preprint arXiv:1109.2271 (2011).
+* Chen et al. **Feature-based matrix factorization.** arXiv, 2011.
 
 * Zhong et al. **Contextual collaborative filtering via hierarchical matrix factorization.** SDM, 2012.
 
-* Lee et al. **Local low-rank matrix approximation**. ICML. 2013.
+* Lee et al. **Local low-rank matrix approximation.** ICML, 2013.
 
-* Hu et al. **Your neighbors affect your ratings: on geographical neighborhood influence to rating prediction**. SIGIR, 2014.
+* Hu et al. **Your neighbors affect your ratings: on geographical neighborhood influence to rating prediction.** SIGIR, 2014.
 
-* Hernández-Lobato et al. **Probabilistic matrix factorization with non-random missing data.** ICML. 2014.
+* Hernández-Lobato et al. **Probabilistic matrix factorization with non-random missing data.** ICML, 2014.
 
 * Shi et al. **Semantic path based personalized recommendation on weighted heterogeneous information networks.** CIKM, 2015.
 
-* Grbovic et al. **E-commerce in your inbox: Product recommendations at scale**. ICKM, 2015.
+* Grbovic et al. **E-commerce in your inbox: Product recommendations at scale.** ICKM, 2015.
 
-* Barkan et al. **Item2vec: neural item embedding for collaborative filtering**. Machine Learning for Signal Processing, 2016.
+* Barkan et al. **Item2vec: neural item embedding for collaborative filtering.** Machine Learning for Signal Processing, 2016.
 
 * Liang et al. **Modeling user exposure in recommendation.** WWW, 2016.
 
@@ -115,49 +115,49 @@ This repository provides a list of papers including comprehensive surveys, class
 
 ## Social Recommender System
 
-* Ma, Hao, et al. **Sorec: social recommendation using probabilistic matrix factorization**. ICKM, 2008.
+* Ma, Hao, et al. **Sorec: social recommendation using probabilistic matrix factorization.** ICKM, 2008.
 
-* Jamali et al. **Trustwalker: a random walk model for combining trust-based and item-based recommendation**. SIGKDD, 2009.
+* Jamali et al. **Trustwalker: a random walk model for combining trust-based and item-based recommendation.** SIGKDD, 2009.
 
-* Ma et al. **Learning to recommend with trust and distrust relationships**. RecSys, 2009.
+* Ma et al. **Learning to recommend with trust and distrust relationships.** RecSys, 2009.
 
-* Ma et al. **Learning to recommend with social trust ensemble**. SIGIR, 2009.
+* Ma et al. **Learning to recommend with social trust ensemble.** SIGIR, 2009.
 
-* Jamali et al. **A matrix factorization technique with trust propagation for recommendation in social networks**. RecSys, 2010.
+* Jamali et al. **A matrix factorization technique with trust propagation for recommendation in social networks.** RecSys, 2010.
 
-* Ma, Hao, et al. **Recommender systems with social regularization**. WSDM, 2011.
+* Ma, Hao, et al. **Recommender systems with social regularization.** WSDM, 2011.
 
-* Ma, Hao et al. **Learning to recommend with explicit and implicit social relations.** ACM Transactions on Intelligent Systems and Technology 2.3 (2011): 29.
+* Ma, Hao et al. **Learning to recommend with explicit and implicit social relations.** ACM T INTEL SYST TEC, 2011.
 
-* Ma, Hao. **An experimental study on implicit social recommendation**. SIGIR, 2013.
+* Ma, Hao. **An experimental study on implicit social recommendation.** SIGIR, 2013.
 
-* Zhao et al. **Leveraging social connections to improve personalized ranking for collaborative filtering**. ICKM, 2014.
+* Zhao et al. **Leveraging social connections to improve personalized ranking for collaborative filtering.** ICKM, 2014.
 
-* Chen et al. **Context-aware collaborative topic regression with social matrix factorization for recommender systems**. AAAI, 2014.
+* Chen et al. **Context-aware collaborative topic regression with social matrix factorization for recommender systems.** AAAI, 2014.
 
-* Guo et al. **TrustSVD: Collaborative Filtering with Both the Explicit and Implicit Influence of User Trust and of Item Ratings**. AAAI, 2015.
+* Guo et al. **TrustSVD: Collaborative Filtering with Both the Explicit and Implicit Influence of User Trust and of Item Ratings.** AAAI, 2015.
 
-* Wang et al. **Social recommendation with strong and weak ties**. ICKM, 2016.
+* Wang et al. **Social recommendation with strong and weak ties.** ICKM, 2016.
 
-* Li et al. **Social recommendation using Euclidean embedding**. IJCNN, 2017.
+* Li et al. **Social recommendation using Euclidean embedding.** IJCNN, 2017.
 
-* Zhang et al. **Collaborative User Network Embedding for Social Recommender Systems**. SDM, 2017.
+* Zhang et al. **Collaborative User Network Embedding for Social Recommender Systems.** SDM, 2017.
 
-* Yang et al. **Social collaborative filtering by trust.** IEEE transactions on pattern analysis and machine intelligence 39.8 (2017): 1633-1647.
+* Yang et al. **Social collaborative filtering by trust.** IEEE T PATTERN ANAL, 2017.
 
-* Park et al. **UniWalk: Explainable and Accurate Recommendation for Rating and Network Data**. arXiv preprint arXiv:1710.07134 (2017).
+* Park et al. **UniWalk: Explainable and Accurate Recommendation for Rating and Network Data.** arXiv, 2017.
 
-* Rafailidis et al. **Learning to Rank with Trust and Distrust in Recommender Systems**. RecSys, 2017.
+* Rafailidis et al. **Learning to Rank with Trust and Distrust in Recommender Systems.** RecSys, 2017.
 
-* Zhao et al. **Collaborative Filtering with Social Local Models**. ICDM, 2017.
+* Zhao et al. **Collaborative Filtering with Social Local Models.** ICDM, 2017.
 
-* Wang et al. **Collaborative Filtering with Social Exposure: A Modular Approach to Social Recommendation.** AAAI 2018.
+* Wang et al. **Collaborative Filtering with Social Exposure: A Modular Approach to Social Recommendation.** AAAI, 2018.
 
 
 
 ## Deep Learning based Recommender System
 
-* Salakhutdinov et al. **Restricted Boltzmann machines for collaborative filtering**. ICML, 2007.
+* Salakhutdinov et al. **Restricted Boltzmann machines for collaborative filtering.** ICML, 2007.
 
 * Wang et al. **Collaborative deep learning for recommender systems.** ICDM, 2015.
 
@@ -173,39 +173,39 @@ This repository provides a list of papers including comprehensive surveys, class
 
 * Wu et al. **Collaborative denoising auto-encoders for top-n recommender systems.** WSDM, 2016.
 
-* Kim et al. **Convolutional matrix factorization for document context-aware recommendation**. RecSys, 2016.
+* Kim et al. **Convolutional matrix factorization for document context-aware recommendation.** RecSys, 2016.
 
 * He et al. **Neural collaborative filtering.** WWW, 2017.
 
-* Zhao et al. **Leveraging Long and Short-term Information in Content-aware Movie Recommendation.** arXiv preprint arXiv:1712.09059 (2017).
+* Zhao et al. **Leveraging Long and Short-term Information in Content-aware Movie Recommendation.** arXiv, 2017.
 
-* Li et al. **Deep Collaborative Autoencoder for Recommender Systems: A Unified Framework for Explicit and Implicit Feedback.** arXiv preprint arXiv:1712.09043 (2017).
+* Li et al. **Deep Collaborative Autoencoder for Recommender Systems: A Unified Framework for Explicit and Implicit Feedback.** arXiv, 2017.
 
 * Liang et al. **Variational Autoencoders for Collaborative Filtering.** WWW, 2018.
 
 
 ## Cold Start Problem in Recommender System
 
-* Gantner et al. **Learning attribute-to-feature mappings for cold-start recommendations**. ICDM, 2010.
+* Gantner et al. **Learning attribute-to-feature mappings for cold-start recommendations.** ICDM, 2010.
 
-* Sedhain et al. **Low-Rank Linear Cold-Start Recommendation from Social Data**. AAAI. 2017.
+* Sedhain et al. **Low-Rank Linear Cold-Start Recommendation from Social Data.** AAAI. 2017.
 
-* Man et al. **Cross-domain recommendation: an embedding and mapping approach**. IJCAI, 2017.
+* Man et al. **Cross-domain recommendation: an embedding and mapping approach.** IJCAI, 2017.
 
-* Cohen et al. **Expediting Exploration by Attribute-to-Feature Mapping for Cold-Start Recommendations**. RecSys, 2017.
+* Cohen et al. **Expediting Exploration by Attribute-to-Feature Mapping for Cold-Start Recommendations.** RecSys, 2017.
 
 
 ## POI Recommender System
 
-* Mao Ye et al. **Exploiting geographical influence for collaborative point-of-interest recommendation.** SIGIR, 2011.
+* Mao et al. **Exploiting geographical influence for collaborative point-of-interest recommendation.** SIGIR, 2011.
 
-* Chen Cheng et al. **Fused matrix factorization with geographical and social influence in location-based social networks.** AAAI, 2012.
+* Chen et al. **Fused matrix factorization with geographical and social influence in location-based social networks.** AAAI, 2012.
 
-* Jia-Dong et al. **iGSLR: personalized geo-social location recommen dation: a kernel density estimation approach.** SIGSPA, 2013.
+* Jia et al. **iGSLR: personalized geo-social location recommen dation: a kernel density estimation approach.** SIGSPA, 2013.
 
-* Jia-Dong et al. **Lore: exploiting sequential influence for location recommendations.** SIGSPATIAL, 2014
+* Jia et al. **Lore: exploiting sequential influence for location recommendations.** SIGSPATIAL, 2014
 
-* Jia-Dong et al. **Geosoca: Exploiting geographical, social and cat egorical correlations for point-of-interest recommendations.** SIGIR, 2015.
+* Jia et al. **Geosoca: Exploiting geographical, social and cat egorical correlations for point-of-interest recommendations.** SIGIR, 2015.
 
 * Huayu et al. **Point-of-Interest Recommendations:Learning Potential Check-ins from Friends.** KDD, 2016.
 
@@ -223,7 +223,7 @@ In progress...
 
 ## EE in RS
 
-* Auer et al. **Using confidence bounds for exploitation-exploration trade-offs.** Journal of Machine Learning Research 3.Nov (2002): 397-422.
+* Auer et al. **Using confidence bounds for exploitation-exploration trade-offs.** JMLR, 2002.
 
 * Li et al. **A contextual-bandit approach to personalized news article recommendation.** WWW, 2010.
 
