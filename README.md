@@ -47,7 +47,7 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Chen et al. **Recommender systems based on user reviews: the state of the art.** USER MODEL USER-ADAP, 2015.
 
-* Xu et al. **Social networking meets recommender systems: survey.** IJSNM, 2015.
+* Xu et al. **Social networking meets recommender systems: survey.** Int.J.Social Network Mining, 2015.
 
 * Yu et al. **A survey of point-of-interest recommendation in location-based social networks.** In Workshops at AAAI, 2015.
 
@@ -255,6 +255,8 @@ the user with the recommendations, but also make the user aware why such items a
 ## Explainability on RS
 
 * Park et al. **UniWalk: Explainable and Accurate Recommendation for Rating and Network Data.** arXiv, 2017.
+
+* Huang et al. **Improving Sequential Recommendation with Knowledge-Enhanced Memory Networks.** SIGIR, 2018.
 
 
 ## Acknowledgements
