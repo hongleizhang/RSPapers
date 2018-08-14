@@ -192,6 +192,7 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Liang et al. **Variational Autoencoders for Collaborative Filtering.** WWW, 2018.
 
+* Ebesu et al. **Collaborative Memory Network for Recommendation Systems.** SIGIR, 2018.
 
 ## Cold Start Problem in Recommender System
 
