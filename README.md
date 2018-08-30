@@ -91,6 +91,8 @@ This repository provides a list of papers including comprehensive surveys, class
 
 * Chen et al. **Feature-based matrix factorization.** arXiv, 2011.
 
+* Rendle. **Learning recommender systems with adaptive regularization.** WSDM, 2012.
+
 * Zhong et al. **Contextual collaborative filtering via hierarchical matrix factorization.** SDM, 2012.
 
 * Lee et al. **Local low-rank matrix approximation.** ICML, 2013.
