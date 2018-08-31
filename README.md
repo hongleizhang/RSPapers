@@ -59,7 +59,7 @@ This repository provides a list of papers including comprehensive surveys, class
 
 * Sarwar et al. **Item-based collaborative filtering recommendation algorithms.** WWW, 2001.
 
-* Linden et al. **Amazon. com recommendations: Item-to-item collaborative filtering.** IEEE INTERNET COMPUT, 2003.
+* Linden et al. **Amazon.com recommendations: Item-to-item collaborative filtering.** IEEE INTERNET COMPUT, 2003.
 
 * Lemire et al. **Slope one predictors for online rating-based collaborative filtering.** SDM, 2005.
 
