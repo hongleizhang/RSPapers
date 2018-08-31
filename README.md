@@ -1,6 +1,6 @@
 # Must-read papers on Recommender System
 
-This repository provides a list of papers including comprehensive surveys, classical recommender system, social recommender system, deep learing-based recommender system, cold start problem in recommender system, hashing for recommender system and exploration and exploitation problem in recommender system. 
+This repository provides a list of papers including comprehensive surveys, classical recommender system, social recommender system, deep learing-based recommender system, cold start problem in recommender system, hashing for recommender system, exploration and exploitation problem as well as explainability in recommender system.
 
 ==============================================================================
 
@@ -14,9 +14,14 @@ This repository provides a list of papers including comprehensive surveys, class
 
 **05-Cold Start Problem in RS:** some papers specifically dealing with the cold start problems inherent in collaborative filtering.
 
-**06-Hashing for RS:** some hashing techniques for recommender system in order to training and making recommendation efficiently.
+**06-POI RS:** it focus on helping users explore attractive locations with the information of location-based social networks.
 
-**07-EE Problem in RS:** some articles about exploration and exploitation problems in recommendation.
+**07-Hashing for RS:** some hashing techniques for recommender system in order to training and making recommendation efficiently.
+
+**08-EE Problem in RS:** some articles about exploration and exploitation problems in recommendation.
+
+**09-Explainability on RS:** it focus on addressing the problem of 'why', they not only provide
+the user with the recommendations, but also make the user aware why such items are recommended by generating recommendation explanations, 
 
 ==============================================================================
 
@@ -42,11 +47,15 @@ This repository provides a list of papers including comprehensive surveys, class
 
 * Chen et al. **Recommender systems based on user reviews: the state of the art.** USER MODEL USER-ADAP, 2015.
 
+* Xu et al. **Social networking meets recommender systems: survey.** Int.J.Social Network Mining, 2015.
+
 * Yu et al. **A survey of point-of-interest recommendation in location-based social networks.** In Workshops at AAAI, 2015.
 
 * Zhang et al. **Deep learning based recommender system: A survey and new perspectives.** arXiv, 2017.
 
 * Singhal et al. **Use of Deep Learning in Modern Recommendation System: A Summary of Recent Works.** arXiv, 2017.
+
+* Zhang et al. **Explainable Recommendation: A Survey and New Perspectives.** arXiv, 2018.
 
 
 ## Classical Recommender System
@@ -185,6 +194,7 @@ This repository provides a list of papers including comprehensive surveys, class
 
 * Liang et al. **Variational Autoencoders for Collaborative Filtering.** WWW, 2018.
 
+* Ebesu et al. **Collaborative Memory Network for Recommendation Systems.** SIGIR, 2018.
 
 ## Cold Start Problem in Recommender System
 
@@ -245,13 +255,18 @@ This repository provides a list of papers including comprehensive surveys, class
 
 * Li et al. **Collaborative filtering bandits.** SIGIR, 2016.
 
+## Explainability on RS
+
+* Park et al. **UniWalk: Explainable and Accurate Recommendation for Rating and Network Data.** arXiv, 2017.
+
+* Huang et al. **Improving Sequential Recommendation with Knowledge-Enhanced Memory Networks.** SIGIR, 2018.
 
 
 ## Acknowledgements
 
 Specially summerize the papers about Recommender Systems for you, and if you have any questions, please contact me generously. Last but not least, the ability of myself is limited so I sincerely look forward to working with you to contribute it.
 
-Highly thank @**Yujia Zhang** for her summary about Hashing for RS.
+Highly thank @**Yujia Zhang** for her summary on Hashing for RS.
 
 Greatly thank @**ShawnSu** for collecting papers about POI Recommender Systems.
 
