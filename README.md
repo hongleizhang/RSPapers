@@ -261,6 +261,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Huang et al. **Improving Sequential Recommendation with Knowledge-Enhanced Memory Networks.** SIGIR, 2018.
 
+* Wang et al. **Tem: Tree-enhanced embedding model for explainable recommendation.** WWW, 2018.
+
 
 ## Acknowledgements
 
