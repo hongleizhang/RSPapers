@@ -68,7 +68,7 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Sarwar et al. **Item-based collaborative filtering recommendation algorithms.** WWW, 2001.
 
-* Linden et al. **Amazon. com recommendations: Item-to-item collaborative filtering.** IEEE INTERNET COMPUT, 2003.
+* Linden et al. **Amazon.com recommendations: Item-to-item collaborative filtering.** IEEE INTERNET COMPUT, 2003.
 
 * Lemire et al. **Slope one predictors for online rating-based collaborative filtering.** SDM, 2005.
 
@@ -99,6 +99,8 @@ the user with the recommendations, but also make the user aware why such items a
 * Koren et al. **Factor in the neighbors: Scalable and accurate collaborative filtering.** TKDD, 2010.
 
 * Chen et al. **Feature-based matrix factorization.** arXiv, 2011.
+
+* Rendle. **Learning recommender systems with adaptive regularization.** WSDM, 2012.
 
 * Zhong et al. **Contextual collaborative filtering via hierarchical matrix factorization.** SDM, 2012.
 
@@ -258,6 +260,8 @@ the user with the recommendations, but also make the user aware why such items a
 * Park et al. **UniWalk: Explainable and Accurate Recommendation for Rating and Network Data.** arXiv, 2017.
 
 * Huang et al. **Improving Sequential Recommendation with Knowledge-Enhanced Memory Networks.** SIGIR, 2018.
+
+* Wang et al. **Tem: Tree-enhanced embedding model for explainable recommendation.** WWW, 2018.
 
 
 ## Acknowledgements
