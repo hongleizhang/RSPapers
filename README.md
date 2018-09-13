@@ -270,7 +270,6 @@ Greatly thank @**ShawnSu** for collecting papers about POI Recommender Systems.
 
 Greatly thank @**Wang Zhe** for his advice about EE in RS.
 
-My Homepage: [Honglei Zhang](http://midas.bjtu.edu.cn/Home/MemberStudent/27)
 
 My ZhiHu: [Honglei Zhang](https://www.zhihu.com/people/hongleizhang)
 
