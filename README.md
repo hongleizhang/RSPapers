@@ -196,6 +196,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Ebesu et al. **Collaborative Memory Network for Recommendation Systems.** SIGIR, 2018.
 
+* Li et al. **Learning from History and Present: Next-item Recommendation via Discriminatively Exploiting User Behaviors.** KDD, 2018.
+
 ## Cold Start Problem in Recommender System
 
 * Gantner et al. **Learning attribute-to-feature mappings for cold-start recommendations.** ICDM, 2010.
