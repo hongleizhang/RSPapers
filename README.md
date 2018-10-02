@@ -200,10 +200,14 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Ebesu et al. **Collaborative Memory Network for Recommendation Systems.** SIGIR, 2018.
 
+<<<<<<< HEAD
 * Lian et al. **xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems.** arXiv, 2018.
 
 * Zhang et al. **Next Item Recommendation with Self-Attention.** 2018.
 
+=======
+* Li et al. **Learning from History and Present: Next-item Recommendation via Discriminatively Exploiting User Behaviors.** KDD, 2018.
+>>>>>>> 8dc6d9680c60829628a16f2453e3cf1ed6f55c44
 
 ## Cold Start Problem in Recommender System
 
