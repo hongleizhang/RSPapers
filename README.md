@@ -51,9 +51,11 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Yu et al. **A survey of point-of-interest recommendation in location-based social networks.** In Workshops at AAAI, 2015.
 
-* Zhang et al. **Deep learning based recommender system: A survey and new perspectives.** arXiv, 2017.
-
 * Singhal et al. **Use of Deep Learning in Modern Recommendation System: A Summary of Recent Works.** arXiv, 2017.
+
+* Zhang et al. **Deep learning based recommender system: A survey and new perspectives.** ACM Comput.Surv, 2018.
+
+* Batmaz et al. **A review on deep learning for recommender systems: challenges and remedies.** Artificial Intelligence Review, 2018.
 
 * Zhang et al. **Explainable Recommendation: A Survey and New Perspectives.** arXiv, 2018.
 
@@ -121,6 +123,8 @@ the user with the recommendations, but also make the user aware why such items a
 * Hsieh et al. **Collaborative metric learning.** WWW, 2017.
 
 * Gao et al. **BiNE: Bipartite Network Embedding.** SIGIR, 2018.
+
+* Zhang et al. **Metric Factorization: Recommendation beyond Matrix Factorization.** 2018.
 
 
 
@@ -195,6 +199,11 @@ the user with the recommendations, but also make the user aware why such items a
 * Liang et al. **Variational Autoencoders for Collaborative Filtering.** WWW, 2018.
 
 * Ebesu et al. **Collaborative Memory Network for Recommendation Systems.** SIGIR, 2018.
+
+* Lian et al. **xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems.** arXiv, 2018.
+
+* Zhang et al. **Next Item Recommendation with Self-Attention.** 2018.
+
 
 ## Cold Start Problem in Recommender System
 
