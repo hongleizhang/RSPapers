@@ -192,6 +192,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * He et al. **Neural collaborative filtering.** WWW, 2017.
 
+* Zheng et al. **Joint deep modeling of users and items using reviews for recommendation.** WSDM, 2017.
+
 * Zhao et al. **Leveraging Long and Short-term Information in Content-aware Movie Recommendation.** arXiv, 2017.
 
 * Li et al. **Deep Collaborative Autoencoder for Recommender Systems: A Unified Framework for Explicit and Implicit Feedback.** arXiv, 2017.
