@@ -108,6 +108,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Lee et al. **Local low-rank matrix approximation.** ICML, 2013.
 
+* Kabbur et al. **Fism: factored item similarity models for top-n recommender systems.** KDD, 2013.
+
 * Hu et al. **Your neighbors affect your ratings: on geographical neighborhood influence to rating prediction.** SIGIR, 2014.
 
 * Hernández-Lobato et al. **Probabilistic matrix factorization with non-random missing data.** ICML, 2014.
