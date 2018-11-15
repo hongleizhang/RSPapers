@@ -116,7 +116,7 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Shi et al. **Semantic path based personalized recommendation on weighted heterogeneous information networks.** CIKM, 2015.
 
-* Grbovic et al. **E-commerce in your inbox: Product recommendations at scale.** ICKM, 2015.
+* Grbovic et al. **E-commerce in your inbox: Product recommendations at scale.** KDD, 2015.
 
 * Barkan et al. **Item2vec: neural item embedding for collaborative filtering.** Machine Learning for Signal Processing, 2016.
 
@@ -204,13 +204,21 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Ebesu et al. **Collaborative Memory Network for Recommendation Systems.** SIGIR, 2018.
 
-* Lian et al. **xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems.** arXiv, 2018.
+* Lian et al. **xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems.** KDD, 2018.
 
 * Zhang et al. **Next Item Recommendation with Self-Attention.** 2018.
 
 * Li et al. **Learning from History and Present: Next-item Recommendation via Discriminatively Exploiting User Behaviors.** KDD, 2018.
 
 * Grbovic et al. **Real-time Personalization using Embeddings for Search Ranking at Airbnb.** KDD, 2018.
+
+* Ying et al. **Graph Convolutional Neural Networks for Web-Scale Recommender Systems.** KDD, 2018.
+
+* Hu et al. **Leveraging meta-path based context for top-n recommendation with a neural co-attention model.** KDD, 2018.
+
+* Christakopoulou et al. **Local Latent Space Models for Top-N Recommendation.** KDD, 2018.
+
+* Bhagat et al. **Buy It Again: Modeling Repeat Purchase Recommendations.** KDD, 2018.
 
 
 ## Cold Start Problem in Recommender System
