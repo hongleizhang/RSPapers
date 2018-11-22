@@ -170,6 +170,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Wang et al. **Collaborative Filtering with Social Exposure: A Modular Approach to Social Recommendation.** AAAI, 2018.
 
+* Wen et al. **Network embedding based recommendation method in social networks.** WWW Poster, 2018.
+
 
 
 ## Deep Learning based Recommender System
