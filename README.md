@@ -220,6 +220,10 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Bhagat et al. **Buy It Again: Modeling Repeat Purchase Recommendations.** KDD, 2018.
 
+* Wang et al. **Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba.** arXiv, 2018.
+
+* Tran et al. **Regularizing Matrix Factorization with User and Item Embeddings for Recommendation.** CIKM, 2018.
+
 
 ## Cold Start Problem in Recommender System
 
