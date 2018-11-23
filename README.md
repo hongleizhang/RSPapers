@@ -122,6 +122,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Liang et al. **Modeling user exposure in recommendation.** WWW, 2016.
 
+* He et al. **Fast matrix factorization for online recommendation with implicit feedback.** SIGIR, 2016.
+
 * Hsieh et al. **Collaborative metric learning.** WWW, 2017.
 
 * Gao et al. **BiNE: Bipartite Network Embedding.** SIGIR, 2018.
