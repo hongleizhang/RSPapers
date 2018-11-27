@@ -21,7 +21,7 @@ This repository provides a list of papers including comprehensive surveys, class
 **08-EE Problem in RS:** some articles about exploration and exploitation problems in recommendation.
 
 **09-Explainability on RS:** it focus on addressing the problem of 'why', they not only provide
-the user with the recommendations, but also make the user aware why such items are recommended by generating recommendation explanations, 
+the user with the recommendations, but also make the user aware why such items are recommended by generating recommendation explanations.
 
 ==============================================================================
 
@@ -149,6 +149,8 @@ the user with the recommendations, but also make the user aware why such items a
 * Ma, Hao et al. **Learning to recommend with explicit and implicit social relations.** ACM T INTEL SYST TEC, 2011.
 
 * Ma, Hao. **An experimental study on implicit social recommendation.** SIGIR, 2013.
+
+* Yang et al. **Social collaborative filtering by trust.** IJCAI, 2013.
 
 * Zhao et al. **Leveraging social connections to improve personalized ranking for collaborative filtering.** ICKM, 2014.
 
