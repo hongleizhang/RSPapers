@@ -302,6 +302,10 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Wang et al. **Tem: Tree-enhanced embedding model for explainable recommendation.** WWW, 2018.
 
+## RSAlgorithms
+
+Recently, we have launched an open source project [**RSAlgorithms**](https://github.com/hongleizhang/RSAlgorithms), which provides an integrated training and testing framework. In this framework, we implement a set of classical **traditional recommendation methods** which make predictions only using rating data and **social recommendation methods** which utilize trust/social information in order to alleviate the sparsity of ratings data. Besides, we have collected some classical methods implemented by others for your convenience.
+
 
 ## Acknowledgements
 
