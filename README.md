@@ -230,6 +230,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Tran et al. **Regularizing Matrix Factorization with User and Item Embeddings for Recommendation.** CIKM, 2018.
 
+* Zhou et al. **Micro behaviors: A new perspective in e-commerce recommender systems.** WSDM, 2018.
+
 
 ## Cold Start Problem in Recommender System
 
