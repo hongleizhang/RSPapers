@@ -206,6 +206,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Li et al. **Deep Collaborative Autoencoder for Recommender Systems: A Unified Framework for Explicit and Implicit Feedback.** arXiv, 2017.
 
+* Xue et al. **Deep Matrix Factorization Models for Recommender Systems.** IJCAI. 2017. [code](https://github.com/RuidongZ/Deep_Matrix_Factorization_Models)
+
 * Liang et al. **Variational Autoencoders for Collaborative Filtering.** WWW, 2018.
 
 * Ebesu et al. **Collaborative Memory Network for Recommendation Systems.** SIGIR, 2018.
