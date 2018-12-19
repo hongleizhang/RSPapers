@@ -236,6 +236,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Zhou et al. **Micro behaviors: A new perspective in e-commerce recommender systems.** WSDM, 2018.
 
+* Wu et al. **Session-based Recommendation with Graph Neural Networks.** AAAI, 2019.
+
 
 ## Cold Start Problem in Recommender System
 
