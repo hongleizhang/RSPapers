@@ -134,7 +134,7 @@ the user with the recommendations, but also make the user aware why such items a
 
 ## Social Recommender System
 
-* Ma, Hao, et al. **Sorec: social recommendation using probabilistic matrix factorization.** ICKM, 2008.
+* Ma, Hao, et al. **Sorec: social recommendation using probabilistic matrix factorization.** CIKM, 2008.
 
 * Jamali et al. **Trustwalker: a random walk model for combining trust-based and item-based recommendation.** SIGKDD, 2009.
 
@@ -152,13 +152,13 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Yang et al. **Social collaborative filtering by trust.** IJCAI, 2013.
 
-* Zhao et al. **Leveraging social connections to improve personalized ranking for collaborative filtering.** ICKM, 2014.
+* Zhao et al. **Leveraging social connections to improve personalized ranking for collaborative filtering.** CIKM, 2014.
 
 * Chen et al. **Context-aware collaborative topic regression with social matrix factorization for recommender systems.** AAAI, 2014.
 
 * Guo et al. **TrustSVD: Collaborative Filtering with Both the Explicit and Implicit Influence of User Trust and of Item Ratings.** AAAI, 2015.
 
-* Wang et al. **Social recommendation with strong and weak ties.** ICKM, 2016.
+* Wang et al. **Social recommendation with strong and weak ties.** CIKM, 2016.
 
 * Li et al. **Social recommendation using Euclidean embedding.** IJCNN, 2017.
 
@@ -176,7 +176,7 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Wen et al. **Network embedding based recommendation method in social networks.** WWW Poster, 2018.
 
-* Lin et al. **Recommender Systems with Characterized Social Regularization.** ICKM Short Paper, 2018.
+* Lin et al. **Recommender Systems with Characterized Social Regularization.** CIKM Short Paper, 2018.
 
 
 
@@ -301,6 +301,8 @@ the user with the recommendations, but also make the user aware why such items a
 * Féraud et al. **Random forest for the contextual bandit problem.** Artificial Intelligence and Statistics. 2016.
 
 * Li et al. **Collaborative filtering bandits.** SIGIR, 2016.
+
+* Wang et al. **Factorization Bandits for Interactive Recommendation.** AAAI, 2017.
 
 ## Explainability on RS
 
