@@ -200,6 +200,10 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Kim et al. **Convolutional matrix factorization for document context-aware recommendation.** RecSys, 2016.
 
+* Tan et al. **Improved recurrent neural networks for session-based recommendations.** Workshop on Deep Learning for Recommender Systems, 2016.
+
+* Lian et al. **CCCFNet: a content-boosted collaborative filtering neural network for cross domain recommender systems.** WWW, 2017.
+
 * He et al. **Neural collaborative filtering.** WWW, 2017.
 
 * Zheng et al. **Joint deep modeling of users and items using reviews for recommendation.** WSDM, 2017.
@@ -235,6 +239,8 @@ the user with the recommendations, but also make the user aware why such items a
 * Tran et al. **Regularizing Matrix Factorization with User and Item Embeddings for Recommendation.** CIKM, 2018.
 
 * Zhou et al. **Micro behaviors: A new perspective in e-commerce recommender systems.** WSDM, 2018.
+
+* Chen et al. **Sequential recommendation with user memory networks.** WSDM, 2018.
 
 * Wu et al. **Session-based Recommendation with Graph Neural Networks.** AAAI, 2019.
 
