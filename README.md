@@ -242,6 +242,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Chen et al. **Sequential recommendation with user memory networks.** WSDM, 2018.
 
+* Beutel et al. **Latent Cross: Making Use of Context in Recurrent Recommender Systems.** WSDM, 2018.
+
 * Wu et al. **Session-based Recommendation with Graph Neural Networks.** AAAI, 2019.
 
 
