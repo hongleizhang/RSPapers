@@ -184,7 +184,7 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Salakhutdinov et al. **Restricted Boltzmann machines for collaborative filtering.** ICML, 2007.
 
-* Wang et al. **Collaborative deep learning for recommender systems.** ICDM, 2015.
+* Wang et al. **Collaborative deep learning for recommender systems.** KDD, 2015.
 
 * Sedhain et al. **Autorec: Autoencoders meet collaborative filtering.** WWW, 2015.
 
@@ -243,6 +243,8 @@ the user with the recommendations, but also make the user aware why such items a
 * Chen et al. **Sequential recommendation with user memory networks.** WSDM, 2018.
 
 * Beutel et al. **Latent Cross: Making Use of Context in Recurrent Recommender Systems.** WSDM, 2018.
+
+* Tang et al. **Personalized top-n sequential recommendation via convolutional sequence embedding.** WSDM, 2018.
 
 * Wu et al. **Session-based Recommendation with Graph Neural Networks.** AAAI, 2019.
 
