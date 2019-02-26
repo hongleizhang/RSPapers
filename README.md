@@ -263,6 +263,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Cohen et al. **Expediting Exploration by Attribute-to-Feature Mapping for Cold-Start Recommendations.** RecSys, 2017.
 
+* Dureddy et al. **Handling Cold-Start Collaborative Filtering with Reinforcement Learning.** arXiv, 2018.
+
 
 ## POI Recommender System
 
