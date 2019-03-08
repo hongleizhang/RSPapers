@@ -257,6 +257,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Sedhain et al. **Social collaborative filtering for cold-start recommendations.** RecSys, 2014.
 
+* Zhang et al. **Addressing cold start in recommender systems: A semi-supervised co-training algorithm.** SIGIR, 2014.
+
 * Sedhain et al. **Low-Rank Linear Cold-Start Recommendation from Social Data.** AAAI. 2017.
 
 * Man et al. **Cross-domain recommendation: an embedding and mapping approach.** IJCAI, 2017.
