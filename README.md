@@ -267,6 +267,10 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Dureddy et al. **Handling Cold-Start Collaborative Filtering with Reinforcement Learning.** arXiv, 2018.
 
+* Fu et al. **Deeply Fusing Reviews and Contents for Cold Start Users in Cross-Domain Recommendation Systems.** AAAI, 2019.
+
+* Li. **From Zero-Shot Learning to Cold-Start Recommendation.** AAAI, 2019
+
 
 ## POI Recommender System
 
