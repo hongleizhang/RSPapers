@@ -334,6 +334,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Wang et al. **Explainable Reasoning over Knowledge Graphs for Recommendation.** AAAI, 2019.
 
+* Cao et al. **Unifying Knowledge Graph Learning and Recommendation: Towards a Better Understanding of User Preferences.** WWW, 2019.
+
 ## RSAlgorithms
 
 Recently, we have launched an open source project [**RSAlgorithms**](https://github.com/hongleizhang/RSAlgorithms), which provides an integrated training and testing framework. In this framework, we implement a set of classical **traditional recommendation methods** which make predictions only using rating data and **social recommendation methods** which utilize trust/social information in order to alleviate the sparsity of ratings data. Besides, we have collected some classical methods implemented by others for your convenience.
