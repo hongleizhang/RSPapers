@@ -98,6 +98,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Khoshneshin et al. **Collaborative filtering via euclidean embedding.** RecSys, 2010.
 
+* Liu et al. **Online evolutionary collaborative filtering Recsys.** RecSys, 2010.
+
 * Koren et al. **Factor in the neighbors: Scalable and accurate collaborative filtering.** TKDD, 2010.
 
 * Chen et al. **Feature-based matrix factorization.** arXiv, 2011.
