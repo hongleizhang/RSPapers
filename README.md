@@ -180,6 +180,7 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Lin et al. **Recommender Systems with Characterized Social Regularization.** CIKM Short Paper, 2018.
 
+* Yu et al. **Adaptive implicit friends identification over heterogeneous network for social recommendation.** CIKM, 2018.
 
 
 ## Deep Learning based Recommender System
