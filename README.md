@@ -182,6 +182,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Yu et al. **Adaptive implicit friends identification over heterogeneous network for social recommendation.** CIKM, 2018.
 
+* Honglei et al. **Social Collaborative Filtering Ensemble.** PRICAI, 2018.
+
 
 ## Deep Learning based Recommender System
 
