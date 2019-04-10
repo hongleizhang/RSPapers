@@ -350,12 +350,14 @@ Recently, we have launched an open source project [**RSAlgorithms**](https://git
 
 Specially summerize the papers about Recommender Systems for you, and if you have any questions, please contact me generously. Last but not least, the ability of myself is limited so I sincerely look forward to working with you to contribute it.
 
+
+Thank @**ShawnSu** for collecting papers about POI Recommender Systems.
+
+Thank @**Wang Zhe** for his advice about EE in RS.
+
 Highly thank @**Yujia Zhang** for her summary on Hashing for RS.
 
-Greatly thank @**ShawnSu** for collecting papers about POI Recommender Systems.
-
-Greatly thank @**Wang Zhe** for his advice about EE in RS.
-
+Specially thank @[**Professor Jun Wu**](http://faculty.bjtu.edu.cn/8620/) for his attentive guidance in my research career.
 
 My ZhiHu: [Honglei Zhang](https://www.zhihu.com/people/hongleizhang)
 
