@@ -357,7 +357,7 @@ Thank @**Wang Zhe** for his advice about EE in RS.
 
 Highly thank @**Yujia Zhang** for her summary on Hashing for RS.
 
-Specially thank @[**Professor Jun Wu**](http://faculty.bjtu.edu.cn/8620/) for his attentive guidance in my research career.
+Specially thank Professor @[**Jun Wu**](http://faculty.bjtu.edu.cn/8620/) for his attentive guidance in my research career.
 
 My ZhiHu: [Honglei Zhang](https://www.zhihu.com/people/hongleizhang)
 
