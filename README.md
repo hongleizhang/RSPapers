@@ -184,6 +184,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Honglei et al. **Social Collaborative Filtering Ensemble.** PRICAI, 2018.
 
+* Wenqi et al. **Graph Neural Networks for Social Recommendation.** WWW, 2019.
+
 
 ## Deep Learning based Recommender System
 
