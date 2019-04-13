@@ -132,6 +132,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Zhang et al. **Metric Factorization: Recommendation beyond Matrix Factorization.** 2018.
 
+* Chen et al. **Collaborative Similarity Embedding for Recommender Systems.** arXiv, 2019.
+
 
 
 ## Social Recommender System
