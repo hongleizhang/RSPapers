@@ -134,6 +134,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Chen et al. **Collaborative Similarity Embedding for Recommender Systems.** arXiv, 2019.
 
+* Chuan et al. **Heterogeneous Information Network Embedding for Recommendation.** TKDE, 2019.
+
 
 
 ## Social Recommender System
