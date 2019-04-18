@@ -257,6 +257,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Tang et al. **Personalized top-n sequential recommendation via convolutional sequence embedding.** WSDM, 2018.
 
+* Chae et al. **CFGAN: A Generic Collaborative Filtering Framework based on Generative Adversarial Networks.** CIKM, 2018.
+
 * Wu et al. **Session-based Recommendation with Graph Neural Networks.** AAAI, 2019.
 
 
