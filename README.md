@@ -190,6 +190,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Wenqi et al. **Graph Neural Networks for Social Recommendation.** WWW, 2019.
 
+* Songet al. **Session-based Social Recommendation via Dynamic Graph Attention Networks.** WSDM, 2019.
+
 
 ## Deep Learning based Recommender System
 
