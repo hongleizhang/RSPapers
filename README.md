@@ -59,6 +59,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Zhang et al. **Explainable Recommendation: A Survey and New Perspectives.** arXiv, 2018.
 
+* Shoujin et al. **A Survey on Session-based Recommender Systems.** arXiv, 2019.
+
 
 ## Classical Recommender System
 
