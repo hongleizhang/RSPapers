@@ -288,6 +288,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Li. **From Zero-Shot Learning to Cold-Start Recommendation.** AAAI, 2019
 
+* Hoyeop. **Estimating Personalized Preferences Through Meta-Learning for User Cold-Start Recommendation.** KDD, 2019.
+
 
 ## POI Recommender System
 
