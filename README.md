@@ -192,7 +192,9 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Wenqi et al. **Graph Neural Networks for Social Recommendation.** WWW, 2019.
 
-* Songet al. **Session-based Social Recommendation via Dynamic Graph Attention Networks.** WSDM, 2019.
+* Song et al. **Session-based Social Recommendation via Dynamic Graph Attention Networks.** WSDM, 2019.
+
+* Wenqi et al. **Deep Adversarial Social Recommendation.** IJCAI, 2019.
 
 
 ## Deep Learning based Recommender System
@@ -265,6 +267,22 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Wu et al. **Session-based Recommendation with Graph Neural Networks.** AAAI, 2019.
 
+* Zeping et al. **Adaptive User Modeling with Long and Short-Term Preferences for Personalized Recommendation.** IJCAI, 2019.
+
+* Dong Xi et al. **BPAM: Recommendation Based on BP Neural Network with Attention Mechanism.** IJCAI, 2019.
+
+* Xin et al. **CFM: Convolutional Factorization Machines for Context-Aware Recommendation.** IJCAI, 2019.
+
+* Xiao Zhou et al. **Collaborative Metric Learning with Memory Network for Multi-Relational Recommender Systems.** IJCAI, 2019.
+
+* Junyang et al. **Convolutional Gaussian Embeddings for Personalized Recommendation with Uncertainty.** IJCAI, 2019.
+
+* Feng Yuan et al. **DARec: Deep Domain Adaptation for Cross-Domain Recommendation via Transferring Rating Patterns.** IJCAI, 2019.
+
+* Yanan et al. **Learning Shared Vertex Representation in Heterogeneous Graphs with Convolutional Networks for Recommendation.** IJCAI, 2019.
+
+* Jiani et al. **STAR-GCN: Stacked and Reconstructed Graph Convolutional Networks for Recommender Systems.** IJCAI, 2019.
+
 
 ## Cold Start Problem in Recommender System
 
@@ -311,6 +329,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Huayu et al. **Learning user's intrinsic and extrinsic interests for point-of-interest recommendation: a unified approach.** IJCAI, 2017.
 
+* Wei Liu et al. **Geo-ALM: POI Recommendation by Fusing Geographical Information and Adversarial Learning Mechanism.** IJCAI, 2019.
+
 
 ## Hashing for RS
 
@@ -323,6 +343,8 @@ the user with the recommendations, but also make the user aware why such items a
 * Zhang et al. **Discrete collaborative filtering.** SIGIR, 2016.
 
 * Lian et al. **Discrete Content-aware Matrix Factorization.** SIGKDD, 2017.
+
+* Guibing et al. **Discrete Trust-aware Matrix Factorization for Fast Recommendation.** IJCAI, 2019.
 
 
 ## EE in RS
@@ -340,6 +362,9 @@ the user with the recommendations, but also make the user aware why such items a
 * Li et al. **Collaborative filtering bandits.** SIGIR, 2016.
 
 * Wang et al. **Factorization Bandits for Interactive Recommendation.** AAAI, 2017.
+
+* Zhongxia et al. **Co-Attentive Multi-Task Learning for Explainable Recommendation.** IJCAI, 2019.
+
 
 ## Explainability on RS
 
