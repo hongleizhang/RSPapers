@@ -398,8 +398,12 @@ Highly thank @**Yujia Zhang** for her summary on Hashing for RS.
 
 Specially appreciate Professor @[**Jun Wu**](http://faculty.bjtu.edu.cn/8620/) for his attentive guidance in my research career.
 
+WeChat Official Account: [Machine-Relearning](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzA4NTUxNTE4Ng==#wechat_redirect)
+
 My ZhiHu: [Honglei Zhang](https://www.zhihu.com/people/hongleizhang)
 
-My Gmail: hongleizhang1993@gmail.com
+
+
+
 
 
