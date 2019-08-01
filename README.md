@@ -196,6 +196,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Wenqi et al. **Deep Adversarial Social Recommendation.** IJCAI, 2019.
 
+* Qitian et al. **Feature Evolution Based Multi-Task Learning for Collaborative Filtering with Social Trust.** IJCAI, 2019.
+
 
 ## Deep Learning based Recommender System
 
@@ -379,6 +381,12 @@ the user with the recommendations, but also make the user aware why such items a
 * Wang et al. **Explainable Reasoning over Knowledge Graphs for Recommendation.** AAAI, 2019.
 
 * Cao et al. **Unifying Knowledge Graph Learning and Recommendation: Towards a Better Understanding of User Preferences.** WWW, 2019.
+
+* Zhongxia et al. **Co-Attentive Multi-Task Learning for Explainable Recommendation.** IJCAI, 2019.
+
+* Min et al. **Explainable Fashion Recommendation: A Semantic Attribute Region Guided Approach.** IJCAI, 2019.
+
+
 
 ## RSAlgorithms
 
