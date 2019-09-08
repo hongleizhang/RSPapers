@@ -1,6 +1,8 @@
 # Must-read papers on Recommender System
 
-This repository provides a list of papers including comprehensive surveys, classical recommender system, social recommender system, deep learing-based recommender system, cold start problem in recommender system, hashing for recommender system, exploration and exploitation problem as well as explainability in recommender system.
+This repository provides a list of papers including comprehensive surveys, classical recommender system, social recommender system, deep learing-based recommender system, cold start problem in recommender system, hashing for recommender system, exploration and exploitation problem, explainability in recommender system  as well as  click through rate prediction for recommender system.
+
+[New!] Add the new part of CTR Prediction for Recommender System.
 
 ==============================================================================
 
@@ -22,6 +24,8 @@ This repository provides a list of papers including comprehensive surveys, class
 
 **09-Explainability on RS:** it focus on addressing the problem of 'why', they not only provide
 the user with the recommendations, but also make the user aware why such items are recommended by generating recommendation explanations.
+
+**10-CTR Prediction for RS:** as one part of recommendation, click-through rate prediction focuses on the elaboration of candidate sets for recommendation.
 
 ==============================================================================
 
@@ -387,6 +391,23 @@ the user with the recommendations, but also make the user aware why such items a
 * Min et al. **Explainable Fashion Recommendation: A Semantic Attribute Region Guided Approach.** IJCAI, 2019.
 
 
+## CTR Prediction for RS
+
+* Zhou et al. **Deep Interest Network for Click-Through Rate Prediction.** 2017.
+
+* Zhou et al **Deep Session Interest Network for Click-Through Rate Prediction.** IJCAI, 2019.
+
+* Zhou et al. **Deep Interest Evolution Network for Click-Through Rate Prediction.** AAAI, 2019 
+
+* Yang et al. **Operation-aware Neural Networks for User Response Prediction.** 2019.
+
+* Liu et al. **Feature Generation by Convolutional Neural Network for Click-Through Rate Prediction.** 2019.
+
+* Wentao et al. **Deep Spatio-Temporal Neural Networks for Click-Through Rate Prediction.** KDD, 2019.
+
+* Qi et al. **Practice on Long Sequential User Behavior Modeling for Click-Through Rate Prediction.** KDD, 2019.
+
+
 
 ## RSAlgorithms
 
@@ -403,6 +424,8 @@ Thank @**ShawnSu** for collecting papers about POI Recommender Systems.
 Thank @**Wang Zhe** for his advice about EE in RS.
 
 Highly thank @**Yujia Zhang** for her summary on Hashing for RS.
+
+Thank @**Zixuan Yang** for his collecting papers about CTR Prediction for RS.
 
 Specially appreciate Professor @[**Jun Wu**](http://faculty.bjtu.edu.cn/8620/) for his attentive guidance in my research career.
 
