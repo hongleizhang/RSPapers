@@ -2,7 +2,7 @@
 
 This repository provides a list of papers including comprehensive surveys, classical recommender system, social recommender system, deep learing-based recommender system, cold start problem in recommender system, hashing for recommender system, exploration and exploitation problem, explainability in recommender system  as well as  click through rate prediction for recommender system.
 
-[New!] Add the new part of CTR Prediction for Recommender System.
+[New!] Add the new part of [**CTR Prediction for Recommender System**](https://github.com/hongleizhang/RSPapers/tree/master/10-CTR%20Prediction%20for%20RS).
 
 ==============================================================================
 
