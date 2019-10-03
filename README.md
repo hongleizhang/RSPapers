@@ -211,6 +211,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Sedhain et al. **Autorec: Autoencoders meet collaborative filtering.** WWW, 2015.
 
+* Li et al. **Deep collaborative filtering via marginalized denoising auto-encoder.** CIKM, 2015.
+
 * Hidasi et al. **Session-based recommendations with recurrent neural networks.** ICLR, 2016.
 
 * Covington et al. **Deep neural networks for youtube recommendations.** RecSys, 2016.
@@ -235,7 +237,9 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Li et al. **Deep Collaborative Autoencoder for Recommender Systems: A Unified Framework for Explicit and Implicit Feedback.** arXiv, 2017.
 
-* Xue et al. **Deep Matrix Factorization Models for Recommender Systems.** IJCAI. 2017. [code](https://github.com/RuidongZ/Deep_Matrix_Factorization_Models)
+* Xue et al. **Deep Matrix Factorization Models for Recommender Systems.** IJCAI, 2017. [code](https://github.com/RuidongZ/Deep_Matrix_Factorization_Models)
+
+* Zhao et al. **Learning and Transferring IDs Representation in E-commerce.** KDD, 2018.
 
 * Liang et al. **Variational Autoencoders for Collaborative Filtering.** WWW, 2018.
 
@@ -299,6 +303,8 @@ the user with the recommendations, but also make the user aware why such items a
 * Sedhain et al. **Social collaborative filtering for cold-start recommendations.** RecSys, 2014.
 
 * Zhang et al. **Addressing cold start in recommender systems: A semi-supervised co-training algorithm.** SIGIR, 2014.
+
+* Kula. **Metadata embeddings for user and item cold-start recommendations.** arXiv, 2015.
 
 * Sedhain et al. **Low-Rank Linear Cold-Start Recommendation from Social Data.** AAAI. 2017.
 
