@@ -186,6 +186,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Wang et al. **Collaborative Filtering with Social Exposure: A Modular Approach to Social Recommendation.** AAAI, 2018.
 
+* Xuying et al. **Personalized Privacy-Preserving Social Recommendation.** AAAI,2018.
+
 * Wen et al. **Network embedding based recommendation method in social networks.** WWW Poster, 2018.
 
 * Lin et al. **Recommender Systems with Characterized Social Regularization.** CIKM Short Paper, 2018.
@@ -197,6 +199,8 @@ the user with the recommendations, but also make the user aware why such items a
 * Wenqi et al. **Graph Neural Networks for Social Recommendation.** WWW, 2019.
 
 * Song et al. **Session-based Social Recommendation via Dynamic Graph Attention Networks.** WSDM, 2019.
+
+* Wenqi et al. **Deep Social Collaborative Filtering.** RecSys, 2019.
 
 * Wenqi et al. **Deep Adversarial Social Recommendation.** IJCAI, 2019.
 
