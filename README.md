@@ -360,7 +360,11 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Lian et al. **Discrete Content-aware Matrix Factorization.** SIGKDD, 2017.
 
+* Han et al. **Discrete Factorization Machines for Fast Feature-based Recommendatio.** IJCAI, 2018.
+
 * Guibing et al. **Discrete Trust-aware Matrix Factorization for Fast Recommendation.** IJCAI, 2019.
+
+* Chenghao et al. **Discrete Social Recommendation.** AAAI, 2019.
 
 
 ## EE in RS
