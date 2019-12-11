@@ -136,6 +136,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Gao et al. **BiNE: Bipartite Network Embedding.** SIGIR, 2018.
 
+* Xiangnan et al. **Adversarial Personalized Ranking for Recommendation.** SIGIR, 2018.
+
 * Zhang et al. **Metric Factorization: Recommendation beyond Matrix Factorization.** 2018.
 
 * Chen et al. **Collaborative Similarity Embedding for Recommender Systems.** arXiv, 2019.
