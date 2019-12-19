@@ -140,9 +140,13 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Zhang et al. **Metric Factorization: Recommendation beyond Matrix Factorization.** 2018.
 
+* Lei et al. **Spectral Collaborative Filtering.** RecSys, 2018.
+
 * Chen et al. **Collaborative Similarity Embedding for Recommender Systems.** arXiv, 2019.
 
 * Chuan et al. **Heterogeneous Information Network Embedding for Recommendation.** TKDE, 2019.
+
+* Xiang et al. **Neural Graph Collaborative Filtering.** SIGIR, 2019.
 
 
 
@@ -166,6 +170,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Yang et al. **Social collaborative filtering by trust.** IJCAI, 2013.
 
+* Jiliang et al. **Exploiting Local and Global Social Context for Recommendation.** IJCAI, 2013.
+
 * Zhao et al. **Leveraging social connections to improve personalized ranking for collaborative filtering.** CIKM, 2014.
 
 * Chen et al. **Context-aware collaborative topic regression with social matrix factorization for recommender systems.** AAAI, 2014.
@@ -173,6 +179,8 @@ the user with the recommendations, but also make the user aware why such items a
 * Guo et al. **TrustSVD: Collaborative Filtering with Both the Explicit and Implicit Influence of User Trust and of Item Ratings.** AAAI, 2015.
 
 * Wang et al. **Social recommendation with strong and weak ties.** CIKM, 2016.
+
+* Jiliang et al. **Recommendation with Social Dimensions.** AAAI, 2016.
 
 * Li et al. **Social recommendation using Euclidean embedding.** IJCNN, 2017.
 
@@ -184,9 +192,13 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Rafailidis et al. **Learning to Rank with Trust and Distrust in Recommender Systems.** RecSys, 2017.
 
+* Xixi et al. **Additive Co-Clustering with Social Influence for Recommendation.** RecSys, 2017.
+
 * Zhao et al. **Collaborative Filtering with Social Local Models.** ICDM, 2017.
 
 * Wang et al. **Collaborative Filtering with Social Exposure: A Modular Approach to Social Recommendation.** AAAI, 2018.
+
+* Wenqi et al. **Deep Modeling of Social Relations for Recommendation.** AAAI, 2018
 
 * Xuying et al. **Personalized Privacy-Preserving Social Recommendation.** AAAI,2018.
 
@@ -283,6 +295,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Wu et al. **Session-based Recommendation with Graph Neural Networks.** AAAI, 2019.
 
+* Zhi-Hong et al. **DeepCF: A Unified Framework of Representation Learning and Matching Function Learning in Recommender System.** AAAI, 2019.
+
 * Zeping et al. **Adaptive User Modeling with Long and Short-Term Preferences for Personalized Recommendation.** IJCAI, 2019.
 
 * Dong Xi et al. **BPAM: Recommendation Based on BP Neural Network with Attention Mechanism.** IJCAI, 2019.
@@ -298,6 +312,11 @@ the user with the recommendations, but also make the user aware why such items a
 * Yanan et al. **Learning Shared Vertex Representation in Heterogeneous Graphs with Convolutional Networks for Recommendation.** IJCAI, 2019.
 
 * Jiani et al. **STAR-GCN: Stacked and Reconstructed Graph Convolutional Networks for Recommender Systems.** IJCAI, 2019.
+
+* An et al. **CosRec: 2D Convolutional Neural Networks for Sequential Recommendation.** CIKM, 2019.
+
+* Hongwei et al. **Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation.** WWW, 2019.
+
 
 
 ## Cold Start Problem in Recommender System
