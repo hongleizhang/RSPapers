@@ -65,6 +65,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Shoujin et al. **A Survey on Session-based Recommender Systems.** arXiv, 2019.
 
+* Shoujin et al. **Sequential Recommender Systems: Challenges, Progress and Prospects.** IJCAI, 2019.
+
 
 ## Classical Recommender System
 
