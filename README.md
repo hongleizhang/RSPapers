@@ -319,11 +319,16 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Hongwei et al. **Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation.** WWW, 2019.
 
+* Maurizio et al. **Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches.** RecSys, 2019.
+
+* Xin et al. **Cfm: Convolutional factorization machines for context-aware recommendation.** IJCAI, 2019.
 
 
 ## Cold Start Problem in Recommender System
 
 * Schein et al. **Methods and metrics for cold-start recommendations.** SIGIR, 2002.
+
+* Seung-Taek et al. **Pairwise Preference Regression for Cold-start Recommendation.** RecSys, 2009.
 
 * Gantner et al. **Learning attribute-to-feature mappings for cold-start recommendations.** ICDM, 2010.
 
@@ -430,7 +435,9 @@ the user with the recommendations, but also make the user aware why such items a
 
 ## CTR Prediction for RS
 
-* Zhou et al. **Deep Interest Network for Click-Through Rate Prediction.** 2017.
+* Guo et al. **Deepfm: A factorization-machine based neural network for ctr prediction.** IJCAI, 2017
+
+* Zhou et al. **Deep Interest Network for Click-Through Rate Prediction.** KDD 2018.
 
 * Zhou et al **Deep Session Interest Network for Click-Through Rate Prediction.** IJCAI, 2019.
 
@@ -466,7 +473,7 @@ Thank @**Zixuan Yang** for his collecting papers about CTR Prediction for RS.
 
 Specially appreciate Professor @[**Jun Wu**](http://faculty.bjtu.edu.cn/8620/) for his attentive guidance in my research career.
 
-WeChat Official Account: [Machine-Relearning](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA4NTUxNTE4Ng==&mid=2247483655&idx=1&sn=5ed421a66f03a31fbab722192b8ccae2&send_time=)
+WeChat Official Account: [ML-RSer](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA4NTUxNTE4Ng==&mid=2247483655&idx=1&sn=5ed421a66f03a31fbab722192b8ccae2&send_time=)
 
 My ZhiHu: [Honglei Zhang](https://www.zhihu.com/people/hongleizhang)
 
