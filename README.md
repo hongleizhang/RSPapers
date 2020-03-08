@@ -57,15 +57,23 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Singhal et al. **Use of Deep Learning in Modern Recommendation System: A Summary of Recent Works.** arXiv, 2017.
 
+* Muhammad et al. **Cross Domain Recommender Systems: A Systematic Literature Review.** ACM Comput. Surv, 2017.
+
+* Massimo et al. **Sequence-Aware Recommender Systems.** ACM Comput. Surv, 2018.
+
 * Zhang et al. **Deep learning based recommender system: A survey and new perspectives.** ACM Comput.Surv, 2018.
 
 * Batmaz et al. **A review on deep learning for recommender systems: challenges and remedies.** Artificial Intelligence Review, 2018.
 
 * Zhang et al. **Explainable Recommendation: A Survey and New Perspectives.** arXiv, 2018.
 
+* Liu et al. ** Survey of matrix factorization based recommendation methods by integrating social information.** Journal of Software, 2018.
+
 * Shoujin et al. **A Survey on Session-based Recommender Systems.** arXiv, 2019.
 
 * Shoujin et al. **Sequential Recommender Systems: Challenges, Progress and Prospects.** IJCAI, 2019.
+
+* Qingyu et al. **A Survey on Knowledge Graph-Based Recommender Systems.** arXiv, 2020.
 
 
 ## Classical Recommender System
@@ -221,6 +229,12 @@ the user with the recommendations, but also make the user aware why such items a
 * Wenqi et al. **Deep Adversarial Social Recommendation.** IJCAI, 2019.
 
 * Qitian et al. **Feature Evolution Based Multi-Task Learning for Collaborative Filtering with Social Trust.** IJCAI, 2019.
+
+* Wu et al. **SocialGCN: An Efficient Graph Convolutional Network based Model for Social Recommendation.** AAAI, 2019.
+
+* Wu et al. **Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender System.** WWW, 2019.
+
+* Wu et al. **A Neural Influence Diffusion Model for Social Recommendation.** SIGIR, 2019.
 
 
 ## Deep Learning based Recommender System
