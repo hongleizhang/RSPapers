@@ -1,6 +1,6 @@
 # Must-read papers on Recommender System
 
-[![wechat](https://img.shields.io/badge/wechat-ML--RSer-blue)](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA4NTUxNTE4Ng==&mid=2247483655&idx=1&sn=5ed421a66f03a31fbab722192b8ccae2&send_time=) [![license](https://img.shields.io/github/license/hongleizhang/RSPapers)](https://github.com/hongleizhang/RSPapers/blob/master/LICENSE) ![update](https://img.shields.io/badge/update-weekly-yellowgreen)
+[![wechat](https://img.shields.io/badge/wechat-ML--RSer-blue)](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA4NTUxNTE4Ng==&mid=2247483655&idx=1&sn=5ed421a66f03a31fbab722192b8ccae2&send_time=) [![update](https://img.shields.io/badge/update-weekly-blueviolet)](#) [![license](https://img.shields.io/github/license/hongleizhang/RSPapers)](https://github.com/hongleizhang/RSPapers/blob/master/LICENSE)
 
 This repository provides a list of papers including comprehensive surveys, classical recommender system, social recommender system, deep learing-based recommender system, cold start problem in recommender system, hashing for recommender system, exploration and exploitation problem, explainability in recommender system  as well as  click through rate prediction for recommender system.
 
