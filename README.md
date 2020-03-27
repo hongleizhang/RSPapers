@@ -1,8 +1,10 @@
 # Must-read papers on Recommender System
 
+![](https://img.shields.io/badge/wechat-ML--RSer-blue) ![](https://img.shields.io/github/license/hongleizhang/RSPapers)
+
 This repository provides a list of papers including comprehensive surveys, classical recommender system, social recommender system, deep learing-based recommender system, cold start problem in recommender system, hashing for recommender system, exploration and exploitation problem, explainability in recommender system  as well as  click through rate prediction for recommender system.
 
-[New!] Add the new part of [**CTR Prediction for Recommender System**](https://github.com/hongleizhang/RSPapers/tree/master/10-CTR%20Prediction%20for%20RS).
+[New!] Add the new part of [**Knowledge Graph for RS**](https://github.com/hongleizhang/RSPapers/tree/master/11-Knowledge%20Graph%20for%20RS).
 
 ==============================================================================
 
@@ -26,6 +28,8 @@ This repository provides a list of papers including comprehensive surveys, class
 the user with the recommendations, but also make the user aware why such items are recommended by generating recommendation explanations.
 
 **10-CTR Prediction for RS:** as one part of recommendation, click-through rate prediction focuses on the elaboration of candidate sets for recommendation.
+
+**11-Knowledge Graph for RS:** knowledge graph, as the side information of behavior interaction matrix in recent years, which can effectively alleviate the problem of data sparsity and cold start, and can provide a reliable explanation for recommendation results.
 
 ==============================================================================
 
@@ -465,6 +469,20 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Qi et al. **Practice on Long Sequential User Behavior Modeling for Click-Through Rate Prediction.** KDD, 2019.
 
+
+## Knowledge Graph for RS
+
+* Fuzheng et al. **Collaborative Knowledge Base Embedding for Recommender Systems.** KDD, 2016.
+
+* Hongwei et al. **DKN: Deep Knowledge-Aware Network for News Recommendation.** WWW, 2018.
+
+* Hongwei et al. **Ripplenet-Propagating user preferences on the knowledge graph for recommender systems.** CIKM, 2018.
+
+* Hongwei et al. **Knowledge-aware Graph Neural Networks with Label Smoothness Regularization for Recommender Systems.** KDD, 2019.
+
+* Hongwei et al. **Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation.** WWW, 2019.
+
+* Xiang et al. **Reinforced Negative Sampling over Knowledge Graph for Recommendation.** WWW, 2020.
 
 
 ## RSAlgorithms
