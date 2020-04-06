@@ -509,7 +509,7 @@ WeChat Official Account: [ML-RSer](https://mp.weixin.qq.com/mp/qrcode?scene=1000
 
 My ZhiHu: [Honglei Zhang](https://www.zhihu.com/people/hongleizhang)
 
-<center><img src="https://s1.ax1x.com/2020/04/06/Gs6KzQ.jpg" alt="机器学习与推荐算法" width="50%" height="50%" /></center>
+<div style="text-align: center;"><img src="https://s1.ax1x.com/2020/04/06/Gs6KzQ.jpg" alt="机器学习与推荐算法" width="50%" height="50%" /></div>
 
 
 
