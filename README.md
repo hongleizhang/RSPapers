@@ -79,11 +79,12 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Shoujin et al. **Sequential Recommender Systems: Challenges, Progress and Prospects.** IJCAI, 2019.
 
+* Zhu et al. **Research Commentary on Recommendations with Side Information: A Survey and Research Directions.**  Electron. Commer. Res. Appl., 2019.
+
 * Dietmar et al. **A Survey on Conversational Recommender Systems.** arXiv, 2020.
 
 * Qingyu et al. **A Survey on Knowledge Graph-Based Recommender Systems.** arXiv, 2020.
 
-* Zhu et al. **Research Commentary on Recommendations with Side Information: A Survey and Research Directions.** arXiv, 2020
 
 
 ## Classical Recommender System
