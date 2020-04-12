@@ -59,6 +59,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Yu et al. **A survey of point-of-interest recommendation in location-based social networks.** In Workshops at AAAI, 2015.
 
+* Efthalia et al. **Parallel and Distributed Collaborative Filtering: A Survey.** Comput. Surv., 2016.
+
 * Singhal et al. **Use of Deep Learning in Modern Recommendation System: A Summary of Recent Works.** arXiv, 2017.
 
 * Muhammad et al. **Cross Domain Recommender Systems: A Systematic Literature Review.** ACM Comput. Surv, 2017.
@@ -77,7 +79,11 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Shoujin et al. **Sequential Recommender Systems: Challenges, Progress and Prospects.** IJCAI, 2019.
 
+* Dietmar et al. **A Survey on Conversational Recommender Systems.** arXiv, 2020.
+
 * Qingyu et al. **A Survey on Knowledge Graph-Based Recommender Systems.** arXiv, 2020.
+
+* Zhu et al. **Research Commentary on Recommendations with Side Information: A Survey and Research Directions.** arXiv, 2020
 
 
 ## Classical Recommender System
@@ -239,6 +245,8 @@ the user with the recommendations, but also make the user aware why such items a
 * Wu et al. **Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender System.** WWW, 2019.
 
 * Wu et al. **A Neural Influence Diffusion Model for Social Recommendation.** SIGIR, 2019.
+
+* Yang et al. **Modelling High-Order Social Relations for Item Recommendation.** arXiv, 2020.
 
 
 ## Deep Learning based Recommender System
@@ -411,6 +419,8 @@ the user with the recommendations, but also make the user aware why such items a
 * Guibing et al. **Discrete Trust-aware Matrix Factorization for Fast Recommendation.** IJCAI, 2019.
 
 * Chenghao et al. **Discrete Social Recommendation.** AAAI, 2019.
+
+* Defu et al. **LightRec: a Memory and Search-Efficient Recommender System.** WWW, 2020.
 
 
 ## EE in RS
