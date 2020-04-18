@@ -4,7 +4,7 @@
 
 This repository provides a list of papers including comprehensive surveys, classical recommender system, social recommender system, deep learing-based recommender system, cold start problem in recommender system, hashing for recommender system, exploration and exploitation problem, explainability in recommender system  as well as  click through rate prediction for recommender system.
 
-[**New!**] Add the new part of [**Knowledge Graph for RS**](https://github.com/hongleizhang/RSPapers/tree/master/11-Knowledge%20Graph%20for%20RS).
+[**New!**] Add the new part of [**Knowledge Graph for RS**](https://github.com/hongleizhang/RSPapers/tree/master/11-Knowledge_Graph_for_RS).
 
 ==============================================================================
 
