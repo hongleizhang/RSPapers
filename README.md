@@ -85,6 +85,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Qingyu et al. **A Survey on Knowledge Graph-Based Recommender Systems.** arXiv, 2020.
 
+* Sriharsha et al. **A Survey on Group Recommender Systems.** J. Intell. Inf. Syst., 2020
+
 
 
 ## Classical Recommender System
