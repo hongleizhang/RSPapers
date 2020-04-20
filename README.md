@@ -10,7 +10,7 @@ This repository provides a list of papers including comprehensive surveys, class
 
 **01-Surveys:** a set of comprehensive surveys about recommender system, such as hybrid recommender systems, social recommender systems, poi recommender systems, deep-learning based recommonder systems and so on.
 
-**02-Classical RS:** a set of famous recommendation papers which make predictions with some classic models and practical theory.
+**02-General RS:** a set of famous recommendation papers which make predictions with some classic models and practical theory.
 
 **03-Social RS:** several papers which utilize trust/social information in order to alleviate the sparsity of ratings data.
 
@@ -20,7 +20,7 @@ This repository provides a list of papers including comprehensive surveys, class
 
 **06-POI RS:** it focus on helping users explore attractive locations with the information of location-based social networks.
 
-**07-Hashing for RS:** some hashing techniques for recommender system in order to training and making recommendation efficiently.
+**07-Efficient RS:** some hashing techniques for recommender system in order to training and making recommendation efficiently.
 
 **08-EE Problem in RS:** some articles about exploration and exploitation problems in recommendation.
 
@@ -89,7 +89,7 @@ the user with the recommendations, but also make the user aware why such items a
 
 
 
-## Classical Recommender System
+## General Recommender System
 
 * Goldberg et al. **Using collaborative filtering to weave an information tapestry.** COMMUN ACM, 1992.
 
@@ -169,7 +169,11 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Chuan et al. **Heterogeneous Information Network Embedding for Recommendation.** TKDE, 2019.
 
+* Huafeng et al. **Deep Generative Ranking for Personalized Recommendation.** Recsys, 2019.
+
 * Xiang et al. **Neural Graph Collaborative Filtering.** SIGIR, 2019.
+
+* Huafeng et al. **Deep Global and Local Generative Model for Recommendation.** WWW, 2020.
 
 
 
@@ -405,7 +409,7 @@ the user with the recommendations, but also make the user aware why such items a
 * Wei Liu et al. **Geo-ALM: POI Recommendation by Fusing Geographical Information and Adversarial Learning Mechanism.** IJCAI, 2019.
 
 
-## Hashing for RS
+## Efficient RS
 
 * Karatzoglou et al. **Collaborative filtering on a budget.** AISTAT, 2010.
 
@@ -442,7 +446,6 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Wang et al. **Factorization Bandits for Interactive Recommendation.** AAAI, 2017.
 
-* Zhongxia et al. **Co-Attentive Multi-Task Learning for Explainable Recommendation.** IJCAI, 2019.
 
 
 ## Explainability on RS
