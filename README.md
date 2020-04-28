@@ -81,12 +81,13 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Zhu et al. **Research Commentary on Recommendations with Side Information: A Survey and Research Directions.**  Electron. Commer. Res. Appl., 2019.
 
+* Sriharsha et al. **A Survey on Group Recommender Systems.** J. Intell. Inf. Syst., 2019.
+
 * Dietmar et al. **A Survey on Conversational Recommender Systems.** arXiv, 2020.
 
 * Qingyu et al. **A Survey on Knowledge Graph-Based Recommender Systems.** arXiv, 2020.
 
-* Sriharsha et al. **A Survey on Group Recommender Systems.** J. Intell. Inf. Syst., 2020
-
+* Wang et al. **Graph Learning Approaches to Recommender Systems: A Review.** arXiv, 2020.
 
 
 ## General Recommender System
@@ -144,6 +145,8 @@ the user with the recommendations, but also make the user aware why such items a
 * Hu et al. **Your neighbors affect your ratings: on geographical neighborhood influence to rating prediction.** SIGIR, 2014.
 
 * Hernández-Lobato et al. **Probabilistic matrix factorization with non-random missing data.** ICML, 2014.
+
+* Yang et al. **TopicMF: Simultaneously Exploiting Ratings and Reviews for Recommendation.** AAAI, 2014.
 
 * Shi et al. **Semantic path based personalized recommendation on weighted heterogeneous information networks.** CIKM, 2015.
 
