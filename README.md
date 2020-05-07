@@ -4,7 +4,9 @@
 
 This repository provides a list of papers including comprehensive surveys, classical recommender system, social recommender system, deep learing-based recommender system, cold start problem in recommender system, hashing for recommender system, exploration and exploitation problem, explainability in recommender system  as well as  click through rate prediction for recommender system.
 
-[**New!**] Add the new part of [**Knowledge Graph for RS**](https://github.com/hongleizhang/RSPapers/tree/master/11-Knowledge_Graph_for_RS).
+- [**New!**] Add the new part of [**Review based RS**](https://github.com/hongleizhang/RSPapers/tree/master/12-Review_RS).
+
+- [**New!**] Add the new part of [**Knowledge Graph for RS**](https://github.com/hongleizhang/RSPapers/tree/master/11-Knowledge_Graph_for_RS).
 
 ==============================================================================
 
@@ -30,6 +32,8 @@ the user with the recommendations, but also make the user aware why such items a
 **10-CTR Prediction for RS:** as one part of recommendation, click-through rate prediction focuses on the elaboration of candidate sets for recommendation.
 
 **11-Knowledge Graph for RS:** knowledge graph, as the side information of behavior interaction matrix in recent years, which can effectively alleviate the problem of data sparsity and cold start, and can provide a reliable explanation for recommendation results.
+
+**12-Review_RS:** some articles about review or text based recommendations.
 
 ==============================================================================
 
@@ -86,6 +90,8 @@ the user with the recommendations, but also make the user aware why such items a
 * Dietmar et al. **A Survey on Conversational Recommender Systems.** arXiv, 2020.
 
 * Qingyu et al. **A Survey on Knowledge Graph-Based Recommender Systems.** arXiv, 2020.
+
+* Yang et al. **Deep Learning on Knowledge Graph for Recommender System: A Survey.** arXiv, 2020.
 
 * Wang et al. **Graph Learning Approaches to Recommender Systems: A Review.** arXiv, 2020.
 
