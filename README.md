@@ -285,15 +285,11 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Wu et al. **Collaborative denoising auto-encoders for top-n recommender systems.** WSDM, 2016.
 
-* Kim et al. **Convolutional matrix factorization for document context-aware recommendation.** RecSys, 2016.
-
 * Tan et al. **Improved recurrent neural networks for session-based recommendations.** Workshop on Deep Learning for Recommender Systems, 2016.
 
 * Lian et al. **CCCFNet: a content-boosted collaborative filtering neural network for cross domain recommender systems.** WWW, 2017.
 
 * He et al. **Neural collaborative filtering.** WWW, 2017.
-
-* Zheng et al. **Joint deep modeling of users and items using reviews for recommendation.** WSDM, 2017.
 
 * Zhao et al. **Leveraging Long and Short-term Information in Content-aware Movie Recommendation.** arXiv, 2017.
 
@@ -510,6 +506,43 @@ the user with the recommendations, but also make the user aware why such items a
 * Xiang et al. **Reinforced Negative Sampling over Knowledge Graph for Recommendation.** WWW, 2020.
 
 
+## Review based RS
+
+* Chong et al. **Collaborative Topic Modeling for Recommending Scientific Articles.** KDD, 2011.
+
+* McAuley et al. **Hidden Factors and Hidden Topics: Understanding Rating Dimensions with Review Text.** RecSys, 2013.
+
+* Guang et al. **Ratings Meet Reviews, a Combined Approach to Recommend.** RecSys, 2014
+
+* Wei et al. **Collaborative Multi-Level Embedding Learning from Reviews for Rating Prediction.** IJCAI, 2016.
+
+* Kim et al. **Convolutional Matrix Factorization for Document Context-Aware Recommendation.** RecSys, 2016.
+
+* Yunzhi et al. **Rating-boosted latent topics Understanding users and items with ratings and reviews.** IJCAI, 2016.
+
+* Seo et al. **Interpretable Convolutional Neural Networks with Dual Local and Global Attention for Review Rating Prediction.** RecSys, 2016.
+
+* Lei et al. **Joint Deep Modeling of Users and Items Using Reviews for Recommendation.** WSDM, 2017.
+
+* Zhiyong et al. **A3NCF An Adaptive Aspect Attention Model for Rating Prediction.**  IJCAI, 2018.
+
+* Jinyao et al. **ANR: Aspect-based Neural Recommender** CIKM, 2018.
+
+* Yichao et al.  **Coevolutionary recommendation model Mutual learning between ratings and reviews.** WWW, 2018.
+
+* Yi et al. **Multi-pointer co-attention networks for recommendation.** KDD, 2018.
+
+* Chong et al. **Neural attentional rating regression with review-level explanations.** WWW, 2018.
+
+* Libing et al. **Parl: Let strangers speak out what you like.** CIKM, 2018.
+
+* Libing et al. **A context-aware user-item representation learning for item recommendation.** TOIS, 2019.
+
+* Donghua et al. **DAML: Dual Attention Mutual Learning between Ratings and Reviews for Item Recommendation.** KDD, 2019.
+
+* Liu et al. **NRPA Neural Recommendation with Personalized Attention.** SIGIR, 2019.
+
+
 ## RSAlgorithms
 
 Recently, we have launched an open source project [**RSAlgorithms**](https://github.com/hongleizhang/RSAlgorithms), which provides an integrated training and testing framework. In this framework, we implement a set of classical **traditional recommendation methods** which make predictions only using rating data and **social recommendation methods** which utilize trust/social information in order to alleviate the sparsity of ratings data. Besides, we have collected some classical methods implemented by others for your convenience.
@@ -527,6 +560,8 @@ Thank @**Wang Zhe** for his advice about EE in RS.
 Highly thank @**Yujia Zhang** for her summary on Hashing for RS.
 
 Thank @**Zixuan Yang** for his collecting papers about CTR Prediction for RS.
+
+Thank @**ShomyLiu** for collecting papers about Review based RS.
 
 Specially appreciate Professor @[**Jun Wu**](http://faculty.bjtu.edu.cn/8620/) for his attentive guidance in my research career.
 
