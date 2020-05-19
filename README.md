@@ -474,9 +474,35 @@ the user with the recommendations, but also make the user aware why such items a
 
 ## CTR Prediction for RS
 
+* Richardson et al. **Predicting Clicks - Estimating the Click-Through Rate for New Ads.** WWW, 2007.
+
+* Steffen et al. **Fast Context-aware Recommendations with Factorization Machines.** SIGIR, 2011.
+
+* H. Brendan McMahan et al. **Ad Click Prediction a View from the Trenches.** KDD, 2013.
+
+* Xinran He et al. **Practical Lessons from Predicting Clicks on Ads at Facebook.** ADKDD, 2014.
+
+* Ying Shan et al. **Deep Crossing - Web-Scale Modeling without Manually Crafted Combinatorial Features.** KDD, 2016.
+
+* Weinan Zhang et al. **Deep Learning over Multi-field Categorical Data.** arXiv, 2016.
+
+* Yuchin et al. **Field-aware Factorization Machines for CTR Prediction.** RecSys, 2016.
+
+* Cheng et al. **Wide & Deep Learning for Recommender Systems.** arXiv, 2016.
+
+* Guo et al. **A Factorization-Machine based Neural Network for CTR Prediction.** arXiv, 2017.
+
+* Xiao et al. **Attentional Factorization Machines - Learning the Weight of Feature Interactions via Attention Networks.** arXiv, 2017.
+
 * Guo et al. **Deepfm: A factorization-machine based neural network for ctr prediction.** IJCAI, 2017
 
+* Gai et al. **Learning Piece-wise Linear Models from Large Scale Data for Ad Click Prediction.** arXiv, 2017.
+
+* Xiangnan He et al. **Neural Factorization Machines for Sparse Predictive Analytics.** arXiv, 2017.
+
 * Zhou et al. **Deep Interest Network for Click-Through Rate Prediction.** KDD 2018.
+
+* Lian et al. **xDeepFM - Combining Explicit and Implicit Feature Interactions for Recommender Systems.** arXiv, 2018.
 
 * Zhou et al **Deep Session Interest Network for Click-Through Rate Prediction.** IJCAI, 2019.
 
@@ -489,6 +515,8 @@ the user with the recommendations, but also make the user aware why such items a
 * Wentao et al. **Deep Spatio-Temporal Neural Networks for Click-Through Rate Prediction.** KDD, 2019.
 
 * Qi et al. **Practice on Long Sequential User Behavior Modeling for Click-Through Rate Prediction.** KDD, 2019.
+
+* Fuzheng et al. **Collaborative Knowledge Base Embedding for Recommender Systems.** KDD, 2016.
 
 
 ## Knowledge Graph for RS
@@ -570,7 +598,6 @@ WeChat Official Account: [ML-RSer](https://mp.weixin.qq.com/mp/qrcode?scene=1000
 My ZhiHu: [Honglei Zhang](https://www.zhihu.com/people/hongleizhang)
 
 <div style="text-align: center;"><img src="https://s1.ax1x.com/2020/04/06/Gs6KzQ.jpg" alt="机器学习与推荐算法" width="50%" height="50%" /></div>
-
 
 
 
