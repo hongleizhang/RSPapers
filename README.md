@@ -148,6 +148,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Kabbur et al. **Fism: factored item similarity models for top-n recommender systems.** KDD, 2013.
 
+* Johnson et al. **Logistic Matrix Factorization for Implicit Feedback Data.** NIPS Workshop, 2014.
+
 * Hu et al. **Your neighbors affect your ratings: on geographical neighborhood influence to rating prediction.** SIGIR, 2014.
 
 * Hernández-Lobato et al. **Probabilistic matrix factorization with non-random missing data.** ICML, 2014.
@@ -184,6 +186,7 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Huafeng et al. **Deep Global and Local Generative Model for Recommendation.** WWW, 2020.
 
+* Rendle et al. **Neural Collaborative Filtering vs. Matrix Factorization Revisited.** arXiv, 2020.
 
 
 ## Social Recommender System
@@ -260,7 +263,11 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Wu et al. **Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender System.** WWW, 2019.
 
+* Chong Chen et al. **An Efficient Adaptive Transfer Neural Network for Social-aware Recommendation.** SIGIR, 2019.
+
 * Wu et al. **A Neural Influence Diffusion Model for Social Recommendation.** SIGIR, 2019.
+
+* Cheng et al. **An Efficient Adaptive Transfer Neural Network for Social-aware Recommendation.** SIGIR, 2019.
 
 * Yang et al. **Modelling High-Order Social Relations for Item Recommendation.** arXiv, 2020.
 
@@ -272,6 +279,8 @@ the user with the recommendations, but also make the user aware why such items a
 * Wang et al. **Collaborative deep learning for recommender systems.** KDD, 2015.
 
 * Sedhain et al. **Autorec: Autoencoders meet collaborative filtering.** WWW, 2015.
+
+* Ali et al. **A Multi-View Deep Learning Approach for Cross Domain User Modeling in Recommendation Systems.** WWW, 2015
 
 * Li et al. **Deep collaborative filtering via marginalized denoising auto-encoder.** CIKM, 2015.
 
@@ -434,6 +443,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Defu et al. **LightRec: a Memory and Search-Efficient Recommender System.** WWW, 2020.
 
+* Yang et al. **A Generic Network Compression Framework for Sequential Recommender Systems.** SIGIR, 2020.
+
 
 ## EE in RS
 
@@ -499,6 +510,8 @@ the user with the recommendations, but also make the user aware why such items a
 * Gai et al. **Learning Piece-wise Linear Models from Large Scale Data for Ad Click Prediction.** arXiv, 2017.
 
 * Xiangnan He et al. **Neural Factorization Machines for Sparse Predictive Analytics.** arXiv, 2017.
+
+* Ruoxi et al. **Deep & Cross Network for Ad Click Predictions.** ADKDD, 2017
 
 * Zhou et al. **Deep Interest Network for Click-Through Rate Prediction.** KDD 2018.
 
@@ -569,6 +582,8 @@ the user with the recommendations, but also make the user aware why such items a
 * Donghua et al. **DAML: Dual Attention Mutual Learning between Ratings and Reviews for Item Recommendation.** KDD, 2019.
 
 * Liu et al. **NRPA Neural Recommendation with Personalized Attention.** SIGIR, 2019.
+
+* Noveen et al. **How Useful are Reviews for Recommendation? A Critical Review and Potential Improvements.** SIGIR, 2020.
 
 
 ## RSAlgorithms
