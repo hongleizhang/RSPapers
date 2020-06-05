@@ -95,6 +95,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Wang et al. **Graph Learning Approaches to Recommender Systems: A Review.** arXiv, 2020.
 
+* Yashar et al. **Adversarial Machine Learning in Recommender Systems-State of the art and Challenges.** arXiv, 2020.
+
 
 ## General Recommender System
 
@@ -184,8 +186,6 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Xiang et al. **Neural Graph Collaborative Filtering.** SIGIR, 2019.
 
-* Huafeng et al. **Deep Global and Local Generative Model for Recommendation.** WWW, 2020.
-
 * Rendle et al. **Neural Collaborative Filtering vs. Matrix Factorization Revisited.** arXiv, 2020.
 
 
@@ -271,6 +271,10 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Yang et al. **Modelling High-Order Social Relations for Item Recommendation.** arXiv, 2020.
 
+* Junliang et al. **Enhance Social Recommendation with Adversarial Graph Convolutional Networks.** TKDE, 2020.
+
+* Chaochao et al. **Secure Social Recommendation based on Secret Sharing.** arXiv, 2020.
+
 
 ## Deep Learning based Recommender System
 
@@ -305,6 +309,8 @@ the user with the recommendations, but also make the user aware why such items a
 * Li et al. **Deep Collaborative Autoencoder for Recommender Systems: A Unified Framework for Explicit and Implicit Feedback.** arXiv, 2017.
 
 * Xue et al. **Deep Matrix Factorization Models for Recommender Systems.** IJCAI, 2017. [code](https://github.com/RuidongZ/Deep_Matrix_Factorization_Models)
+
+* Dong et al. **CFGAN: A Generic Collaborative Filtering Framework based on Generative Adversarial Networks.** CIKM, 2018.
 
 * Zhao et al. **Learning and Transferring IDs Representation in E-commerce.** KDD, 2018.
 
@@ -368,7 +374,11 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Maurizio et al. **Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches.** RecSys, 2019.
 
-* Xin et al. **Cfm: Convolutional factorization machines for context-aware recommendation.** IJCAI, 2019.
+* Maurizio et al. **A Troubling Analysis of Reproducibility and Progress in Recommender Systems Research.** arXiv, 2019.
+
+* Xin et al. **CFM: Convolutional factorization machines for context-aware recommendation.** IJCAI, 2019.
+
+* Huafeng et al. **Deep Global and Local Generative Model for Recommendation.** WWW, 2020.
 
 
 ## Cold Start Problem in Recommender System
@@ -399,6 +409,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Hoyeop. **Estimating Personalized Preferences Through Meta-Learning for User Cold-Start Recommendation.** KDD, 2019.
 
+* Ruobing et al. **Internal and Contextual Attention Network for Cold-start Multi-channel Matching in Recommendation.** IJCAI, 2020.
+
 
 ## POI Recommender System
 
@@ -422,6 +434,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Wei Liu et al. **Geo-ALM: POI Recommendation by Fusing Geographical Information and Adversarial Learning Mechanism.** IJCAI, 2019.
 
+* et al. **Contextualized Point-of-Interest Recommendation.** IJCAI, 2020.
+
 
 ## Efficient RS
 
@@ -444,6 +458,8 @@ the user with the recommendations, but also make the user aware why such items a
 * Defu et al. **LightRec: a Memory and Search-Efficient Recommender System.** WWW, 2020.
 
 * Yang et al. **A Generic Network Compression Framework for Sequential Recommender Systems.** SIGIR, 2020.
+
+* Xiangnan et al. **LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation.** SIGIR, 2020.
 
 
 ## EE in RS
@@ -481,6 +497,8 @@ the user with the recommendations, but also make the user aware why such items a
 * Zhongxia et al. **Co-Attentive Multi-Task Learning for Explainable Recommendation.** IJCAI, 2019.
 
 * Min et al. **Explainable Fashion Recommendation: A Semantic Attribute Region Guided Approach.** IJCAI, 2019.
+
+* Peijie et al. **Dual Learning for Explainable Recommendation: Towards Unifying User Preference Prediction and Review Generation.** WWW, 2020.
 
 
 ## CTR Prediction for RS
@@ -530,6 +548,11 @@ the user with the recommendations, but also make the user aware why such items a
 * Qi et al. **Practice on Long Sequential User Behavior Modeling for Click-Through Rate Prediction.** KDD, 2019.
 
 * Fuzheng et al. **Collaborative Knowledge Base Embedding for Recommender Systems.** KDD, 2016.
+
+* Shu et al. **TFNet: Multi-Semantic Feature Interaction for CTR Prediction.** SIGIR, 2020.
+
+* Weinan et al. **Deep Interest with Hierarchical Attention Network for Click-Through Rate Prediction.** SIGIR, 2020
+
 
 
 ## Knowledge Graph for RS
