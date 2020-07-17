@@ -47,6 +47,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Su et al. **A survey of collaborative filtering techniques.** Advances in artificial intelligence, 2009.
 
+* Asela et al. **A Survey of Accuracy Evaluation Metrics of Recommendation Tasks.** J. Mach. Learn. Res, 2009.
+
 * Cacheda et al. **Comparison of collaborative filtering algorithms: Limitations of current techniques and proposals for scalable, high-performance recommender systems.** ACM TWEB, 2011.
 
 * Zhang et al. **Tag-aware recommender systems: a state-of-the-art survey.** J COMPUT SCI TECHNOL, 2011.
@@ -85,6 +87,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Zhu et al. **Research Commentary on Recommendations with Side Information: A Survey and Research Directions.**  Electron. Commer. Res. Appl., 2019.
 
+* Lina et al. **Recommendations on the Internet of Things: Requirements, Challenges, and Directions.** IEEE Internet Comput., 2019.
+
 * Sriharsha et al. **A Survey on Group Recommender Systems.** J. Intell. Inf. Syst., 2019.
 
 * Dietmar et al. **A Survey on Conversational Recommender Systems.** arXiv, 2020.
@@ -96,6 +100,9 @@ the user with the recommendations, but also make the user aware why such items a
 * Wang et al. **Graph Learning Approaches to Recommender Systems: A Review.** arXiv, 2020.
 
 * Yashar et al. **Adversarial Machine Learning in Recommender Systems-State of the art and Challenges.** arXiv, 2020.
+
+* May et al. **Recommender Systems for the Internet of Things:A Survey.** arXiv, 2020.
+
 
 
 ## General Recommender System
@@ -170,6 +177,14 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Hsieh et al. **Collaborative metric learning.** WWW, 2017.
 
+* He et al. **Translation-based Recommendation.** RecSys, 2017.
+
+* Bayeret al. **A generic coordinate descent framework for learning from implicit feedback.** WWW, 2017.
+
+* Ruining et al. **Translation-based Recommendation.** RecSys, 2017.
+
+* Rajiv et al. **Translation-based factorization machines for sequential recommendation.** RecSys 2018.
+
 * Gao et al. **BiNE: Bipartite Network Embedding.** SIGIR, 2018.
 
 * Xiangnan et al. **Adversarial Personalized Ranking for Recommendation.** SIGIR, 2018.
@@ -178,6 +193,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Lei et al. **Spectral Collaborative Filtering.** RecSys, 2018.
 
+* Feng et al. **Adversarial Collaborative Neural Network for Robust Recommendation.** SIGIR, 2019.
+
 * Chen et al. **Collaborative Similarity Embedding for Recommender Systems.** arXiv, 2019.
 
 * Chuan et al. **Heterogeneous Information Network Embedding for Recommendation.** TKDE, 2019.
@@ -185,6 +202,8 @@ the user with the recommendations, but also make the user aware why such items a
 * Huafeng et al. **Deep Generative Ranking for Personalized Recommendation.** Recsys, 2019.
 
 * Xiang et al. **Neural Graph Collaborative Filtering.** SIGIR, 2019.
+
+* Wenjie et al. **Denoising Implicit Feedback for Recommendation.** arXiv, 2020.
 
 * Rendle et al. **Neural Collaborative Filtering vs. Matrix Factorization Revisited.** arXiv, 2020.
 
@@ -280,6 +299,10 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Salakhutdinov et al. **Restricted Boltzmann machines for collaborative filtering.** ICML, 2007.
 
+* Aäron et al. **Deep content-based music recommendation.** NIPS, 2013.
+
+* Huang et al. **Learning deep structured semantic models for web search using clickthrough data.** CIKM, 2013.
+
 * Wang et al. **Collaborative deep learning for recommender systems.** KDD, 2015.
 
 * Sedhain et al. **Autorec: Autoencoders meet collaborative filtering.** WWW, 2015.
@@ -287,6 +310,8 @@ the user with the recommendations, but also make the user aware why such items a
 * Ali et al. **A Multi-View Deep Learning Approach for Cross Domain User Modeling in Recommendation Systems.** WWW, 2015
 
 * Li et al. **Deep collaborative filtering via marginalized denoising auto-encoder.** CIKM, 2015.
+
+* Ruining et al. **VBPR: Visual Bayesian Personalized Ranking from Implicit Feedback.** AAAI, 2016.
 
 * Hidasi et al. **Session-based recommendations with recurrent neural networks.** ICLR, 2016.
 
@@ -300,6 +325,10 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Tan et al. **Improved recurrent neural networks for session-based recommendations.** Workshop on Deep Learning for Recommender Systems, 2016.
 
+* Kang et al. **Visually-Aware Fashion Recommendation and Design with Generative Image Models.** ICDM, 2017.
+
+* Wu et al. **Recurrent Recommender Networks.** WSDM, 2017.
+
 * Lian et al. **CCCFNet: a content-boosted collaborative filtering neural network for cross domain recommender systems.** WWW, 2017.
 
 * He et al. **Neural collaborative filtering.** WWW, 2017.
@@ -309,6 +338,8 @@ the user with the recommendations, but also make the user aware why such items a
 * Li et al. **Deep Collaborative Autoencoder for Recommender Systems: A Unified Framework for Explicit and Implicit Feedback.** arXiv, 2017.
 
 * Xue et al. **Deep Matrix Factorization Models for Recommender Systems.** IJCAI, 2017. [code](https://github.com/RuidongZ/Deep_Matrix_Factorization_Models)
+
+* He et al. **Outer Product-based Neural Collaborative Filtering.** IJCAI, 2018.
 
 * Dong et al. **CFGAN: A Generic Collaborative Filtering Framework based on Generative Adversarial Networks.** CIKM, 2018.
 
@@ -411,6 +442,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Ruobing et al. **Internal and Contextual Attention Network for Cold-start Multi-channel Matching in Recommendation.** IJCAI, 2020.
 
+* Sun et al. **LARA: Attribute-to-feature Adversarial Learning for New-item Recommendation.** WSDM, 2020.
+
 
 ## POI Recommender System
 
@@ -509,6 +542,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * H. Brendan McMahan et al. **Ad Click Prediction a View from the Trenches.** KDD, 2013.
 
+* Aäron et al. **Deep content-based music recommendation.** NIPS, 2013.
+
 * Xinran He et al. **Practical Lessons from Predicting Clicks on Ads at Facebook.** ADKDD, 2014.
 
 * Ying Shan et al. **Deep Crossing - Web-Scale Modeling without Manually Crafted Combinatorial Features.** KDD, 2016.
@@ -518,6 +553,8 @@ the user with the recommendations, but also make the user aware why such items a
 * Yuchin et al. **Field-aware Factorization Machines for CTR Prediction.** RecSys, 2016.
 
 * Cheng et al. **Wide & Deep Learning for Recommender Systems.** arXiv, 2016.
+
+* Chao et al. **Recurrent recommender networks.** WSDM, 2017.
 
 * Guo et al. **A Factorization-Machine based Neural Network for CTR Prediction.** arXiv, 2017.
 
