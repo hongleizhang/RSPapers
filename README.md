@@ -2,13 +2,16 @@
 
 [![wechat](https://img.shields.io/badge/wechat-ML--RSer-blue)](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA4NTUxNTE4Ng==&mid=2247483655&idx=1&sn=5ed421a66f03a31fbab722192b8ccae2&send_time=) [![update](https://img.shields.io/badge/update-weekly-blueviolet)](#must-read-papers-on-recommender-system) [![license](https://img.shields.io/github/license/hongleizhang/RSPapers)](https://github.com/hongleizhang/RSPapers/blob/master/LICENSE)
 
-This repository provides a list of papers including comprehensive surveys, classical recommender system, social recommender system, deep learing-based recommender system, cold start problem in recommender system, hashing for recommender system, exploration and exploitation problem, explainability in recommender system  as well as  click through rate prediction for recommender system.
+This repository provides a list of papers including comprehensive surveys, classical recommender system, social recommender system, deep learing-based recommender system, cold start problem in recommender system, hashing for recommender system, exploration and exploitation problem, explainability in recommender system  as well as  click through rate prediction for recommender system. For more posts about recommender systems, please transfer to [ML_RSer](https://mp.weixin.qq.com/s/WqpRxKBUHYBeuTh6AETpTQ).
+
+
+- [**New!**] Add the new part of [**Conversational RS**](https://github.com/hongleizhang/RSPapers/tree/master/13-Conversational_RS).
 
 - [**New!**] Add the new part of [**Review based RS**](https://github.com/hongleizhang/RSPapers/tree/master/12-Review_RS).
 
 - [**New!**] Add the new part of [**Knowledge Graph for RS**](https://github.com/hongleizhang/RSPapers/tree/master/11-Knowledge_Graph_for_RS).
 
-==============================================================================
+============================================================================
 
 **01-Surveys:** a set of comprehensive surveys about recommender system, such as hybrid recommender systems, social recommender systems, poi recommender systems, deep-learning based recommonder systems and so on.
 
@@ -35,7 +38,9 @@ the user with the recommendations, but also make the user aware why such items a
 
 **12-Review_RS:** some articles about review or text based recommendations.
 
-==============================================================================
+**13-Conversational_RS:** Make use of natural language processing technology to interactively provide recommendations
+
+============================================================================
 
 \*All papers are sorted by year for clarity.
 
@@ -646,6 +651,61 @@ the user with the recommendations, but also make the user aware why such items a
 * Noveen et al. **How Useful are Reviews for Recommendation? A Critical Review and Potential Improvements.** SIGIR, 2020.
 
 
+## Conversatiional RS
+
+* Zhao et al. **Interactive collaborative filtering.** CIKM, 2013.
+
+* Negar et al. **Context adaptation in interactive recommender systems.** RecSys, 2014.
+
+* Yasser et al. **History-guided conversational recommendation.** WWW, 2014.
+
+* Konstantina et al. **Towards Conversational Recommender Systems.** KDD, 2016.
+
+* Konstantina et al. **Q&R: A Two-Stage Approach toward Interactive Recommendation.** KDD, 2018.
+
+* Sun et al. **Conversational Recommender System.** SIGIR, 2018.
+
+* Yongfeng et al. **Towards Conversational Search and Recommendation: System Ask, User Respond.** CIKM, 2018.
+
+* Raymond et al. **Towards Deep Conversational Recommendations.** NeurIPS, 2018.
+
+* Tong et al. **A Visual Dialog Augmented Interactive Recommender System.** KDD, 2019.
+
+* Qibin et al. **Towards Knowledge-Based Recommender Dialog System.** EMNLP, 2019.
+
+* Yuanjiang et al. **Adversarial Attacks and Detection on Reinforcement Learning-Based Interactive Recommender Systems.** SIGIR, 2020.
+
+* Wenqiang et al. **Conversational Recommendation: Formulation, Methods, and Evaluation.** SIGIR, 2020.
+
+* Xingshan et al. **Dynamic Online Conversation Recommendation.** ACL, 2020.
+
+* Wenqiang et al. **Estimation-Action-Reflection: Towards Deep Interaction Between Conversational and Recommender Systems.** WSDM, 2020.
+
+* Kun et al. **Improving Conversational Recommender Systems via Knowledge Graph based Semantic Fusion.** KDD, 2020.
+
+* Wenqiang et al. **Interactive Path Reasoning on Graph for Conversational Recommendation.** KDD, 2020.
+
+* Sijin et al. **Interactive Recommender System via Knowledge Graph-enhanced Reinforcement Learning.** SIGIR, 2020.
+
+* Kai et al. **Latent Linear Critiquing for Conversational Recommender Systems.** WWW, 2020.
+
+* Lixin et al. **Neural Interactive Collaborative Filtering.** SIGIR, 2020.
+
+* Lixin et al. **Pseudo Dyna-Q: A Reinforcement Learning Framework for Interactive Recommendation.** WSDM, 2020.
+
+* Shijun et al. **Seamlessly Unifying Attributes and Items: Conversational Recommendation for Cold-Start Users.** arXiv, 2020.
+
+* Zeming et al. **Towards Conversational Recommendation over Multi-Type Dialogs.** ACL, 2020.
+
+* Zhongxia et al. **Towards Explainable Conversational Recommendation.** IJCAI, 2020.
+
+* Jie et al. **Towards Question-based Recommender Systems.** SIGIR, 2020.
+
+* Hu et al. **User Memory Reasoning for Conversational Recommendation.** arXiv, 2020.
+
+* Kai et al. **Latent Linear Critiquing for Conversational Recommender Systems.** WWW, 2020.
+
+
 ## RSAlgorithms
 
 Recently, we have launched an open source project [**RSAlgorithms**](https://github.com/hongleizhang/RSAlgorithms), which provides an integrated training and testing framework. In this framework, we implement a set of classical **traditional recommendation methods** which make predictions only using rating data and **social recommendation methods** which utilize trust/social information in order to alleviate the sparsity of ratings data. Besides, we have collected some classical methods implemented by others for your convenience.
@@ -662,7 +722,7 @@ Thank @**Wang Zhe** for his advice about EE in RS.
 
 Highly thank @**Yujia Zhang** for her summary on Hashing for RS.
 
-Thank @**Zixuan Yang** for his collecting papers about CTR Prediction for RS.
+Thank @**Zixuan Yang** and @**vicki1109** for his collecting papers about CTR Prediction for RS.
 
 Thank @**ShomyLiu** for collecting papers about Review based RS.
 
