@@ -406,6 +406,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * An et al. **CosRec: 2D Convolutional Neural Networks for Sequential Recommendation.** CIKM, 2019.
 
+* Sun et al. **BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer.** CIKM, 2019.
+
 * Hongwei et al. **Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation.** WWW, 2019.
 
 * Maurizio et al. **Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches.** RecSys, 2019.
@@ -449,6 +451,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Sun et al. **LARA: Attribute-to-feature Adversarial Learning for New-item Recommendation.** WSDM, 2020.
 
+* Lu et al. **Meta-learning on heterogeneous information networks for cold-start recommendation.** KDD, 2020.
+
 
 ## POI Recommender System
 
@@ -469,6 +473,8 @@ the user with the recommendations, but also make the user aware why such items a
 * Jarana et al. **A Personalised Ranking Framework with Multiple Sampling Criteria for Venue Recommendation.** CIKM, 2017.
 
 * Huayu et al. **Learning user's intrinsic and extrinsic interests for point-of-interest recommendation: a unified approach.** IJCAI, 2017.
+
+* Feng et al. **POI2Vec: Geographical Latent Representation for Predicting Future Visitors.** AAAI, 2017.
 
 * Wei Liu et al. **Geo-ALM: POI Recommendation by Fusing Geographical Information and Adversarial Learning Mechanism.** IJCAI, 2019.
 
@@ -558,6 +564,8 @@ the user with the recommendations, but also make the user aware why such items a
 * Yuchin et al. **Field-aware Factorization Machines for CTR Prediction.** RecSys, 2016.
 
 * Cheng et al. **Wide & Deep Learning for Recommender Systems.** arXiv, 2016.
+
+* Qu et al. **Product-based neural networks for user response prediction.** ICDM, 2016.
 
 * Chao et al. **Recurrent recommender networks.** WSDM, 2017.
 
@@ -651,7 +659,7 @@ the user with the recommendations, but also make the user aware why such items a
 * Noveen et al. **How Useful are Reviews for Recommendation? A Critical Review and Potential Improvements.** SIGIR, 2020.
 
 
-## Conversatiional RS
+## Conversational RS
 
 * Zhao et al. **Interactive collaborative filtering.** CIKM, 2013.
 
@@ -731,8 +739,6 @@ Specially appreciate Professor @[**Jun Wu**](http://faculty.bjtu.edu.cn/8620/) f
 WeChat Official Account: [ML-RSer](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA4NTUxNTE4Ng==&mid=2247483655&idx=1&sn=5ed421a66f03a31fbab722192b8ccae2&send_time=)
 
 My ZhiHu: [Honglei Zhang](https://www.zhihu.com/people/hongleizhang)
-
-<div style="text-align: center;"><img src="https://s1.ax1x.com/2020/04/06/Gs6KzQ.jpg" alt="机器学习与推荐算法" width="50%" height="50%" /></div>
 
 
 
