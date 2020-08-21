@@ -293,6 +293,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Cheng et al. **An Efficient Adaptive Transfer Neural Network for Social-aware Recommendation.** SIGIR, 2019.
 
+* Chong et al. **Social Attentional Memory Network: Modeling Aspect- and Friend-Level Differences in Recommendation.** WSDM, 2019.
+
 * Yang et al. **Modelling High-Order Social Relations for Item Recommendation.** arXiv, 2020.
 
 * Junliang et al. **Enhance Social Recommendation with Adversarial Graph Convolutional Networks.** TKDE, 2020.
