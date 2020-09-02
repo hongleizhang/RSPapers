@@ -265,6 +265,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Xuying et al. **Personalized Privacy-Preserving Social Recommendation.** AAAI,2018.
 
+* Liu et al. **Social Recommendation with an Essential Preference Space.** AAAI,2018.
+
 * Wen et al. **Network embedding based recommendation method in social networks.** WWW Poster, 2018.
 
 * Lin et al. **Recommender Systems with Characterized Social Regularization.** CIKM Short Paper, 2018.
