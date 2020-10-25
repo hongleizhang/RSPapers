@@ -303,6 +303,9 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Chaochao et al. **Secure Social Recommendation based on Secret Sharing.** arXiv, 2020.
 
+* Yuanfu et al. **Social Influence Attentive Neural Network for Friend-Enhanced Recommendation.** ECML-PKDD, 2020.
+
+
 
 ## Deep Learning based Recommender System
 
