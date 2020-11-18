@@ -305,6 +305,9 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Yuanfu et al. **Social Influence Attentive Neural Network for Friend-Enhanced Recommendation.** ECML-PKDD, 2020.
 
+* Liqiang Song et al. **DREAM: A Dynamic Relational-Aware Model for Social Recommendation.** CIKM, 2020.
+
+* Bo Jin et al. **Partial Relationship Aware Influence Diffusion via a Multi-channel Encoding Scheme for Social Recommendation.** CIKM, 2020.
 
 
 ## Deep Learning based Recommender System
