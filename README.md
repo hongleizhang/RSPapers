@@ -304,6 +304,12 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Chaochao et al. **Secure Social Recommendation based on Secret Sharing.** arXiv, 2020.
 
+* Yuanfu et al. **Social Influence Attentive Neural Network for Friend-Enhanced Recommendation.** ECML-PKDD, 2020.
+
+* Liqiang Song et al. **DREAM: A Dynamic Relational-Aware Model for Social Recommendation.** CIKM, 2020.
+
+* Bo Jin et al. **Partial Relationship Aware Influence Diffusion via a Multi-channel Encoding Scheme for Social Recommendation.** CIKM, 2020.
+
 
 ## Deep Learning based Recommender System
 
@@ -717,6 +723,183 @@ the user with the recommendations, but also make the user aware why such items a
 * Hu et al. **User Memory Reasoning for Conversational Recommendation.** arXiv, 2020.
 
 * Kai et al. **Latent Linear Critiquing for Conversational Recommender Systems.** WWW, 2020.
+
+
+## Industrial RS
+
+### Airbnb
+
+* Mihajlo et al. **Real-time Personalization using Embeddings for Search Ranking at Airbnb.** KDD.2018.
+
+### Alibaba
+
+* Kun et al. **Learning Piece-wise Linear Models from Large Scale Data for Ad Click Prediction.** arXiv, 2017.
+
+* Zhibo et al. **Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba.** KDD, 2018.
+
+* Guorui et al. **Deep Interest Evolution Network for Click-Through Rate Prediction.** AAAI, 2019.
+
+* Guorui et al. **Deep Interest Network for Click-Through Rate Prediction.** KDD, 2018.
+
+* Xiao et al. **Entire Space Multi-Task Model: An Effective Approach for Estimating Post-Click Conversion Rate.** SIGIR, 2018.
+
+* Han et al. **Learning Tree-based Deep Model for Recommender Systems.** KDD, 2018.
+
+* Lin et al. **Visualizing and Understanding Deep Neural Networks in CTR Prediction.** SIGIR, 2018.
+
+* Qiwei et al. **Behavior Sequence Transformer for E-commerce Recommendation in Alibaba.** KDD,2019.
+
+* Wentao et al. **Click-Through Rate Prediction with the User Memory Network.** KDD, 2019
+
+* Yufei et al. **Deep Session Interest Network for Click-Through Rate Prediction.** arXiv, 2019.
+
+* Wentao et al. **Deep Spatio-Temporal Neural Networks for Click-Through Rate Prediction.** KDD, 2019.
+
+* Han et al. **Joint Optimization of Tree-based Index and Deep Model for Recommender Systems.** NIPS, 2019.
+
+* Chao et al. **Multi-Interest Network with Dynamic Routing for Recommendation at Tmall.** CIKM, 2019.
+
+* Qi et al. **Practice on Long Sequential User Behavior Modeling for Click-Through Rate Prediction.** KDD, 2019.
+
+* Wentao et al. **Representation Learning-Assisted Click-Through Rate Prediction.** arXiv, 2019.
+
+* Fuyu et al. **SDM: Sequential Deep Matching Model for Online Large-scale Recommender System.** CIKM, 2019.
+
+* Wentao et al. **MiNet: Mixed Interest Network for Cross-Domain Click-Through Rate Prediction.** CIKM, 2020.
+
+* Zhe et al. **COLD: Towards the Next Generation of Pre-Ranking System.** KDD, 2020.
+
+* Weinan et al. **Deep Interest with Hierarchical Attention Network for Click-Through Rate Prediction.** SIGIR, 2020.
+
+* Ze et al. **Deep Match to Rank Model for Personalized Click-Through Rate Prediction.** AAAI, 2020.
+
+* Shu-Ting et al. **Deep Time-Stream Framework for Click-Through Rate Prediction by Tracking Interest Evolution.** AAAI, 2020.
+
+* Changhua et al. **Personalized Re-ranking for Recommendation.** RecSys, 2019.
+
+* Liyi et al. **A Deep Prediction Network for Understanding Advertiser Intent and Satisfaction.** CIKM, 2020.
+
+* Yu et al. **EdgeRec: Recommender System on Edge in Mobile Taobao.** CIKM, 2020.
+
+* Yufei et al. **MTBRN: Multiplex Target-Behavior Relation Enhanced Network for Click-Through Rate Prediction.** CIKM, 2020.
+
+### Baidu
+
+* Xiangyu et al. **Whole-Chain Recommendations.** CIKM, 2020.
+
+### Criteo
+
+* Yuchin et al. **Field-aware Factorization Machines for CTR Prediction.** RecSys, 2016.
+
+### Facebook
+
+* Xinran et al. **Practical Lessons from Predicting Clicks on Ads at Facebook.** KDD, 2014.
+
+* Maxim et al. **Deep Learning Recommendation Model for Personalization and Recommendation Systems.** arXiv, 2019.
+
+### Google
+
+* James et al. **The YouTube Video Recommendation System.** RecSys, 2010.
+
+* Jason et al. **Label Partitioning For Sublinear Ranking.** JMLR, 2013.
+
+* Paul et al. Deep Neural Networks for YouTube Recommendations.** RecSys, 2016.
+
+* Heng-Tze et al. **Wide & Deep Learning for Recommender Systems.** DLRS, 2016.
+
+* Ruoxi et al. **Deep & Cross Network for Ad Click Predictions.** KDD, 2017.
+
+* Alex et al. **Latent Cross: Making Use of Context in Recurrent Recommender Systems.** WSDM, 2018.
+
+* Alex et al. **Fairness in Recommendation Ranking through Pairwise Comparisons.** KDD, 2019.
+
+* Xinyang et al. **Sampling-Bias-Corrected Neural Modeling for Large Corpus Item Recommendations.** RecSys, 2019.
+
+### Huawei
+
+* Huifeng et al. **DeepFM: A Factorization-Machine based Neural Network for CTR Prediction.** IJCAI, 2017.
+
+* Bin et al. **Feature Generation by Convolutional Neural Network for Click-Through Rate Prediction.** WWW, 2019.
+
+* Huifeng et al. **PAL: A Position-bias Aware Learning Framework for CTR Prediction in Live Recommender Systems.** RecSys, 2019.
+
+* Kai et al. **Automatic Feature Engineering From Very High Dimensional Event Logs Using Deep Neural Networks.** KDD, 2019.
+
+* Yishi et al. **GraphSAIL Graph Structure Aware Incremental Learning for Recommender Systems.** CIKM, 2020.
+
+### JingDong
+
+* Huifeng et al. **DeepFM: An End-to-End Wide & Deep Learning Framework for CTR Prediction.** arXiv, 2018.
+
+* Meizi et al. **Micro Behaviors: A New Perspective in E-commerce Recommender Systems.** WSDM, 2018.
+
+* Xiangyu et al. **Recommendations with Negative Feedback via Pairwise Deep Reinforcement Learning.** KDD, 2018.
+
+* Xiangyu et al. **Deep Reinforcement Learning for List-wise Recommendations.** arXiv, 2019.
+
+* Wenqi et al. **Deep Social Collaborative Filtering.** RecSys, 2019.
+
+* Wenqi et al. **Graph Neural Networks for Social Recommendation.** WWW, 2019.
+
+### Meituan
+
+* Hongwei et al. **Knowledge-aware Graph Neural Networks with Label Smoothness Regularization for Recommender Systems.** KDD, 2019.
+
+### Microsoft
+
+* Po-Sen et al. **Learning Deep Structured Semantic Models for Web Search using Clickthrough Data.** CIKM, 2013.
+
+* Ali Elkahky et al. **A Multi-View Deep Learning Approach for Cross Domain User Modeling in Recommendation Systems.** WWW, 2015.
+
+* Oren et al. **ITEM2VEC: NEURAL ITEM EMBEDDING FOR COLLABORATIVE FILTERING.** ICML, 2016.
+
+* Hongwei et al. **DKN: Deep Knowledge-Aware Network for News Recommendation.** WWW, 2018.
+
+* Guanjie et al. **DRN: A Deep Reinforcement Learning Framework for News Recommendation.** WWW, 2018.
+
+* John et al. **Modeling and Simultaneously Removing Bias via Adversarial Neural Networks.** arXiv, 2018.
+
+* Chen et al. **Privileged Features Distillation at Taobao Recommendations.** KDD, 2020.
+
+* Hongwei et al. **RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems.** CIKM, 2018.
+
+* Jianxun et al. **xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems.** KDD, 2018.
+
+* Zhongxia et al. **Co-Attentive Multi-Task Learning for Explainable Recommendation.** IJCAI, 2019.
+
+* Chuhan et al. **Neural News Recommendation with Attentive Multi-View Learning.** IJCAI, 2019.
+
+* Le et al. **Personalized Multimedia Item and Key Frame Recommendation.** IJCAI, 2019.
+
+* Fuyu et al. **SDM: Sequential Deep Matching Model for Online Large-scale Recommender System.** CIKM, 2019.
+
+* Shu et al. **Session-Based Recommendation with Graph Neural Networks.** AAAI, 2019.
+
+* Le et al. **SocialGCN: An Efficient Graph Convolutional Network based Model for Social Recommendation.** arXiv, 2019.
+
+### Netflix
+
+* Balazs et al. **Session-based recommendations with recurrent neural networks.** ICLR, 2016.
+
+### Sina
+
+* Junlin et al. **FAT-DeepFFM: Field Attentive Deep Field-aware Factorization Machine.** arXiv, 2019.
+
+### Tencent
+
+* Qitian et al. **Dual graph attention networks for deep latent representation of multifaceted social effects in recommender systems.** WWW, 2019.
+
+* Wen et al. **Beyond Clicks: Modeling Multi-Relational Item Graph for Session-Based Target Behavior Prediction.** WWW, 2020.
+
+* Ruobing et al. **Deep Feedback Network for Recommendation.** IJCAI, 2020
+
+* Tongwen et al. **GateNet:Gating-Enhanced Deep Network for Click-Through Rate Prediction.** arXiv, 2020.
+
+### Yahoo
+
+* Junwei et al. **Field-weighted Factorization Machines for Click-Through Rate Prediction in Display Advertising.** WWW, 2018.
+
+* Shaunak et al. **Learning to Create Better Ads Generation and Ranking Approaches for Ad Creative Refinement.** CIKM, 2020.
 
 
 ## RSAlgorithms
