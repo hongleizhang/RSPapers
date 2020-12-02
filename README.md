@@ -2,14 +2,13 @@
 
 [![wechat](https://img.shields.io/badge/wechat-ML--RSer-blue)](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA4NTUxNTE4Ng==&mid=2247483655&idx=1&sn=5ed421a66f03a31fbab722192b8ccae2&send_time=) [![update](https://img.shields.io/badge/update-weekly-blueviolet)](#must-read-papers-on-recommender-system) [![license](https://img.shields.io/github/license/hongleizhang/RSPapers)](https://github.com/hongleizhang/RSPapers/blob/master/LICENSE)
 
-This repository provides a list of papers including comprehensive surveys, classical recommender system, social recommender system, deep learing-based recommender system, cold start problem in recommender system, hashing for recommender system, exploration and exploitation problem, explainability in recommender system  as well as  click through rate prediction for recommender system. For more posts about recommender systems, please transfer to [ML_RSer](https://mp.weixin.qq.com/s/WqpRxKBUHYBeuTh6AETpTQ).
+This repository provides a list of papers about Recommender Systems including comprehensive surveys, general recommender system, social recommender system, deep learing-based recommender system, cold start problem in recommender system, efficient recommender system, exploration and exploitation problem in recommender system, explainability in recommender system  as well as  click through rate prediction for recommender system, knowledge graph for recommeder system, review based recommender system, conversational recommender system and industrial/practical recommender system. For more posts about recommender systems, please transfer to [ML_RSer](https://mp.weixin.qq.com/s/WqpRxKBUHYBeuTh6AETpTQ).
 
+- [**New!**] Add the new part of [**Industrial RS**](https://github.com/hongleizhang/RSPapers/tree/master/14-Industrial_RS).
 
 - [**New!**] Add the new part of [**Conversational RS**](https://github.com/hongleizhang/RSPapers/tree/master/13-Conversational_RS).
 
 - [**New!**] Add the new part of [**Review based RS**](https://github.com/hongleizhang/RSPapers/tree/master/12-Review_RS).
-
-- [**New!**] Add the new part of [**Knowledge Graph for RS**](https://github.com/hongleizhang/RSPapers/tree/master/11-Knowledge_Graph_for_RS).
 
 ============================================================================
 
@@ -25,7 +24,7 @@ This repository provides a list of papers including comprehensive surveys, class
 
 **06-POI RS:** it focus on helping users explore attractive locations with the information of location-based social networks.
 
-**07-Efficient RS:** some hashing techniques for recommender system in order to training and making recommendation efficiently.
+**07-Efficient RS:** some techniques for efficient recommender system in order to training and making recommendation efficiently.
 
 **08-EE Problem in RS:** some articles about exploration and exploitation problems in recommendation.
 
@@ -36,9 +35,11 @@ the user with the recommendations, but also make the user aware why such items a
 
 **11-Knowledge Graph for RS:** knowledge graph, as the side information of behavior interaction matrix in recent years, which can effectively alleviate the problem of data sparsity and cold start, and can provide a reliable explanation for recommendation results.
 
-**12-Review_RS:** some articles about review or text based recommendations.
+**12-Review based RS:** some articles about review or text based recommendations.
 
-**13-Conversational_RS:** Make use of natural language processing technology to interactively provide recommendations
+**13-Conversational RS:** some papers made use of natural language processing technology to interactively provide recommendations.
+
+**14-Industrial RS:** some papers on best practices published in industry.
 
 ============================================================================
 
@@ -737,6 +738,8 @@ Highly thank @**Yujia Zhang** for her summary on Hashing for RS.
 Thank @**Zixuan Yang** and @**vicki1109** for his collecting papers about CTR Prediction for RS.
 
 Thank @**ShomyLiu** for collecting papers about Review based RS.
+
+Thank @**Fanshaoliu** for collecting papers about Industrial RS.
 
 Specially appreciate Professor @[**Jun Wu**](http://faculty.bjtu.edu.cn/8620/) for his attentive guidance in my research career.
 
