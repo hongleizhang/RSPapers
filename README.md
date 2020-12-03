@@ -107,8 +107,11 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Yashar et al. **Adversarial Machine Learning in Recommender Systems-State of the art and Challenges.** arXiv, 2020.
 
-* May et al. **Recommender Systems for the Internet of Things:A Survey.** arXiv, 2020.
+* May et al. **Recommender Systems for the Internet of Things: A Survey.** arXiv, 2020.
 
+* Wu et al. **Graph  Neural  Networks  in  Recommender  Systems: A  Survey.** arXiv, 2020.
+
+* Chen et al. **Bias  and  Debias  in  Recommender  System: A  Survey  and  Future  Directions.** arXiv, 2020.
 
 
 ## General Recommender System
