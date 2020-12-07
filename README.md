@@ -156,7 +156,11 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Koren et al. **Factor in the neighbors: Scalable and accurate collaborative filtering.** TKDD, 2010.
 
+* Ning et al. **SLIM: Sparse Linear Methods for Top-N Recommender Systems.** ICDM, 2011.
+
 * Chen et al. **Feature-based matrix factorization.** arXiv, 2011.
+
+* Rendle et al. **Factorization Machines with libFM.** TIST, 2012.
 
 * Rendle. **Learning recommender systems with adaptive regularization.** WSDM, 2012.
 
@@ -179,6 +183,8 @@ the user with the recommendations, but also make the user aware why such items a
 * Grbovic et al. **E-commerce in your inbox: Product recommendations at scale.** KDD, 2015.
 
 * Barkan et al. **Item2vec: neural item embedding for collaborative filtering.** Machine Learning for Signal Processing, 2016.
+
+* Liang et al. **Factorization Meets the Item Embedding: Regularizing Matrix Factorization with Item Co-occurrence.** RecSys, 2016
 
 * Liang et al. **Modeling user exposure in recommendation.** WWW, 2016.
 
@@ -452,6 +458,8 @@ the user with the recommendations, but also make the user aware why such items a
 * Man et al. **Cross-domain recommendation: an embedding and mapping approach.** IJCAI, 2017.
 
 * Cohen et al. **Expediting Exploration by Attribute-to-Feature Mapping for Cold-Start Recommendations.** RecSys, 2017.
+
+* Volkovs et al. **DropoutNet: Addressing Cold Start in Recommender Systems.** NIPS, 2017
 
 * Dureddy et al. **Handling Cold-Start Collaborative Filtering with Reinforcement Learning.** arXiv, 2018.
 
@@ -883,6 +891,14 @@ the user with the recommendations, but also make the user aware why such items a
 ### Netflix
 
 * Balazs et al. **Session-based recommendations with recurrent neural networks.** ICLR, 2016.
+
+### Pinterest
+
+* Ying et al. **PinSage: Graph Convolutional Neural Networks for Web-Scale Recommender Systems.** KDD, 2018
+
+* Pal et al. **PinnerSage: Multi-Modal User Embedding Framework for Recommendations at Pinterest.** KDD, 2020
+
+* Yang et al. **MultiSage: Empowering GCN with Contextualized Multi-Embeddings on Web-Scale Multipartite Networks.** KDD, 2020
 
 ### Sina
 
