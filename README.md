@@ -515,17 +515,27 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Lian et al. **Discrete Content-aware Matrix Factorization.** SIGKDD, 2017.
 
+* Zhang et al. **Discrete Personalized Ranking for Fast Collaborative Filtering from Implicit Feedback.** AAAI, 2017.
+
+* Zhang et al. **Discrete Deep Learning for Fast Content-Aware Recommendation.** WSDM, 2018.
+
 * Han et al. **Discrete Factorization Machines for Fast Feature-based Recommendatio.** IJCAI, 2018.
 
-* Guibing et al. **Discrete Trust-aware Matrix Factorization for Fast Recommendation.** IJCAI, 2019.
+* Lian et al. **Discrete Matrix Factorization and Extension for Fast Item Recommendation.** TKDE, 2019.
 
 * Chenghao et al. **Discrete Social Recommendation.** AAAI, 2019.
+
+* Guibing et al. **Discrete Trust-aware Matrix Factorization for Fast Recommendation.** IJCAI, 2019.
 
 * Defu et al. **LightRec: a Memory and Search-Efficient Recommender System.** WWW, 2020.
 
 * Yang et al. **A Generic Network Compression Framework for Sequential Recommender Systems.** SIGIR, 2020.
 
 * Xiangnan et al. **LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation.** SIGIR, 2020.
+
+* Hansen et al. **Content-aware Neural Hashing for Cold-start Recommendation.** SIGIR, 2020.
+
+* Zhang et al. **Deep Pairwise Hashing for Cold-start Recommendation.** TKDE, 2020.
 
 
 ## EE in RS
