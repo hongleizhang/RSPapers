@@ -935,7 +935,9 @@ the user with the recommendations, but also make the user aware why such items a
 
 * John et al. **Collaborative filtering with privacy via factor analysis.** SIGIR, 2002.
 
-* et al. **Robust De-anonymization of Large Sparse Datasets.** SP, 2008
+* Arvind et al. **Robust De-anonymization of Large Sparse Datasets.** S&P, 2008.
+
+* Udi et al. **BlurMe: inferring and obfuscating user gender based on ratings.** Recsys, 2012.
 
 ## RSAlgorithms
 
