@@ -4,7 +4,7 @@
 
 This repository provides a list of papers about Recommender Systems including comprehensive surveys, general recommender system, social recommender system, deep learing-based recommender system, cold start problem in recommender system, efficient recommender system, exploration and exploitation problem in recommender system, explainability in recommender system  as well as  click through rate prediction for recommender system, knowledge graph for recommeder system, review based recommender system, conversational recommender system and industrial/practical recommender system. For more posts about recommender systems, please transfer to [ML_RSer](https://mp.weixin.qq.com/s/WqpRxKBUHYBeuTh6AETpTQ).
 
-- [**New!**] Add the new part of [**Privacy&Security RS**](https://github.com/hongleizhang/RSPapers/tree/master/15-Security_RS).
+- [**New!**] Add the new part of [**Privacy&Security RS**](https://github.com/hongleizhang/RSPapers#privacysecurity-in-rs).
 
 - [**New!**] Add the new part of [**Industrial RS**](https://github.com/hongleizhang/RSPapers#industrial-rs).
 
@@ -39,7 +39,7 @@ the user with the recommendations, but also make the user aware why such items a
 
 [**14-Industrial RS:**](https://github.com/hongleizhang/RSPapers#industrial-rs) some papers on best practices published in industry.
 
-[**15-Privacy&Security RS:**](https://github.com/hongleizhang/RSPapers#privacy&security-rs) some papers about privacy preserving and security in recommder systems.
+[**15-Privacy&Security RS:**](https://github.com/hongleizhang/RSPapers#privacysecurity-in-rs) some papers about privacy preserving and security in recommder systems.
 
 ============================================================================
 
@@ -937,7 +937,7 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Arvind et al. **Robust De-anonymization of Large Sparse Datasets.** S&P, 2008.
 
-* Udi et al. **BlurMe: inferring and obfuscating user gender based on ratings.** Recsys, 2012.
+* Udi et al. **BlurMe: inferring and obfuscating user gender based on ratings.** RecSys, 2012.
 
 ## RSAlgorithms
 
