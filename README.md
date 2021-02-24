@@ -4,42 +4,42 @@
 
 This repository provides a list of papers about Recommender Systems including comprehensive surveys, general recommender system, social recommender system, deep learing-based recommender system, cold start problem in recommender system, efficient recommender system, exploration and exploitation problem in recommender system, explainability in recommender system  as well as  click through rate prediction for recommender system, knowledge graph for recommeder system, review based recommender system, conversational recommender system and industrial/practical recommender system. For more posts about recommender systems, please transfer to [ML_RSer](https://mp.weixin.qq.com/s/WqpRxKBUHYBeuTh6AETpTQ).
 
-- [**New!**] Add the new part of [**Industrial RS**](https://github.com/hongleizhang/RSPapers/tree/master/14-Industrial_RS).
+- [**New!**] Add the new part of [**Privacy&Security RS**](https://github.com/hongleizhang/RSPapers/tree/master/15-Security_RS).
 
-- [**New!**] Add the new part of [**Conversational RS**](https://github.com/hongleizhang/RSPapers/tree/master/13-Conversational_RS).
-
-- [**New!**] Add the new part of [**Review based RS**](https://github.com/hongleizhang/RSPapers/tree/master/12-Review_RS).
+- [**New!**] Add the new part of [**Industrial RS**](https://github.com/hongleizhang/RSPapers#industrial-rs).
 
 ============================================================================
 
-**01-Surveys:** a set of comprehensive surveys about recommender system, such as hybrid recommender systems, social recommender systems, poi recommender systems, deep-learning based recommonder systems and so on.
+[**01-Surveys:**](https://github.com/hongleizhang/RSPapers#surveys) a set of comprehensive surveys about recommender system, such as hybrid recommender systems, social recommender systems, poi recommender systems, deep-learning based recommonder systems and so on.
 
-**02-General RS:** a set of famous recommendation papers which make predictions with some classic models and practical theory.
+[**02-General RS:**](https://github.com/hongleizhang/RSPapers#general-recommender-system) a set of famous recommendation papers which make predictions with some classic models and practical theory.
 
-**03-Social RS:** several papers which utilize trust/social information in order to alleviate the sparsity of ratings data.
+[**03-Social RS:**](https://github.com/hongleizhang/RSPapers#social-recommender-system) several papers which utilize trust/social information in order to alleviate the sparsity of ratings data.
 
-**04-Deep Learning-based RS:** a set of papers to build a recommender system with deep learning techniques.
+[**04-Deep Learning-based RS:**](https://github.com/hongleizhang/RSPapers#deep-learning-based-recommender-system) a set of papers to build a recommender system with deep learning techniques.
 
-**05-Cold Start Problem in RS:** some papers specifically dealing with the cold start problems inherent in collaborative filtering.
+[**05-Cold Start Problem in RS:**](https://github.com/hongleizhang/RSPapers#cold-start-problem-in-recommender-system) some papers specifically dealing with the cold start problems inherent in collaborative filtering.
 
-**06-POI RS:** it focus on helping users explore attractive locations with the information of location-based social networks.
+[**06-POI RS:**](https://github.com/hongleizhang/RSPapers#poi-recommender-system) it focus on helping users explore attractive locations with the information of location-based social networks.
 
-**07-Efficient RS:** some techniques for efficient recommender system in order to training and making recommendation efficiently.
+[**07-Efficient RS:**](https://github.com/hongleizhang/RSPapers#efficient-rs) some techniques for efficient recommender system in order to training and making recommendation efficiently.
 
-**08-EE Problem in RS:** some articles about exploration and exploitation problems in recommendation.
+[**08-EE Problem in RS:**](https://github.com/hongleizhang/RSPapers#ee-in-rs) some articles about exploration and exploitation problems in recommendation.
 
-**09-Explainability on RS:** it focus on addressing the problem of 'why', they not only provide
+[**09-Explainability on RS:**](https://github.com/hongleizhang/RSPapers#explainability-on-rs) it focus on addressing the problem of 'why', they not only provide
 the user with the recommendations, but also make the user aware why such items are recommended by generating recommendation explanations.
 
-**10-CTR Prediction for RS:** as one part of recommendation, click-through rate prediction focuses on the elaboration of candidate sets for recommendation.
+[**10-CTR Prediction for RS:**](https://github.com/hongleizhang/RSPapers#ctr-prediction-for-rs) as one part of recommendation, click-through rate prediction focuses on the elaboration of candidate sets for recommendation.
 
-**11-Knowledge Graph for RS:** knowledge graph, as the side information of behavior interaction matrix in recent years, which can effectively alleviate the problem of data sparsity and cold start, and can provide a reliable explanation for recommendation results.
+[**11-Knowledge Graph for RS:**](https://github.com/hongleizhang/RSPapers#knowledge-graph-for-rs) knowledge graph, as the side information of behavior interaction matrix in recent years, which can effectively alleviate the problem of data sparsity and cold start, and can provide a reliable explanation for recommendation results.
 
-**12-Review based RS:** some articles about review or text based recommendations.
+[**12-Review based RS:**](https://github.com/hongleizhang/RSPapers#review-based-rs) some articles about review or text based recommendations.
 
-**13-Conversational RS:** some papers made use of natural language processing technology to interactively provide recommendations.
+[**13-Conversational RS:**](https://github.com/hongleizhang/RSPapers#conversational-rs) some papers made use of natural language processing technology to interactively provide recommendations.
 
-**14-Industrial RS:** some papers on best practices published in industry.
+[**14-Industrial RS:**](https://github.com/hongleizhang/RSPapers#industrial-rs) some papers on best practices published in industry.
+
+[**15-Privacy&Security RS:**](https://github.com/hongleizhang/RSPapers#privacy&security-rs) some papers about privacy preserving and security in recommder systems.
 
 ============================================================================
 
@@ -930,6 +930,12 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Shaunak et al. **Learning to Create Better Ads Generation and Ranking Approaches for Ad Creative Refinement.** CIKM, 2020.
 
+
+## Privacy&Security in RS
+
+* John et al. **Collaborative filtering with privacy via factor analysis.** SIGIR, 2002.
+
+* et al. **Robust De-anonymization of Large Sparse Datasets.** SP, 2008
 
 ## RSAlgorithms
 
