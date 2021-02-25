@@ -43,7 +43,11 @@ the user with the recommendations, but also make the user aware why such items a
 
 ============================================================================
 
-\*All papers are sorted by year for clarity.
+\* Please help to contribute this list by adding [pull request](https://github.com/hongleizhang/rspapers/pulls) with the template below.
+
+```markdown
+* Author Name et al. **Paper Name.**  Conference/Journal, Year.
+```
 
 ## Surveys
 
@@ -585,7 +589,7 @@ the user with the recommendations, but also make the user aware why such items a
 
 * H. Brendan McMahan et al. **Ad Click Prediction a View from the Trenches.** KDD, 2013.
 
-* Aäron et al. **Deep content-based music recommendation.** NIPS, 2013.
+* Aaron et al. **Deep content-based music recommendation.** NIPS, 2013.
 
 * Xinran He et al. **Practical Lessons from Predicting Clicks on Ads at Facebook.** ADKDD, 2014.
 
@@ -748,11 +752,11 @@ the user with the recommendations, but also make the user aware why such items a
 
 ## Industrial RS
 
-### Airbnb
+[Airbnb]
 
 * Mihajlo et al. **Real-time Personalization using Embeddings for Search Ranking at Airbnb.** KDD.2018.
 
-### Alibaba
+[Alibaba]
 
 * Kun et al. **Learning Piece-wise Linear Models from Large Scale Data for Ad Click Prediction.** arXiv, 2017.
 
@@ -794,7 +798,7 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Ze et al. **Deep Match to Rank Model for Personalized Click-Through Rate Prediction.** AAAI, 2020.
 
-* Shu-Ting et al. **Deep Time-Stream Framework for Click-Through Rate Prediction by Tracking Interest Evolution.** AAAI, 2020.
+* Shu et al. **Deep Time-Stream Framework for Click-Through Rate Prediction by Tracking Interest Evolution.** AAAI, 2020.
 
 * Changhua et al. **Personalized Re-ranking for Recommendation.** RecSys, 2019.
 
@@ -804,21 +808,21 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Yufei et al. **MTBRN: Multiplex Target-Behavior Relation Enhanced Network for Click-Through Rate Prediction.** CIKM, 2020.
 
-### Baidu
+[Baidu]
 
 * Xiangyu et al. **Whole-Chain Recommendations.** CIKM, 2020.
 
-### Criteo
+[Criteo]
 
 * Yuchin et al. **Field-aware Factorization Machines for CTR Prediction.** RecSys, 2016.
 
-### Facebook
+[Facebook]
 
 * Xinran et al. **Practical Lessons from Predicting Clicks on Ads at Facebook.** KDD, 2014.
 
 * Maxim et al. **Deep Learning Recommendation Model for Personalization and Recommendation Systems.** arXiv, 2019.
 
-### Google
+[Google]
 
 * James et al. **The YouTube Video Recommendation System.** RecSys, 2010.
 
@@ -826,7 +830,7 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Paul et al. Deep Neural Networks for YouTube Recommendations.** RecSys, 2016.
 
-* Heng-Tze et al. **Wide & Deep Learning for Recommender Systems.** DLRS, 2016.
+* Heng et al. **Wide & Deep Learning for Recommender Systems.** DLRS, 2016.
 
 * Ruoxi et al. **Deep & Cross Network for Ad Click Predictions.** KDD, 2017.
 
@@ -836,7 +840,7 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Xinyang et al. **Sampling-Bias-Corrected Neural Modeling for Large Corpus Item Recommendations.** RecSys, 2019.
 
-### Huawei
+[Huawei]
 
 * Huifeng et al. **DeepFM: A Factorization-Machine based Neural Network for CTR Prediction.** IJCAI, 2017.
 
@@ -848,7 +852,7 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Yishi et al. **GraphSAIL Graph Structure Aware Incremental Learning for Recommender Systems.** CIKM, 2020.
 
-### JingDong
+[JingDong]
 
 * Huifeng et al. **DeepFM: An End-to-End Wide & Deep Learning Framework for CTR Prediction.** arXiv, 2018.
 
@@ -862,11 +866,11 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Wenqi et al. **Graph Neural Networks for Social Recommendation.** WWW, 2019.
 
-### Meituan
+[Meituan]
 
 * Hongwei et al. **Knowledge-aware Graph Neural Networks with Label Smoothness Regularization for Recommender Systems.** KDD, 2019.
 
-### Microsoft
+[Microsoft]
 
 * Po-Sen et al. **Learning Deep Structured Semantic Models for Web Search using Clickthrough Data.** CIKM, 2013.
 
@@ -898,11 +902,11 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Le et al. **SocialGCN: An Efficient Graph Convolutional Network based Model for Social Recommendation.** arXiv, 2019.
 
-### Netflix
+[Netflix]
 
 * Balazs et al. **Session-based recommendations with recurrent neural networks.** ICLR, 2016.
 
-### Pinterest
+[Pinterest]
 
 * Ying et al. **PinSage: Graph Convolutional Neural Networks for Web-Scale Recommender Systems.** KDD, 2018
 
@@ -910,11 +914,11 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Yang et al. **MultiSage: Empowering GCN with Contextualized Multi-Embeddings on Web-Scale Multipartite Networks.** KDD, 2020
 
-### Sina
+[Sina]
 
 * Junlin et al. **FAT-DeepFFM: Field Attentive Deep Field-aware Factorization Machine.** arXiv, 2019.
 
-### Tencent
+[Tencent]
 
 * Qitian et al. **Dual graph attention networks for deep latent representation of multifaceted social effects in recommender systems.** WWW, 2019.
 
@@ -924,7 +928,7 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Tongwen et al. **GateNet:Gating-Enhanced Deep Network for Click-Through Rate Prediction.** arXiv, 2020.
 
-### Yahoo
+[Yahoo]
 
 * Junwei et al. **Field-weighted Factorization Machines for Click-Through Rate Prediction in Display Advertising.** WWW, 2018.
 
