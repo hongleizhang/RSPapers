@@ -2,7 +2,7 @@
 
 [![wechat](https://img.shields.io/badge/wechat-ML--RSer-blue)](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA4NTUxNTE4Ng==&mid=2247483655&idx=1&sn=5ed421a66f03a31fbab722192b8ccae2&send_time=) [![update](https://img.shields.io/badge/update-weekly-blueviolet)](#must-read-papers-on-recommender-system) [![license](https://img.shields.io/github/license/hongleizhang/RSPapers)](https://github.com/hongleizhang/RSPapers/blob/master/LICENSE)
 
-This repository provides a curated list of papers about Recommender Systems including comprehensive surveys, general recommender system, social recommender system, deep learing-based recommender system, cold start problem in recommender system, efficient recommender system, exploration and exploitation problem in recommender system, explainability in recommender system  as well as  click through rate prediction for recommender system, knowledge graph for recommeder system, review based recommender system, conversational recommender system, industrial/practical recommender system. and privacy preserving recommender system. For more posts about recommender systems, please transfer to [ML_RSer](https://mp.weixin.qq.com/s/WqpRxKBUHYBeuTh6AETpTQ).
+This repository provides a curated list of papers about Recommender Systems including comprehensive surveys, general recommender system, social recommender system, deep learing-based recommender system, cold start problem in recommender system, efficient recommender system, exploration and exploitation problem in recommender system, explainability in recommender system  as well as  click through rate prediction for recommender system, knowledge graph for recommeder system, review based recommender system, conversational recommender system, industrial/practical recommender system and privacy preserving recommender system. For more posts about recommender systems, please transfer to [ML_RSer](https://mp.weixin.qq.com/s/WqpRxKBUHYBeuTh6AETpTQ).
 
 - [**New!**] Add the new part of [**Privacy&Security RS**](https://github.com/hongleizhang/RSPapers#privacysecurity-in-rs).
 
@@ -942,6 +942,56 @@ the user with the recommendations, but also make the user aware why such items a
 * Arvind et al. **Robust De-anonymization of Large Sparse Datasets.** S&P, 2008.
 
 * Udi et al. **BlurMe: inferring and obfuscating user gender based on ratings.** RecSys, 2012.
+
+* Hua et al. **Differentially Private Matrix Factorization.** IJCAI, 2015.
+
+* Erez et al. **Secure Multi-Party Protocols for Item-Based Collaborative Filtering.** Recsys, 2017.
+
+* Meng et al. **Personalized Privacy-Preserving Social Recommendation.** AAAI, 2018.
+
+* Shin et al. **Privacy Enhanced Matrix Factorization for Recommendation with Local Differential Privacy.** TKDE, 2018.
+
+* Chen et al. **Privacy Preserving Point-of-interest Recommendation Using Decentralized Matrix Factorization.** AAAI, 2018.
+
+* Istvan et al. **Decentralized Recommendation Based on Matrix Factorization-A Comparison of Gossip and Federated Learning.** PKDD, 2019.
+
+* Aidmar et al. **Efficient Privacy-Preserving Recommendations based on Social Graphs.** RecSys, 2019.
+
+* Muhammad et al. **Federated Collaborative Filtering for Privacy-Preserving Personalized Recommendation System.** arXiv, 2019.
+
+* Chen et al. **Attacking Recommender Systems with Augmented User Profiles.** CIKM, 2020.
+
+* Li et al. **Federated Recommendation System via Differential Privacy.** ISIT, 2020.
+
+* Lin et al. **FedRec: Federated Recommendation with Explicit Feedback.** IEEE IS, 2020.
+
+* Qi et al. **FedRec: Privacy-Preserving News Recommendation with Federated Learning.** arXiv, 2020.
+
+* Zhang et al. **GCN-Based User Representation Learning for Unifying Robust Recommendation and Fraudster Identification.** SIGIR, 2020.
+
+* Wang et al. **Global and Local Differential Privacy for Collaborative Bandits.** RecSys, 2020.
+
+* Fang et al. **Influence Function based Data Poisoning Attacks to Top-N Recommender Systems.** WWW, 2020.
+
+* Lin et al. **Meta Matrix Factorization for Federated Rating Predictions.** SIGIR, 2020.
+
+* Zhang et al. **Practical Data Poisoning Attack against Next-Item Recommendation.** arXiv, 2020.
+
+* Beigi et al. **Privacy-Aware Recommendation with Private-Attribute Protection using Adversarial Learning.** WSDM, 2020.
+
+* Hu et al. **PrivNet: Safeguarding Private Attributes in Transfer Learning for Recommendation.** EMNLP, 2020.
+
+* Chai et al. **Secure Federated Matrix Factorization.** IEEE IS, 2020.
+
+* Chen et al. **Secure Social Recommendation based on Secret Sharing.** ECAI, 2020.
+
+* Cohen et al. **A Black-Box Attack Model for Visually-Aware Recommenders.** WSDM, 2021.
+
+* Huang et al. **Data Poisoning Attacks to Deep Learning Based Recommender Systems.** NDSS, 2021.
+
+* Wu et al. **FedGNN: Federated Graph Neural Network for Privacy-Preserving Recommendation.** arXiv, 2021.
+
+* Zhang et al. **Graph Embedding for Recommendation against Attribute Inference Attacks.** arXiv, 2021.
 
 ## RSAlgorithms
 
