@@ -119,6 +119,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Chen et al. **Bias  and  Debias  in  Recommender  System: A  Survey  and  Future  Directions.** arXiv, 2020.
 
+* Zhu et al. **Cross-Domain Recommendation-Challenges, Progress, and Prospects.** arxiv, 2021.
+
 
 ## General Recommender System
 
