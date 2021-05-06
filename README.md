@@ -121,6 +121,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Zhu et al. **Cross-Domain Recommendation-Challenges, Progress, and Prospects.** arxiv, 2021.
 
+* Wu et al. **A Survey on Neural Recommendation: From Collaborative Filtering to Content and Context Enriched Recommendation.** TKDE, 2021.
+
 
 ## General Recommender System
 
