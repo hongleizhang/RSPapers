@@ -331,6 +331,10 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Bo Jin et al. **Partial Relationship Aware Influence Diffusion via a Multi-channel Encoding Scheme for Social Recommendation.** CIKM, 2020.
 
+* Liangwei Yang et al. **ConsisRec: Enhancing GNN for Social Recommendation via Consistent Neighbor Aggregation.** SIGIR, 2021.
+
+* Bairan Fu et al. **Dual Side Deep Context-aware Modulation for Social Recommendation.** WWW, 2021.
+
 
 ## Deep Learning based Recommender System
 
