@@ -1001,6 +1001,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Chen et al. **Secure Social Recommendation based on Secret Sharing.** ECAI, 2020.
 
+* Muhammad et al. **FedFast Going Beyond Average for Faster Training of Federated Recommender Systems.** KDD, 2020.
+
 * Cohen et al. **A Black-Box Attack Model for Visually-Aware Recommenders.** WSDM, 2021.
 
 * Huang et al. **Data Poisoning Attacks to Deep Learning Based Recommender Systems.** NDSS, 2021.
@@ -1008,6 +1010,10 @@ the user with the recommendations, but also make the user aware why such items a
 * Wu et al. **FedGNN: Federated Graph Neural Network for Privacy-Preserving Recommendation.** arXiv, 2021.
 
 * Zhang et al. **Graph Embedding for Recommendation against Attribute Inference Attacks.** arXiv, 2021.
+
+* Liang et al. **FedRec++: Lossless Federated Recommendation with Explicit Feedback.** AAAI, 2021.
+
+* Wu et al. **Hierarchical Personalized Federated Learning for User Modeling.** WWW, 2021.
 
 ## RSAlgorithms
 
