@@ -125,6 +125,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Wu et al. **A Survey on Neural Recommendation: From Collaborative Filtering to Content and Context Enriched Recommendation.** TKDE, 2021.
 
+* Chen et al. **A Survey of Deep Reinforcement Learning in Recommender Systems: A Systematic Review and Future Directions.** arxiv, 2021.
+
 
 ## General Recommender System
 
