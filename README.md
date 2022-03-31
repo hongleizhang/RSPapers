@@ -555,6 +555,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Zhang et al. **Deep Pairwise Hashing for Cold-start Recommendation.** TKDE, 2020.
 
+* Liu et al. **Discrete Listwise Collaborative Filtering for Fast Recommendation** SDM, 2021
+
 
 ## EE in RS
 
