@@ -127,6 +127,14 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Chen et al. **A Survey of Deep Reinforcement Learning in Recommender Systems: A Systematic Review and Future Directions.** arxiv, 2021.
 
+* Lin et al. **A Survey on Reinforcement Learning for Recommender Systems.** arXiv, 2022.
+
+* Zheng et al. **AutoML for Deep Recommender Systems: A Survey.** arXiv, 2022.
+
+* Chen et al. **Measuring "Why" in Recommender Systems: a Comprehensive Survey on the  Evaluation of Explainable Recommendation.**, arXiv, 2022.
+
+* Yu et al. **Self-Supervised Learning for Recommender Systems: A Survey.** arXiv, 2022.
+
 
 ## General Recommender System
 
