@@ -1029,9 +1029,31 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Wu et al. **FedGNN: Federated Graph Neural Network for Privacy-Preserving Recommendation.** arXiv, 2021.
 
+* Vito et al. **FedeRank: User Controlled Feedback with Federated Recommender Systems.** ECIR, 2021.
+
 * Liang et al. **FedRec++: Lossless Federated Recommendation with Explicit Feedback.** AAAI, 2021.
 
 * Wu et al. **Hierarchical Personalized Federated Learning for User Modeling.** WWW, 2021.
+
+* Kalloori et al. **Horizontal Cross-Silo Federated Recommender Systems.** RecSys, 2021.
+
+* Farwa et al. **A Payload Optimization Method for Federated Recommender Systems.** RecSys, 2021.
+
+* Lin et al. **FR-FMSS: Federated Recommendation via Fake Marks and Secret Sharing.** RecSys, 2021.
+
+* Liu et al. **FedCT: Federated Collaborative Transfer for Recommendation.** SIGIR, 2021.
+
+* Liu et al. **Federated Social Recommendation with Graph Neural Network.** TIST, 2021.
+
+* Lin et al. **Learning Federated Representations and Recommendations with Limited Negatives.** arXiv, 2021.
+
+* Li et al. **Federated Matrix Factorization with Privacy Guarantee.** VLDB Endowment, 2022.
+
+* Zhang et al. **PipAttack: Poisoning Federated Recommender Systems for Manipulating Item Promotion.** WSDM, 2022.
+
+* Rong et al. **Poisoning Deep Learning based Recommender Model in Federated Learning Scenarios.** IJCAI, 2022.
+
+
 
 ## RSAlgorithms
 
