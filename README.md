@@ -39,7 +39,7 @@ the user with the recommendations, but also make the user aware why such items a
 
 [**14-Industrial RS:**](https://github.com/hongleizhang/RSPapers#industrial-rs) some papers on best practices published in industry.
 
-[**15-Privacy&Security RS:**](https://github.com/hongleizhang/RSPapers#privacysecurity-in-rs) some papers about privacy preserving and security in recommder systems.
+[**15-Privacy&Security RS:**](https://github.com/hongleizhang/RSPapers#privacy-in-rs) some papers about privacy preserving and security in recommder systems.
 
 ============================================================================
 
@@ -965,7 +965,7 @@ the user with the recommendations, but also make the user aware why such items a
 * Shaunak et al. **Learning to Create Better Ads Generation and Ranking Approaches for Ad Creative Refinement.** CIKM, 2020.
 
 
-## Privacy&Security in RS
+## Privacy in RS
 
 * John et al. **Collaborative filtering with privacy via factor analysis.** SIGIR, 2002.
 
@@ -989,23 +989,13 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Aidmar et al. **Efficient Privacy-Preserving Recommendations based on Social Graphs.** RecSys, 2019.
 
-* Muhammad et al. **Federated Collaborative Filtering for Privacy-Preserving Personalized Recommendation System.** arXiv, 2019.
-
 * Chen et al. **Attacking Recommender Systems with Augmented User Profiles.** CIKM, 2020.
 
-* Li et al. **Federated Recommendation System via Differential Privacy.** ISIT, 2020.
-
-* Lin et al. **FedRec: Federated Recommendation with Explicit Feedback.** IEEE IS, 2020.
-
-* Qi et al. **FedRec: Privacy-Preserving News Recommendation with Federated Learning.** arXiv, 2020.
-
-* Zhang et al. **GCN-Based User Representation Learning for Unifying Robust Recommendation and Fraudster Identification.** SIGIR, 2020.
+* Zhang et al. **GCN: Based User Representation Learning for Unifying Robust Recommendation and Fraudster Identification.** SIGIR, 2020.
 
 * Wang et al. **Global and Local Differential Privacy for Collaborative Bandits.** RecSys, 2020.
 
 * Fang et al. **Influence Function based Data Poisoning Attacks to Top-N Recommender Systems.** WWW, 2020.
-
-* Lin et al. **Meta Matrix Factorization for Federated Rating Predictions.** SIGIR, 2020.
 
 * Zhang et al. **Practical Data Poisoning Attack against Next-Item Recommendation.** arXiv, 2020.
 
@@ -1013,19 +1003,31 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Hu et al. **PrivNet: Safeguarding Private Attributes in Transfer Learning for Recommendation.** EMNLP, 2020.
 
-* Chai et al. **Secure Federated Matrix Factorization.** IEEE IS, 2020.
-
 * Chen et al. **Secure Social Recommendation based on Secret Sharing.** ECAI, 2020.
-
-* Muhammad et al. **FedFast Going Beyond Average for Faster Training of Federated Recommender Systems.** KDD, 2020.
 
 * Cohen et al. **A Black-Box Attack Model for Visually-Aware Recommenders.** WSDM, 2021.
 
 * Huang et al. **Data Poisoning Attacks to Deep Learning Based Recommender Systems.** NDSS, 2021.
 
-* Wu et al. **FedGNN: Federated Graph Neural Network for Privacy-Preserving Recommendation.** arXiv, 2021.
-
 * Zhang et al. **Graph Embedding for Recommendation against Attribute Inference Attacks.** arXiv, 2021.
+
+[Federated Learning]
+
+* Muhammad et al. **Federated Collaborative Filtering for Privacy-Preserving Personalized Recommendation System.** arXiv, 2019.
+
+* Li et al. **Federated Recommendation System via Differential Privacy.** ISIT, 2020.
+
+* Lin et al. **FedRec: Federated Recommendation with Explicit Feedback.** IEEE IS, 2020.
+
+* Qi et al. **FedRec: Privacy-Preserving News Recommendation with Federated Learning.** arXiv, 2020.
+
+* Lin et al. **Meta Matrix Factorization for Federated Rating Predictions.** SIGIR, 2020.
+
+* Chai et al. **Secure Federated Matrix Factorization.** IEEE IS, 2020.
+
+* Muhammad et al. **FedFast: Going Beyond Average for Faster Training of Federated Recommender Systems.** KDD, 2020.
+
+* Wu et al. **FedGNN: Federated Graph Neural Network for Privacy-Preserving Recommendation.** arXiv, 2021.
 
 * Liang et al. **FedRec++: Lossless Federated Recommendation with Explicit Feedback.** AAAI, 2021.
 
@@ -1053,11 +1055,6 @@ Thank @**ShomyLiu** for collecting papers about Review based RS.
 
 Thank @**Fanshaoliu** for collecting papers about Industrial RS.
 
-Specially appreciate Professor @[**Jun Wu**](http://faculty.bjtu.edu.cn/8620/) for his attentive guidance in my research career.
-
-WeChat Official Account: [ML-RSer](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA4NTUxNTE4Ng==&mid=2247483655&idx=1&sn=5ed421a66f03a31fbab722192b8ccae2&send_time=)
-
-My ZhiHu: [Honglei Zhang](https://www.zhihu.com/people/hongleizhang)
 
 
 
