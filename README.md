@@ -1025,6 +1025,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Chai et al. **Secure Federated Matrix Factorization.** IEEE IS, 2020.
 
+* Flanagan et al. **Federated Multi-view Matrix Factorization for Personalized Recommendations.** PKDD, 2020.
+
 * Muhammad et al. **FedFast: Going Beyond Average for Faster Training of Federated Recommender Systems.** KDD, 2020.
 
 * Wu et al. **FedGNN: Federated Graph Neural Network for Privacy-Preserving Recommendation.** arXiv, 2021.
@@ -1040,6 +1042,8 @@ the user with the recommendations, but also make the user aware why such items a
 * Farwa et al. **A Payload Optimization Method for Federated Recommender Systems.** RecSys, 2021.
 
 * Lin et al. **FR-FMSS: Federated Recommendation via Fake Marks and Secret Sharing.** RecSys, 2021.
+
+* Minto et al. **Stronger Privacy for Federated Collaborative Filtering With Implicit Feedback.** RecSys, 2021.
 
 * Liu et al. **FedCT: Federated Collaborative Transfer for Recommendation.** SIGIR, 2021.
 
