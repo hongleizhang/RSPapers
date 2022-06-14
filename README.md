@@ -135,6 +135,10 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Yu et al. **Self-Supervised Learning for Recommender Systems: A Survey.** arXiv, 2022.
 
+* Wang et al. **A Survey on the Fairness of Recommender Systems. ** TOIS, 2022.
+
+* Wang et al. **Deep Meta-learning in Recommendation Systems: A Survey.** arXiv, 2022.
+
 
 ## General Recommender System
 
