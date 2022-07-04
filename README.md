@@ -4,7 +4,7 @@
 
 This repository provides a curated list of papers and tutorials about Recommender Systems (RS) including systematic tutorials, comprehensive surveys, general recommender system, social recommender system, deep learing-based recommender system, cold start problem in recommender system, efficient recommender system, exploration and exploitation problem in recommender system, explainability in recommender system  as well as  click through rate prediction for recommender system, knowledge graph for recommeder system, review based recommender system, conversational recommender system, industrial/practical recommender system and privacy preserving recommender system. For more posts about recommender systems, please transfer to [ML_RSer](https://mp.weixin.qq.com/s/WqpRxKBUHYBeuTh6AETpTQ).
 
-- [**New!**] Add the new part of [**RS-Tutorials**](https://github.com/hongleizhang/RSPapers#industrial-rs).
+- [**New!**] Add the new part of [**RS-Tutorials**](https://github.com/hongleizhang/RSPapers#tutorials).
 
 - [**New!**] Add the new part of [**Privacy&Security RS**](https://github.com/hongleizhang/RSPapers#privacysecurity-in-rs).
 
