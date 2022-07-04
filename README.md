@@ -2,13 +2,15 @@
 
 [![wechat](https://img.shields.io/badge/wechat-ML--RSer-blue)](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA4NTUxNTE4Ng==&mid=2247483655&idx=1&sn=5ed421a66f03a31fbab722192b8ccae2&send_time=) [![update](https://img.shields.io/badge/update-weekly-blueviolet)](#must-read-papers-on-recommender-system) [![license](https://img.shields.io/github/license/hongleizhang/RSPapers)](https://github.com/hongleizhang/RSPapers/blob/master/LICENSE)
 
-This repository provides a curated list of papers about Recommender Systems including comprehensive surveys, general recommender system, social recommender system, deep learing-based recommender system, cold start problem in recommender system, efficient recommender system, exploration and exploitation problem in recommender system, explainability in recommender system  as well as  click through rate prediction for recommender system, knowledge graph for recommeder system, review based recommender system, conversational recommender system, industrial/practical recommender system and privacy preserving recommender system. For more posts about recommender systems, please transfer to [ML_RSer](https://mp.weixin.qq.com/s/WqpRxKBUHYBeuTh6AETpTQ).
+This repository provides a curated list of papers and tutorials about Recommender Systems (RS) including systematic tutorials, comprehensive surveys, general recommender system, social recommender system, deep learing-based recommender system, cold start problem in recommender system, efficient recommender system, exploration and exploitation problem in recommender system, explainability in recommender system  as well as  click through rate prediction for recommender system, knowledge graph for recommeder system, review based recommender system, conversational recommender system, industrial/practical recommender system and privacy preserving recommender system. For more posts about recommender systems, please transfer to [ML_RSer](https://mp.weixin.qq.com/s/WqpRxKBUHYBeuTh6AETpTQ).
+
+- [**New!**] Add the new part of [**RS-Tutorials**](https://github.com/hongleizhang/RSPapers#industrial-rs).
 
 - [**New!**] Add the new part of [**Privacy&Security RS**](https://github.com/hongleizhang/RSPapers#privacysecurity-in-rs).
 
-- [**New!**] Add the new part of [**Industrial RS**](https://github.com/hongleizhang/RSPapers#industrial-rs).
-
 ============================================================================
+
+[**00-Tutorials:**]() contain so many tutorials on recommendation systems given by prominent researchers at many top-tier conferences
 
 [**01-Surveys:**](https://github.com/hongleizhang/RSPapers#surveys) a set of comprehensive surveys about recommender system, such as hybrid recommender systems, social recommender systems, poi recommender systems, deep-learning based recommonder systems and so on.
 
@@ -48,6 +50,48 @@ the user with the recommendations, but also make the user aware why such items a
 ```markdown
 * Author Name et al. **Paper Name.**  Conference/Journal, Year.
 ```
+
+## Tutorials
+
+* Deepak et al. **Recommender Problems for Web Application.** ICML, 2011.
+
+* Bart et al. **Explaining the user experience of recommender systems.** Recsys, 2012.
+
+* Ester et al. **Recommendation in Social Networks.** Recsys, 2013.
+
+* Ivan et al. **Cross-Domain Recommender Systems.** Recsys, 2014.
+
+* Steck et al. **Interactive Recommender Systems.** Recsys, 2015.
+
+* Frank et al. **Real-Time Recommendation of Streamed Data.** Recsys, 2015.
+
+* Boratto et al. **Group Recommender Systems.** Recsys, 2016.
+
+* Alex et al. **Deep Learning for Recommender Systems.** Recsys, 2017.
+
+* Bart et al. **-Privacy for Recommender Systems.** Recsys, 2017.
+
+* Xu et al. **Deep learning for matching in search and recommendation.** SIGIR, 2018.
+
+* Massimo et al. **Sequence-Aware Recommenders.** Recsys, 2018.
+
+* Wang et al. **Learning and Reasoning on Graph for Recommendation.** CIKM, 2019.
+
+* Sonie et al. **Concept to Code: Deep Learning for Multitask Recommendation.** Recsys, 2019.
+
+* Michael at al. **Fairness & Discrimination in Recommendation & Retrieval.** Recsys, 2019.
+
+* Yang et al. **Deep Transfer Learning for Search and Recommendation.** WWW, 2020.
+
+* Deldjoo et al. **Adversarial Machine Learning in Recommender Systems.** WSDM, 2020.
+
+* Fan et al. **Graph Neural Networks for Recommendations.** IJCAI, 2021.
+
+* Lei et al. **Conversational Recommendation: Formulation, Methods, and Evaluation.** Recsys, 2021.
+
+* Yu et al. **Self-Supervised Learning in Recommender Systems.** WWW, 2022.
+
+* Zhao et al. **Automated Machine Learning for Recommendations: Fundamentals and Advances.** WWW, 2022.
 
 ## Surveys
 
