@@ -10,7 +10,7 @@ This repository provides a curated list of papers and tutorials about Recommende
 
 ============================================================================
 
-[**00-Tutorials:**]() contain so many tutorials on recommendation systems given by prominent researchers at many top-tier conferences
+[**00-Tutorials:**](https://github.com/hongleizhang/RSPapers#tutorials) contain so many tutorials on recommendation systems given by prominent researchers at many top-tier conferences
 
 [**01-Surveys:**](https://github.com/hongleizhang/RSPapers#surveys) a set of comprehensive surveys about recommender system, such as hybrid recommender systems, social recommender systems, poi recommender systems, deep-learning based recommonder systems and so on.
 
@@ -179,7 +179,7 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Yu et al. **Self-Supervised Learning for Recommender Systems: A Survey.** arXiv, 2022.
 
-* Wang et al. **A Survey on the Fairness of Recommender Systems. ** TOIS, 2022.
+* Wang et al. **A Survey on the Fairness of Recommender Systems.** TOIS, 2022.
 
 * Wang et al. **Deep Meta-learning in Recommendation Systems: A Survey.** arXiv, 2022.
 
