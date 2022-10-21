@@ -183,6 +183,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Wang et al. **Deep Meta-learning in Recommendation Systems: A Survey.** arXiv, 2022.
 
+* Zhang et al. **A Survey on Privacy-preserving Federated Recommender Systems.** AAS, 2022.
+
 
 ## General Recommender System
 
