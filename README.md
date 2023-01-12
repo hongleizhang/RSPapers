@@ -6,7 +6,7 @@ This repository provides a curated list of papers and tutorials about Recommende
 
 - [**New!**] Add the new part of [**RS-Tutorials**](https://github.com/hongleizhang/RSPapers#tutorials).
 
-- [**New!**] Add the new part of [**Privacy&Security RS**](https://github.com/hongleizhang/RSPapers#privacysecurity-in-rs).
+- [**New!**] Add the new part of [**Privacy&Security RS**](https://github.com/hongleizhang/RSPapers#privacy-in-rs).
 
 ============================================================================
 
@@ -394,6 +394,10 @@ the user with the recommendations, but also make the user aware why such items a
 * Liangwei Yang et al. **ConsisRec: Enhancing GNN for Social Recommendation via Consistent Neighbor Aggregation.** SIGIR, 2021.
 
 * Bairan Fu et al. **Dual Side Deep Context-aware Modulation for Social Recommendation.** WWW, 2021.
+
+* Du et al. **Socially-aware Dual Contrastive Learning for Cold-Start Recommendation.** SIGIR, 2022.
+
+* Yuan et al. **Semantic and Structural View Fusion Modeling for Social Recommendation.** TKDE, 2022.
 
 
 ## Deep Learning based Recommender System
