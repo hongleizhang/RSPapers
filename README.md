@@ -8,7 +8,7 @@ This repository provides a curated list of papers and tutorials about Recommende
 
 - [**New!**] Add the new part of [**Privacy&Security RS**](https://github.com/hongleizhang/RSPapers#privacy-in-rs).
 
-============================================================================
+===========================================================================
 
 [**00-Tutorials:**](https://github.com/hongleizhang/RSPapers#tutorials) contain so many tutorials on recommendation systems given by prominent researchers at many top-tier conferences
 
@@ -43,7 +43,7 @@ the user with the recommendations, but also make the user aware why such items a
 
 [**15-Privacy&Security RS:**](https://github.com/hongleizhang/RSPapers#privacy-in-rs) some papers about privacy preserving and security in recommder systems.
 
-============================================================================
+===========================================================================
 
 \* Please help to contribute this list by adding [pull request](https://github.com/hongleizhang/rspapers/pulls) with the template below.
 
