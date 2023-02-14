@@ -183,7 +183,7 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Wang et al. **Deep Meta-learning in Recommendation Systems: A Survey.** arXiv, 2022.
 
-* Zhang et al. **A Survey on Privacy-preserving Federated Recommender Systems.** AAS, 2022.
+* Zhang et al. **A Survey on Privacy-preserving Federated Recommender Systems (In Chinese).** AAS, 2022.[[pdf]](http://www.aas.net.cn/article/doi/10.16383/j.aas.c211189)
 
 
 ## General Recommender System
@@ -356,6 +356,8 @@ the user with the recommendations, but also make the user aware why such items a
 * Yu et al. **Adaptive implicit friends identification over heterogeneous network for social recommendation.** CIKM, 2018.
 
 * Honglei et al. **Social Collaborative Filtering Ensemble.** PRICAI, 2018.
+
+* Chen et al. **Integrating Dual User Network Embedding With Matrix Factorization For Social Recommender Systems.** IJCNN, 2019.
 
 * Wenqi et al. **Graph Neural Networks for Social Recommendation.** WWW, 2019.
 
@@ -1106,6 +1108,8 @@ the user with the recommendations, but also make the user aware why such items a
 * Zhang et al. **PipAttack: Poisoning Federated Recommender Systems for Manipulating Item Promotion.** WSDM, 2022.
 
 * Rong et al. **Poisoning Deep Learning based Recommender Model in Federated Learning Scenarios.** IJCAI, 2022.
+
+* Zhang et al. **LightFR: Lightweight Federated Recommendation with Privacy-preserving Matrix Factorization.** ACM TOIS, 2023.
 
 
 
