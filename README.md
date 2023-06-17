@@ -520,6 +520,9 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Huafeng et al. **Deep Global and Local Generative Model for Recommendation.** WWW, 2020.
 
+* Choi et al. **LT-OCF: Learnable-Time ODE-based Collaborative Filtering.** CIKM, 2021.
+
+
 
 ## Cold Start Problem in Recommender System
 
@@ -1111,6 +1114,9 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Zhang et al. **LightFR: Lightweight Federated Recommendation with Privacy-preserving Matrix Factorization.** ACM TOIS, 2023.
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=hongleizhang/RSPapers&type=Date)](https://star-history.com/#hongleizhang/RSPapers&Date)
 
 
 ## RSAlgorithms
