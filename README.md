@@ -1133,6 +1133,12 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Lin et al. **How Can Recommender Systems Benefit from Large Language Models: A Survey.** arXiv, 2023.
 
+* Geng et al. **Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5).** arXiv, 2023.
+
+* Cui et al. **M6-Rec: Generative Pretrained Language Models are Open-Ended Recommender Systems.** arXiv, 2022.
+
+* Sileo et al. **Zero-Shot Recommendation as Language Modeling.** ECIR, 2022.
+
 * Gao et al. **Chat-REC: Towards Interactive and Explainable LLMs-Augmented Recommender System.** arXiv, 2023.
 
 * Li et al. **GPT4Rec: A Generative Framework for Personalized Recommendation and User Interests Interpretation.** arXiv, 2003.
