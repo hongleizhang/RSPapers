@@ -1143,7 +1143,7 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Zhang et al. **Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation.** arXiv, 2023.
 
-
+* Hou et al. **Large Language Models are Zero-Shot Rankers for Recommender Systems.** arXiv, 2023.
 
 ## Star History
 
