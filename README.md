@@ -4,6 +4,8 @@
 
 This repository provides a curated list of papers and tutorials about Recommender Systems (RS) including systematic tutorials, comprehensive surveys, general recommender system, social recommender system, deep learing-based recommender system, cold start problem in recommender system, efficient recommender system, exploration and exploitation problem in recommender system, explainability in recommender system  as well as  click through rate prediction for recommender system, knowledge graph for recommeder system, review based recommender system, conversational recommender system, industrial/practical recommender system and privacy preserving recommender system. For more posts about recommender systems, please transfer to [ML_RSer](https://mp.weixin.qq.com/s/WqpRxKBUHYBeuTh6AETpTQ).
 
+- [**New!**] Add the new part of [**LLM for RS**](https://github.com/hongleizhang/RSPapers#llm-for-rs).
+
 - [**New!**] Add the new part of [**RS-Tutorials**](https://github.com/hongleizhang/RSPapers#tutorials).
 
 - [**New!**] Add the new part of [**Privacy&Security RS**](https://github.com/hongleizhang/RSPapers#privacy-in-rs).
@@ -42,6 +44,8 @@ the user with the recommendations, but also make the user aware why such items a
 [**14-Industrial RS:**](https://github.com/hongleizhang/RSPapers#industrial-rs) some papers on best practices published in industry.
 
 [**15-Privacy&Security RS:**](https://github.com/hongleizhang/RSPapers#privacy-in-rs) some papers about privacy preserving and security in recommder systems.
+
+[**16-LLM for RS:**](https://github.com/hongleizhang/RSPapers#llm-for-rs) some papers about large language models in recommder systems.
 
 ===========================================================================
 
@@ -92,6 +96,7 @@ the user with the recommendations, but also make the user aware why such items a
 * Yu et al. **Self-Supervised Learning in Recommender Systems.** WWW, 2022.
 
 * Zhao et al. **Automated Machine Learning for Recommendations: Fundamentals and Advances.** WWW, 2022.
+
 
 ## Surveys
 
@@ -184,6 +189,13 @@ the user with the recommendations, but also make the user aware why such items a
 * Wang et al. **Deep Meta-learning in Recommendation Systems: A Survey.** arXiv, 2022.
 
 * Zhang et al. **A Survey on Privacy-preserving Federated Recommender Systems (In Chinese).** AAS, 2022.[[pdf]](http://www.aas.net.cn/article/doi/10.16383/j.aas.c211189)
+
+* Wu et al. **A Survey on Large Language Models for Recommendation.** arXiv, 2023.
+
+* Lin et al. **How Can Recommender Systems Benefit from Large Language Models: A Survey.** arXiv, 2023.
+
+
+
 
 
 ## General Recommender System
@@ -1113,6 +1125,25 @@ the user with the recommendations, but also make the user aware why such items a
 * Rong et al. **Poisoning Deep Learning based Recommender Model in Federated Learning Scenarios.** IJCAI, 2022.
 
 * Zhang et al. **LightFR: Lightweight Federated Recommendation with Privacy-preserving Matrix Factorization.** ACM TOIS, 2023.
+
+
+## LLM for RS
+
+* Wu et al. **A Survey on Large Language Models for Recommendation.** arXiv, 2023.
+
+* Lin et al. **How Can Recommender Systems Benefit from Large Language Models: A Survey.** arXiv, 2023.
+
+* Gao et al. **Chat-REC: Towards Interactive and Explainable LLMs-Augmented Recommender System.** arXiv, 2023.
+
+* Li et al. **GPT4Rec: A Generative Framework for Personalized Recommendation and User Interests Interpretation.** arXiv, 2003.
+
+* Dai et al. **Uncovering ChatGPT's Capabilities in Recommender Systems.** arXiv, 2023.
+
+* Liu et al. **Is ChatGPT a Good Recommender? A Preliminary Study.** arXiv, 2023.
+
+* Zhang et al. **Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation.** arXiv, 2023.
+
+
 
 ## Star History
 
