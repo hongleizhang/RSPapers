@@ -1145,6 +1145,18 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Hou et al. **Large Language Models are Zero-Shot Rankers for Recommender Systems.** arXiv, 2023.
 
+* Wang et al. **Generative Recommendation: Towards Next-generation Recommender Paradigm.** arXiv, 2023.
+
+* Bao et al. **TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation.** arXiv, 2023.
+
+* Wang et al. **Zero-Shot Next-Item Recommendation using Large Pretrained Language Models.** arXiv, 2023.
+
+* Luke et al. **Leveraging Large Language Models in Conversational Recommender Systems.** arXiv, 2023.
+
+* Yang et al. **PALR: Personalization Aware LLMs for Recommendation.** arXiv, 2023.
+
+
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=hongleizhang/RSPapers&type=Date)](https://star-history.com/#hongleizhang/RSPapers&Date)
