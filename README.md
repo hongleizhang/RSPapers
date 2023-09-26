@@ -534,6 +534,11 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Choi et al. **LT-OCF: Learnable-Time ODE-based Collaborative Filtering.** CIKM, 2021.
 
+* Yun et al. **Multi Datasource LTV User Representation (MDLUR).** KDD, 2023.
+
+* Liu et al. **CT4Rec: Simple yet Effective Consistency Training for Sequential Recommendation.** KDD, 2023.
+
+* Xi et al. **On-Device Integrated Re-Ranking with Heterogeneous Behavior Modeling.** KDD, 2023.
 
 
 ## Cold Start Problem in Recommender System
@@ -734,6 +739,9 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Weinan et al. **Deep Interest with Hierarchical Attention Network for Click-Through Rate Prediction.** SIGIR, 2020
 
+* Wang et al. **BERT4CTR: An Efficient Framework to Combine Pre-trained Language Model with Non-Textual Features for CTR Prediction.** KDD, 2023
+
+* Min et al. **Scenario-Adaptive Feature Interaction for Click-Through Rate Prediction.** KDD, 2023
 
 
 ## Knowledge Graph for RS
@@ -905,9 +913,14 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Yufei et al. **MTBRN: Multiplex Target-Behavior Relation Enhanced Network for Click-Through Rate Prediction.** CIKM, 2020.
 
+* Xu et al. **Multi-Channel Integrated Recommendation with Exposure Constraints.** KDD, 2023.
+
 [Baidu]
 
 * Xiangyu et al. **Whole-Chain Recommendations.** CIKM, 2020.
+
+[ByteDance]
+* Chao et al. **Graph-Based Model-Agnostic Data Subsampling for Recommendation Systems.** KDD, 2023.
 
 [Criteo]
 
@@ -918,6 +931,8 @@ the user with the recommendations, but also make the user aware why such items a
 * Xinran et al. **Practical Lessons from Predicting Clicks on Ads at Facebook.** KDD, 2014.
 
 * Maxim et al. **Deep Learning Recommendation Model for Personalization and Recommendation Systems.** arXiv, 2019.
+
+* Li et al. **AdaTT: Adaptive Task-to-Task Fusion Network for Multitask Learning in Recommendations.** KDD, 2023.
 
 [Google]
 
@@ -936,6 +951,12 @@ the user with the recommendations, but also make the user aware why such items a
 * Alex et al. **Fairness in Recommendation Ranking through Pairwise Comparisons.** KDD, 2019.
 
 * Xinyang et al. **Sampling-Bias-Corrected Neural Modeling for Large Corpus Item Recommendations.** RecSys, 2019.
+
+* Wang et al. **Fresh Content Needs More Attention: Multi-Funnel Fresh Content Recommendation.** KDD, 2023.
+
+* Zhang et al. **Empowering Long-Tail Item Recommendation through Cross Decoupling Network.** KDD, 2023.
+
+* Tang et al. **Improving Training Stability for Multitask Ranking Models in Recommender Systems.** KDD, 2023.
 
 [Huawei]
 
@@ -1024,6 +1045,10 @@ the user with the recommendations, but also make the user aware why such items a
 * Ruobing et al. **Deep Feedback Network for Recommendation.** IJCAI, 2020
 
 * Tongwen et al. **GateNet:Gating-Enhanced Deep Network for Click-Through Rate Prediction.** arXiv, 2020.
+
+[X (Twitter)]
+
+* Zhang et al. **TwHIN-BERT: A Socially-Enriched Pre-trained Language Model for Multilingual Tweet Representations at Twitter.** KDD, 2023.
 
 [Yahoo]
 
