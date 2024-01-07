@@ -282,9 +282,13 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Ruining et al. **Translation-based Recommendation.** RecSys, 2017.
 
+* Wu et al. **Large-scale Collaborative Ranking in Near-Linear Time.** KDD, 2017.
+
 * Rajiv et al. **Translation-based factorization machines for sequential recommendation.** RecSys 2018.
 
 * Gao et al. **BiNE: Bipartite Network Embedding.** SIGIR, 2018.
+
+* Wu et al. **Sql-rank: A listwise approach to collaborative ranking.** ICML, 2018.
 
 * Xiangnan et al. **Adversarial Personalized Ranking for Recommendation.** SIGIR, 2018.
 
@@ -530,6 +534,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Xin et al. **CFM: Convolutional factorization machines for context-aware recommendation.** IJCAI, 2019.
 
+* Wu et al. **SSE-PT: Sequential Recommendation Via Personalized Transformer.** RecSys, 2020.
+
 * Huafeng et al. **Deep Global and Local Generative Model for Recommendation.** WWW, 2020.
 
 * Choi et al. **LT-OCF: Learnable-Time ODE-based Collaborative Filtering.** CIKM, 2021.
@@ -759,6 +765,8 @@ the user with the recommendations, but also make the user aware why such items a
 * Xiang et al. **Reinforced Negative Sampling over Knowledge Graph for Recommendation.** WWW, 2020.
 
 * Wang et al. **CKAN: Collaborative Knowledge-aware Attentive Network for Recommender Systems.** SIGIR, 2020.
+
+* Wu et al. **Graph dna: Deep neighborhood aware graph encoding for collaborative filtering.** AISTAT, 2020.
 
 
 ## Review based RS
