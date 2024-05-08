@@ -1194,7 +1194,7 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Yang et al. **PALR: Personalization Aware LLMs for Recommendation.** arXiv, 2023.
 
-
+* Li et al. **CALRec: Contrastive Alignment of Generative LLMs for Sequential Recommendation.**  arXiv, 2024.
 
 ## Star History
 
