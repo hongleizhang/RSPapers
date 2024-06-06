@@ -865,6 +865,10 @@ the user with the recommendations, but also make the user aware why such items a
 
 ## Industrial RS
 
+[Adobe]
+
+* Chaudhari et al. **Distributional Off-Policy Evaluation for Slate Recommendations** AAAI, 2018.
+
 [Airbnb]
 
 * Mihajlo et al. **Real-time Personalization using Embeddings for Search Ranking at Airbnb.** KDD.2018.
