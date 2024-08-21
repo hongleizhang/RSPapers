@@ -100,6 +100,9 @@ the user with the recommendations, but also make the user aware why such items a
 
 ## Surveys
 
+* Arpita et al. ** Exploring the Impact of Large Language Models on
+Recommender Systems: An Extensive Review ** ArXiv, 2024.
+
 * Burke et al. **Hybrid Recommender Systems: Survey and Experiments.** USER MODEL USER-ADAP, 2002.
 
 * Adomavicius et al. **Toward the next generation of recommender systems: A survey of the state-of-the-art and possible extensions.** IEEE TKDE, 2005.
