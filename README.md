@@ -652,6 +652,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Liu et al. **Discrete Listwise Collaborative Filtering for Fast Recommendation** SDM, 2021
 
+* Huang et al. **Balancing Relevance and Diversity in k-Maximum Inner Product Search.** VLDBJ, 2026.
+
 
 ## EE in RS
 
