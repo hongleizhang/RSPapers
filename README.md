@@ -315,6 +315,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Rendle et al. **Neural Collaborative Filtering vs. Matrix Factorization Revisited.** arXiv, 2020.
 
+* Zhu et al. **Mitigating Popularity Bias in Recommendation with Global Listwise Learning and Progressive Bi-Weighting.** TOIS, 2026.
+
 
 ## Social Recommender System
 
@@ -551,6 +553,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Xi et al. **On-Device Integrated Re-Ranking with Heterogeneous Behavior Modeling.** KDD, 2023.
 
+* Jin et al. **Invariant Feature Learning for Counterfactual Watch-time Prediction in Video Recommendation.** AAAI, 2026.
+
 
 ## Cold Start Problem in Recommender System
 
@@ -651,6 +655,8 @@ the user with the recommendations, but also make the user aware why such items a
 * Zhang et al. **Deep Pairwise Hashing for Cold-start Recommendation.** TKDE, 2020.
 
 * Liu et al. **Discrete Listwise Collaborative Filtering for Fast Recommendation** SDM, 2021
+
+* Cheng et al. **RPE4Rec: Enhancing Dynamic Node Retrieval with Efficient Relative Position Encoding for Recommendation Systems.** WSDM, 2026.
 
 
 ## EE in RS
