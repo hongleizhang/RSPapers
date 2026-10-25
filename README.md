@@ -1238,6 +1238,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Li et al. **CALRec: Contrastive Alignment of Generative LLMs for Sequential Recommendation.**  arXiv, 2024.
 
+* Wu et al. **DuoLM: Fast and Effective Personalized Recommendation with Language Models.** arXiv, 2026. [[pdf]](https://arxiv.org/pdf/2610.24481)
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=hongleizhang/RSPapers&type=Date)](https://star-history.com/#hongleizhang/RSPapers&Date)
